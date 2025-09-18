@@ -1,0 +1,44 @@
+ID,start,end,code,label/text
+1,99.0,210.0,Build Up,
+2,177.0,187.0,DEF Shot,
+3,216.0,230.0,Build Up,
+4,220.0,233.0,Defend the box,
+5,229.0,236.0,Defend the box,
+6,229.0,239.0,DEF Shot,Lamp Alexander
+7,238.0,250.0,Defend the box,
+8,239.0,254.0,DEF Goal,Dabian Adam
+9,253.0,268.0,DEF Goal,Haugvik Lasse
+10,259.0,304.0,Fase 2,
+11,314.0,316.0,Active,
+12,317.0,318.0,Dead,
+13,321.0,321.0,1st Half,
+14,323.0,327.0,Off Kick Off,
+15,328.0,332.0,Def Kick Off,
+16,329.0,329.0,2nd Half,
+17,333.0,341.0,HIK sub,
+18,334.0,340.0,Opponent sub,
+19,343.0,352.0,Breakthrough,
+20,348.0,356.0,Afslutningsspillet,
+21,351.0,359.0,OFF Transition,
+22,353.0,368.0,OFF Shot,Lang Frederik
+23,367.0,382.0,OFF Goal,Hassan Ahmed
+24,370.0,378.0,OFF Corner,
+25,380.0,388.0,OFF Throw In,
+26,384.0,392.0,OFF Free Kick,
+27,388.0,397.0,OFF Penalty,
+28,392.0,401.0,OFF Goal Kick,
+29,397.0,406.0,Injury,
+30,399.0,414.0,Yellow Card (HIK),Beck Bertram
+31,403.0,411.0,Offside,
+32,405.0,420.0,Red Card (HIK),Uzbek Elias
+33,418.0,426.0,Low,
+34,422.0,430.0,Medium,
+35,427.0,435.0,High,
+36,430.0,439.0,DEF Transition,
+37,435.0,443.0,DEF Corner,
+38,440.0,447.0,DEF Throw In,
+39,443.0,451.0,DEF Free Kick,
+40,447.0,455.0,DEF Penalty,
+41,449.0,464.0,Yellow Card (Opp),Dudek Andreas
+42,450.0,459.0,DEF Goal Kick,
+43,455.0,470.0,Red Card (Opp),Karlsen Rasmus
