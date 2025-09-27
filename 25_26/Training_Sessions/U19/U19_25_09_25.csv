@@ -1,0 +1,138 @@
+ID,start,end,code
+1,16.0,4438.0,Session (S)
+2,31.0,971.0,Warm Up (S)
+3,79.0,99.0,Kick off
+4,290.0,300.0,Træningsstart
+5,974.0,2170.0,Block 1 (S)
+6,975.0,1077.0,Organization
+7,1075.0,1121.0,Coaching
+8,1094.0,1094.0,Split 1
+9,1122.0,1280.0,Active
+10,1280.0,1313.0,Coaching
+11,1314.0,1436.0,Active
+12,1436.0,1483.0,Coaching
+13,1484.0,1622.0,Active
+14,1568.0,1588.0,Gennembrudsspil  (-)
+15,1587.0,1607.0,Gennembrudsspil  (-)
+16,1615.0,1635.0,Gennembrudsspil  (-)
+17,1622.0,1667.0,Coaching
+18,1668.0,1819.0,Active
+19,1714.0,1734.0,Gennembrudsspil (+)
+20,1738.0,1758.0,Gennembrudsspil  (-)
+21,1801.0,1821.0,Gennembrudsspil (+)
+22,1813.0,1856.0,Coaching
+23,1857.0,1986.0,Active
+24,1987.0,2018.0,Coaching
+25,2018.0,2168.0,Active
+26,2074.0,2094.0,Gennembrudsspil (+)
+27,2101.0,2121.0,Gennembrudsspil (+)
+28,2143.0,2163.0,Gennembrudsspil (+)
+29,2154.0,2174.0,Gennembrudsspil (+)
+30,2172.0,3294.0,Block 2 (S)
+31,2173.0,2390.0,Organization
+32,2391.0,2444.0,Coaching
+33,2444.0,2536.0,Active
+34,2454.0,2464.0,Shot (Blocked/Off target)
+35,2465.0,2485.0,Opbygningsspil (+)
+36,2472.0,2492.0,Gennembrudsspil (+)
+37,2477.0,2487.0,Save
+38,2482.0,2502.0,Afslutningsspil (-)
+39,2484.0,2504.0,Opbygningsspil (+)
+40,2493.0,2513.0,Gennembrudsspil  (-)
+41,2524.0,2544.0,Afslutningsspil (-)
+42,2528.0,2538.0,Save
+43,2536.0,2580.0,Coaching
+44,2575.0,2595.0,Opbygningsspil (+)
+45,2581.0,2714.0,Active
+46,2585.0,2605.0,Afslutningsspil (+)
+47,2590.0,2600.0,Goal
+48,2601.0,2621.0,Opbygningsspil (-)
+49,2624.0,2644.0,Afslutningsspil (-)
+50,2628.0,2638.0,Save
+51,2636.0,2656.0,Opbygningsspil (-)
+52,2654.0,2674.0,Opbygningsspil (-)
+53,2670.0,2690.0,Gennembrudsspil (+)
+54,2671.0,2691.0,Afslutningsspil (+)
+55,2676.0,2686.0,Goal
+56,2700.0,2720.0,Afslutningsspil (-)
+57,2701.0,2711.0,Shot (Blocked/Off target)
+58,2702.0,2712.0,Shot (Blocked/Off target)
+59,2707.0,2717.0,Save
+60,2707.0,2717.0,Save
+61,2715.0,2751.0,Coaching
+62,2751.0,2872.0,Active
+63,2762.0,2782.0,Afslutningsspil (-)
+64,2765.0,2775.0,Save
+65,2778.0,2798.0,Opbygningsspil (-)
+66,2813.0,2833.0,Gennembrudsspil (+)
+67,2818.0,2828.0,Save
+68,2841.0,2861.0,Opbygningsspil (-)
+69,2858.0,2878.0,Opbygningsspil (-)
+70,2872.0,2963.0,Active
+71,2878.0,2898.0,Opbygningsspil (-)
+72,2882.0,2892.0,Save
+73,2885.0,2895.0,Save
+74,2927.0,2947.0,Opbygningsspil (+)
+75,2946.0,2956.0,Save
+76,2946.0,2966.0,Gennembrudsspil  (-)
+77,2964.0,3021.0,Coaching
+78,3021.0,3293.0,Active
+79,3032.0,3052.0,Opbygningsspil (-)
+80,3037.0,3057.0,Afslutningsspil (-)
+81,3041.0,3051.0,Shot (Blocked/Off target)
+82,3061.0,3081.0,Opbygningsspil (+)
+83,3062.0,3082.0,Gennembrudsspil (+)
+84,3063.0,3083.0,Afslutningsspil (+)
+85,3069.0,3079.0,Goal
+86,3094.0,3114.0,Opbygningsspil (+)
+87,3106.0,3126.0,Gennembrudsspil (+)
+88,3106.0,3126.0,Afslutningsspil (+)
+89,3112.0,3122.0,Goal
+90,3159.0,3169.0,Shot (Blocked/Off target)
+91,3186.0,3206.0,Opbygningsspil (-)
+92,3232.0,3252.0,Afslutningsspil (-)
+93,3237.0,3247.0,Shot (Blocked/Off target)
+94,3269.0,3289.0,Opbygningsspil (+)
+95,3277.0,3297.0,Afslutningsspil (+)
+96,3282.0,3292.0,Goal
+97,3295.0,4438.0,Block 3 (S)
+98,3296.0,3417.0,Organization
+99,3418.0,3536.0,Coaching
+100,3537.0,3930.0,Active
+101,3556.0,3576.0,Opbygningsspil (-)
+102,3562.0,3582.0,Gennembrudsspil  (-)
+103,3572.0,3592.0,Afslutningsspil (+)
+104,3576.0,3586.0,Goal
+105,3606.0,3626.0,Gennembrudsspil  (-)
+106,3676.0,3696.0,Gennembrudsspil  (-)
+107,3689.0,3709.0,Opbygningsspil (+)
+108,3689.0,3709.0,Gennembrudsspil (+)
+109,3707.0,3727.0,Afslutningsspil (-)
+110,3711.0,3721.0,Shot (Blocked/Off target)
+111,3724.0,3744.0,Opbygningsspil (+)
+112,3773.0,3793.0,Opbygningsspil (+)
+113,3786.0,3806.0,Opbygningsspil (+)
+114,3790.0,3810.0,Gennembrudsspil (+)
+115,3833.0,3853.0,Gennembrudsspil (+)
+116,3837.0,3857.0,Afslutningsspil (-)
+117,3842.0,3852.0,Save
+118,3909.0,3929.0,Opbygningsspil (-)
+119,3914.0,3934.0,Gennembrudsspil  (-)
+120,3931.0,4052.0,Coaching
+121,4052.0,4436.0,Active
+122,4074.0,4094.0,Opbygningsspil (+)
+123,4114.0,4134.0,Gennembrudsspil  (-)
+124,4188.0,4198.0,Save
+125,4219.0,4239.0,Opbygningsspil (+)
+126,4237.0,4247.0,Save
+127,4277.0,4297.0,Afslutningsspil (-)
+128,4282.0,4292.0,Shot (Blocked/Off target)
+129,4295.0,4315.0,Opbygningsspil (+)
+130,4307.0,4327.0,Gennembrudsspil (+)
+131,4308.0,4328.0,Afslutningsspil (+)
+132,4312.0,4322.0,Save
+133,4314.0,4324.0,Goal
+134,4365.0,4375.0,Shot (Blocked/Off target)
+135,4380.0,4400.0,Gennembrudsspil (+)
+136,4385.0,4395.0,Save
+137,4489.0,4499.0,Træningsslut
