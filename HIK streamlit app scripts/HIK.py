@@ -4,12 +4,22 @@ import requests
 import base64
 import plotly.graph_objects as go
 
+# ------------------------------
 # Cache helper functions
+# ------------------------------
 @st.cache_data
 def get_base64_of_bin_file(bin_file):
     response = requests.get(bin_file)
     data = response.content
     return base64.b64encode(data).decode()
+
+@st.cache_data
+def load_csv_from_github(url):
+    try:
+        return pd.read_csv(url)
+    except Exception as e:
+        st.error(f"Could not load {url}. Error: {e}")
+        return None
 
 # Background styling
 def set_png_as_page_bg(png_file):
@@ -25,37 +35,25 @@ def set_png_as_page_bg(png_file):
     '''
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# Fetch CSV from GitHub API or raw link
+# Fetch available files from GitHub folder
 @st.cache_data
-def load_csv_from_github(url):
-    try:
-        return pd.read_csv(url)
-    except Exception as e:
-        st.error(f"Could not load {url}. Error: {e}")
-        return None
-
-# Fetch all available files in a folder using GitHub API
-@st.cache_data
-def get_available_files(team_choice):
-    api_url = f"https://api.github.com/repos/Vangelis19/DBU-Divisionen/contents/25_26/Matchdays/{team_choice}"
-    response = requests.get(api_url)
+def get_available_files_from_github(folder_url):
+    response = requests.get(folder_url)
     if response.status_code == 200:
         files = response.json()
-        # Only keep files like #1.csv, #2.csv etc.
-        csv_files = [f["name"] for f in files if f["name"].endswith(".csv") and f["name"].startswith("#")]
+        csv_files = [f["name"] for f in files if f["name"].endswith(".csv")]
         return csv_files
     else:
-        st.error(f"Could not access GitHub API for {team_choice}. Error code: {response.status_code}")
+        st.error(f"Could not access GitHub folder. Error code: {response.status_code}")
         return []
 
+# ------------------------------
 # Page 1: Match Analysis Stats
+# ------------------------------
 def match_analysis_page():
-    st.subheader("Match Analysis Stats")
+    st.subheader("📊 Match Analysis Stats")
 
-    # Team dropdown
     team_choice = st.selectbox("Select Team", ["U17", "U19"])
-
-    # Round dropdown
     round_options = list(range(1, 31)) + ["All rounds"]
     round_choice = st.selectbox("Select Round", round_options)
 
@@ -63,8 +61,9 @@ def match_analysis_page():
 
     dfs = []
     if round_choice == "All rounds":
-        # Get actual available files from GitHub API
-        available_files = get_available_files(team_choice)
+        available_files = get_available_files_from_github(
+            f"https://api.github.com/repos/Vangelis19/DBU-Divisionen/contents/25_26/Matchdays/{team_choice}"
+        )
         if not available_files:
             st.warning("No CSV files found in the GitHub repo for this team.")
             return
@@ -83,7 +82,6 @@ def match_analysis_page():
             st.warning("No valid CSV files could be loaded.")
             return
     else:
-        # Specific round
         csv_url = f"{base_url}/%23{round_choice}.csv"
         df = load_csv_from_github(csv_url)
         if df is not None:
@@ -103,7 +101,9 @@ def match_analysis_page():
     dead_times = compute_sequence_time(combined_df, "Dead")
 
     if round_choice == "All rounds":
-        n_files = len(get_available_files(team_choice))
+        n_files = len(get_available_files_from_github(
+            f"https://api.github.com/repos/Vangelis19/DBU-Divisionen/contents/25_26/Matchdays/{team_choice}"
+        ))
         active_times = active_times / n_files
         dead_times = dead_times / n_files
 
@@ -128,161 +128,160 @@ def match_analysis_page():
     ))
 
     fig1.update_layout(
-        title="Total Active vs Dead Sequence Time per Round (minutes)",
+        title="⏱️ Total Active vs Dead Sequence Time per Round (minutes)",
         xaxis_title="Round",
         yaxis_title="Time (minutes)",
         barmode="group",
         template="plotly_white"
     )
-
     st.plotly_chart(fig1)
 
-    # --- Visualization 2: Percentage of Active vs Dead Time ---
-    total_times = active_times.add(dead_times, fill_value=0)
-    active_pct = [100 * active_times.get(r, 0)/total_times.get(r, 1) for r in rounds]
-    dead_pct = [100 * dead_times.get(r, 0)/total_times.get(r, 1) for r in rounds]
+# ------------------------------
+# Page 2: Training Analysis Stats
+# ------------------------------
+def training_analysis_page():
+    st.subheader("📈 Training Analysis Stats")
 
-    fig2 = go.Figure()
-    fig2.add_trace(go.Bar(
-        x=rounds,
-        y=active_pct,
-        name="Active",
-        marker_color="green",
-        text=[f"{round(p,1)}%" for p in active_pct],
-        textposition='inside'
-    ))
-    fig2.add_trace(go.Bar(
-        x=rounds,
-        y=dead_pct,
-        name="Dead",
-        marker_color="lightcoral",
-        text=[f"{round(p,1)}%" for p in dead_pct],
-        textposition='inside'
-    ))
+    team = st.selectbox("Select a team", ["U17", "U19"])
 
-    fig2.update_layout(
-        title="Percentage of Active vs Dead Sequence Time per Round",
-        xaxis_title="Round",
-        yaxis_title="Percentage (%)",
-        barmode="stack",
+    # List CSV files in the selected folder
+    api_url = f"https://api.github.com/repos/Vangelis19/DBU-Divisionen/contents/25_26/Training_Sessions/{team}"
+    csv_files = get_available_files_from_github(api_url)
+
+    if not csv_files:
+        st.warning("No CSV files found for this team.")
+        return
+
+    # File selection
+    file_choice = st.selectbox("Select a file", csv_files)
+    base_url = f"https://raw.githubusercontent.com/Vangelis19/DBU-Divisionen/main/25_26/Training_Sessions/{team}"
+    csv_url = f"{base_url}/{file_choice.replace(' ', '%20')}"
+    df = load_csv_from_github(csv_url)
+
+    if df is not None:
+        st.dataframe(df)
+        training_visualizations(df)
+
+# ------------------------------
+# Training visualizations helper
+# ------------------------------
+def training_visualizations(df):
+    st.subheader("⏱️ Block Durations (minutes)")
+    blocks = ["Warm Up (S)", "Block 1 (S)", "Block 2 (S)", "Block 3 (S)", "Block 4 (S)", "Block 5 (S)", "Individual (S)"]
+
+    durations_minutes = {}
+    for block in blocks:
+        block_df = df[df["code"] == block].copy()
+        if not block_df.empty:
+            block_df["duration_sec"] = block_df["end"] - block_df["start"]
+            durations_minutes[block] = block_df["duration_sec"].sum() / 60
+        else:
+            durations_minutes[block] = 0
+
+    session_df = df[df["code"] == "Session (S)"].copy()
+    session_minutes = 0
+    if not session_df.empty:
+        session_df["duration_sec"] = session_df["end"] - session_df["start"]
+        session_minutes = session_df["duration_sec"].sum() / 60
+
+    # Pie chart
+    fig_pie = go.Figure(data=[go.Pie(
+        labels=list(durations_minutes.keys()),
+        values=list(durations_minutes.values()),
+        hole=.3
+    )])
+    fig_pie.update_layout(title="🥧 Distribution of Training Blocks (minutes)")
+
+    # Bar chart total vs session
+    fig_bar = go.Figure(data=[
+        go.Bar(name="Sum of Blocks", x=["Total"], y=[sum(durations_minutes.values())]),
+        go.Bar(name="Session", x=["Total"], y=[session_minutes])
+    ])
+    fig_bar.update_layout(title="📊 Total Training Time: Sum of Blocks vs Session", barmode="group")
+
+    col1, col2 = st.columns(2)
+    with col1:
+        st.plotly_chart(fig_pie, use_container_width=True)
+    with col2:
+        st.plotly_chart(fig_bar, use_container_width=True)
+
+    # Organization vs Coaching vs Active
+    st.subheader("📊 Organization vs Coaching vs Active")
+    categories = ["Organization", "Coaching", "Active"]
+    category_minutes = {}
+    for cat in categories:
+        cat_df = df[df["code"] == cat].copy()
+        if not cat_df.empty:
+            cat_df["duration_sec"] = cat_df["end"] - cat_df["start"]
+            category_minutes[cat] = cat_df["duration_sec"].sum() / 60
+        else:
+            category_minutes[cat] = 0
+
+    fig_cat = go.Figure(go.Bar(
+        x=list(category_minutes.keys()),
+        y=list(category_minutes.values()),
+        text=[f"{round(v,1)} min" for v in category_minutes.values()],
+        textposition="auto",
+        marker_color=["orange", "blue", "green"]
+    ))
+    fig_cat.update_layout(title="📊 Organization vs Coaching vs Active Time (minutes)", yaxis_title="Minutes", template="plotly_white")
+    st.plotly_chart(fig_cat, use_container_width=True)
+
+    # Grouped bar chart per block — FIXED
+    st.subheader("📊 Organization, Coaching, and Active per Block")
+    data_by_block = {cat: [] for cat in categories}
+
+    for i, block in enumerate(blocks):
+        # Find start index of this block
+        block_indices = df.index[df["code"] == block].tolist()
+        if not block_indices:
+            for cat in categories:
+                data_by_block[cat].append(0)
+            continue
+
+        start_idx = block_indices[0]
+        # Determine end index (either next block or end of dataframe)
+        if i + 1 < len(blocks):
+            next_block_indices = df.index[df["code"] == blocks[i + 1]].tolist()
+            end_idx = next_block_indices[0] if next_block_indices else len(df)
+        else:
+            end_idx = len(df)
+
+        block_df = df.iloc[start_idx:end_idx].copy()
+        block_df["duration_sec"] = block_df["end"] - block_df["start"]
+
+        for cat in categories:
+            cat_duration = block_df[block_df["code"] == cat]["duration_sec"].sum() / 60
+            data_by_block[cat].append(cat_duration)
+
+    fig_grouped = go.Figure()
+    for cat in categories:
+        fig_grouped.add_trace(go.Bar(
+            x=blocks,
+            y=data_by_block[cat],
+            name=cat
+        ))
+
+    fig_grouped.update_layout(
+        title="📊 Organization, Coaching, and Active Time per Block (minutes)",
+        yaxis_title="Minutes",
+        barmode="group",
         template="plotly_white"
     )
+    st.plotly_chart(fig_grouped, use_container_width=True)
 
-    st.plotly_chart(fig2)
-
-    # --- Visualization 3: Active Time Distribution Pie Chart ---
-    def active_time_distribution(df):
-        sequence_codes = [
-            "Build Up", "Breakthrough", "Afslutningsspillet", "Off Transition",
-            "Defend the box", "Low", "Medium", "High", "Def Transition"
-        ]
-        active_df = df[df["code"].isin(sequence_codes)].copy()
-        active_df["DURATION"] = active_df["end"] - active_df["start"]
-
-        distribution = active_df.groupby("code")["DURATION"].sum()
-        distribution_minutes = distribution / 60
-
-        fig = go.Figure(
-            go.Pie(
-                labels=distribution_minutes.index,
-                values=distribution_minutes.values,
-                hoverinfo='label+percent+value',
-                textinfo='label+value',
-                textfont_size=14
-            )
-        )
-        fig.update_layout(
-            title="Active Time Distribution (minutes)",
-            template="plotly_white"
-        )
-
-        st.plotly_chart(fig)
-
-    active_time_distribution(combined_df)
-
-    # --- Visualization 4: On vs Off the Ball Total Time ---
-    def on_off_total_time(df):
-        on_ball_codes = ["Build Up", "Breakthrough", "Afslutningsspillet"]
-        off_ball_codes = ["Defend the box", "Low", "Medium", "High", "Def Transition"]
-
-        df["DURATION"] = df["end"] - df["start"]
-
-        on_ball_time = df[df["code"].isin(on_ball_codes)]["DURATION"].sum() / 60
-        off_ball_time = df[df["code"].isin(off_ball_codes)]["DURATION"].sum() / 60
-
-        fig = go.Figure(
-            go.Pie(
-                labels=["On the Ball", "Off the Ball"],
-                values=[on_ball_time, off_ball_time],
-                hoverinfo='label+percent+value',
-                textinfo='label+value',
-                textfont_size=14
-            )
-        )
-        fig.update_layout(title="On vs Off the Ball Total Time (minutes)", template="plotly_white")
-        st.plotly_chart(fig)
-
-    on_off_total_time(combined_df)
-
-    # --- Visualization 5: On the Ball Distribution Pie Chart ---
-    def on_ball_distribution(df):
-        on_ball_codes = ["Build Up", "Breakthrough", "Afslutningsspillet"]
-        df["DURATION"] = df["end"] - df["start"]
-        on_df = df[df["code"].isin(on_ball_codes)].copy()
-        distribution = on_df.groupby("code")["DURATION"].sum() / 60
-
-        fig = go.Figure(
-            go.Pie(
-                labels=distribution.index,
-                values=distribution.values,
-                hoverinfo='label+percent+value',
-                textinfo='label+value',
-                textfont_size=14
-            )
-        )
-        fig.update_layout(title="On the Ball Time Distribution (minutes)", template="plotly_white")
-        st.plotly_chart(fig)
-
-    on_ball_distribution(combined_df)
-
-    # --- Visualization 6: Off the Ball Distribution Pie Chart ---
-    def off_ball_distribution(df):
-        off_ball_codes = ["Defend the box", "Low", "Medium", "High", "Def Transition"]
-        df["DURATION"] = df["end"] - df["start"]
-        off_df = df[df["code"].isin(off_ball_codes)].copy()
-        distribution = off_df.groupby("code")["DURATION"].sum() / 60
-
-        fig = go.Figure(
-            go.Pie(
-                labels=distribution.index,
-                values=distribution.values,
-                hoverinfo='label+percent+value',
-                textinfo='label+value',
-                textfont_size=14
-            )
-        )
-        fig.update_layout(title="Off the Ball Time Distribution (minutes)", template="plotly_white")
-        st.plotly_chart(fig)
-
-    off_ball_distribution(combined_df)
-
-# Page 2: Training Analysis Stats
-def training_analysis_page():
-    st.subheader("Training Analysis Stats")
-    st.write("(To be implemented)")
-
+# ------------------------------
 # Page 3: Player Data Explorer
+# ------------------------------
 def player_data_page():
-    st.subheader("Player Data Explorer")
+    st.subheader("🧑‍💻 Player Data Explorer")
 
     csv_file = st.file_uploader("Upload a CSV file", type=["csv"])
     if csv_file is not None:
         df = pd.read_csv(csv_file)
-
         df["TEAM_FILTER"] = df["TEAMNAME"].str.replace("U17", "", regex=False).str.strip()
         team_options = ["ALL"] + sorted(df["TEAM_FILTER"].unique().tolist())
         team_choice = st.selectbox("Select Team", team_options)
-
         position_options = ["ALL"] + sorted(df["POSITION"].unique().tolist())
         position_choice = st.selectbox("Select Position", position_options)
 
@@ -294,12 +293,18 @@ def player_data_page():
 
         st.dataframe(filtered_df)
 
+# ------------------------------
 # Main App
+# ------------------------------
 def main():
-    st.title("Automated Report")
+    st.title("📑 Automated Report")
     set_png_as_page_bg("https://www.hik.dk/media/4216/korrekt-farve-logo-hik-maj-2025.png")
 
-    page = st.sidebar.selectbox("Select a page", ("Match Analysis Stats", "Training Analysis Stats", "Player Data Explorer"))
+    page = st.sidebar.selectbox("Select a page", (
+        "Match Analysis Stats",
+        "Training Analysis Stats",
+        "Player Data Explorer"
+    ))
 
     if page == "Match Analysis Stats":
         match_analysis_page()
