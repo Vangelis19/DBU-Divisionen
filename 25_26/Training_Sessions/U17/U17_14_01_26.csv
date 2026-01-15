@@ -1,0 +1,121 @@
+ID,start,end,code
+1,13.0,4503.0,Session (S)
+2,186.0,706.0,Warm Up (S)
+3,707.0,1936.0,Block 1 (S)
+4,707.0,826.0,Organization
+5,826.0,888.0,Active
+6,889.0,957.0,Coaching
+7,957.0,1069.0,Active
+8,1070.0,1108.0,Coaching
+9,1108.0,1218.0,Active
+10,1218.0,1249.0,Coaching
+11,1250.0,1364.0,Active
+12,1365.0,1446.0,Coaching
+13,1447.0,1569.0,Active
+14,1569.0,1604.0,Coaching
+15,1605.0,1716.0,Active
+16,1716.0,1758.0,Coaching
+17,1758.0,1879.0,Active
+18,1880.0,1935.0,Coaching
+19,1936.0,3412.0,Block 2 (S)
+20,1937.0,2129.0,Organization
+21,2129.0,2186.0,Active
+22,2136.0,2156.0,Gennembrudsspil  (-)
+23,2187.0,2239.0,Coaching
+24,2240.0,2309.0,Active
+25,2251.0,2271.0,Gennembrudsspil  (-)
+26,2260.0,2280.0,Gennembrudsspil (+)
+27,2286.0,2306.0,Gennembrudsspil  (-)
+28,2310.0,2359.0,Coaching
+29,2359.0,2559.0,Active
+30,2385.0,2405.0,Gennembrudsspil (+)
+31,2430.0,2450.0,Gennembrudsspil (+)
+32,2475.0,2495.0,Opbygningsspil (-)
+33,2509.0,2529.0,Gennembrudsspil (+)
+34,2560.0,2637.0,Coaching
+35,2637.0,2758.0,Active
+36,2643.0,2663.0,Gennembrudsspil  (-)
+37,2654.0,2674.0,Gennembrudsspil (+)
+38,2670.0,2690.0,Gennembrudsspil (+)
+39,2697.0,2717.0,Gennembrudsspil (+)
+40,2709.0,2729.0,Gennembrudsspil  (-)
+41,2744.0,2764.0,Gennembrudsspil (+)
+42,2759.0,2817.0,Coaching
+43,2817.0,2967.0,Active
+44,2822.0,2842.0,Gennembrudsspil (+)
+45,2875.0,2895.0,Gennembrudsspil  (-)
+46,2904.0,2924.0,Gennembrudsspil (+)
+47,2912.0,2932.0,Erobringsspil (+)
+48,2921.0,2941.0,Gennembrudsspil (+)
+49,2922.0,2942.0,Opbygningsspil (+)
+50,2935.0,2955.0,Gennembrudsspil  (-)
+51,2945.0,2965.0,Opbygningsspil (+)
+52,2946.0,2966.0,Gennembrudsspil (+)
+53,2968.0,3019.0,Coaching
+54,3019.0,3108.0,Active
+55,3047.0,3067.0,Opbygningsspil (-)
+56,3066.0,3086.0,Opbygningsspil (+)
+57,3068.0,3088.0,Gennembrudsspil (+)
+58,3108.0,3115.0,Coaching
+59,3116.0,3159.0,Active
+60,3133.0,3153.0,Gennembrudsspil (+)
+61,3159.0,3194.0,Coaching
+62,3194.0,3299.0,Active
+63,3224.0,3244.0,Gennembrudsspil (+)
+64,3299.0,3319.0,Opbygningsspil (+)
+65,3299.0,3302.0,Coaching
+66,3302.0,3322.0,Gennembrudsspil (+)
+67,3303.0,3316.0,Active
+68,3316.0,3322.0,Coaching
+69,3323.0,3413.0,Active
+70,3341.0,3361.0,Opbygningsspil (+)
+71,3344.0,3364.0,Gennembrudsspil (+)
+72,3361.0,3381.0,Gennembrudsspil  (-)
+73,3391.0,3411.0,Offensiv omstilling
+74,3414.0,4503.0,Block 3 (S)
+75,3414.0,3653.0,Organization
+76,3650.0,3661.0,Goal
+77,3654.0,3939.0,Active
+78,3655.0,3666.0,Goal
+79,3664.0,3674.0,Save
+80,3677.0,3687.0,Shot (Blocked/Off target)
+81,3686.0,3696.0,Save
+82,3693.0,3704.0,Goal
+83,3711.0,3721.0,Shot (Blocked/Off target)
+84,3717.0,3727.0,Shot (Blocked/Off target)
+85,3747.0,3757.0,Shot (Blocked/Off target)
+86,3794.0,3804.0,Shot (Blocked/Off target)
+87,3816.0,3826.0,Shot (Blocked/Off target)
+88,3827.0,3837.0,Shot (Blocked/Off target)
+89,3848.0,3858.0,Shot (Blocked/Off target)
+90,3853.0,3863.0,Save
+91,3858.0,3868.0,Save
+92,3893.0,3904.0,Goal
+93,3972.0,3974.0,Active
+94,3974.0,4013.0,Coaching
+95,4013.0,4503.0,Active
+96,4015.0,4026.0,Goal
+97,4024.0,4034.0,Save
+98,4061.0,4071.0,Save
+99,4073.0,4083.0,Shot (Blocked/Off target)
+100,4080.0,4090.0,Save
+101,4100.0,4110.0,Save
+102,4111.0,4121.0,Shot (Blocked/Off target)
+103,4140.0,4151.0,Goal
+104,4147.0,4158.0,Goal
+105,4189.0,4199.0,Shot (Blocked/Off target)
+106,4255.0,4266.0,Goal
+107,4284.0,4294.0,Save
+108,4287.0,4307.0,Gennembrudsspil (+)
+109,4294.0,4304.0,Save
+110,4304.0,4315.0,Goal
+111,4339.0,4350.0,Goal
+112,4383.0,4393.0,Save
+113,4388.0,4408.0,Gennembrudsspil (+)
+114,4398.0,4418.0,Gennembrudsspil (+)
+115,4434.0,4444.0,Shot (Blocked/Off target)
+116,4442.0,4452.0,Shot (Blocked/Off target)
+117,4448.0,4458.0,Save
+118,4449.0,4459.0,Shot (Blocked/Off target)
+119,4456.0,4466.0,Shot (Blocked/Off target)
+120,4475.0,4486.0,Goal
