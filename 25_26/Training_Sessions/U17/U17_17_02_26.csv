@@ -1,0 +1,144 @@
+ID,start,end,code
+1,257.0,4503.0,Session (S)
+2,344.0,606.0,Warm Up (S)
+3,606.0,1630.0,Block 1 (S)
+4,607.0,810.0,Organization
+5,711.0,711.0,Split 1
+6,810.0,879.0,Active
+7,880.0,922.0,Coaching
+8,922.0,1007.0,Active
+9,1008.0,1022.0,Coaching
+10,1022.0,1058.0,Active
+11,1059.0,1100.0,Coaching
+12,1100.0,1176.0,Active
+13,1177.0,1203.0,Coaching
+14,1203.0,1293.0,Active
+15,1294.0,1302.0,Coaching
+16,1302.0,1320.0,Active
+17,1321.0,1351.0,Coaching
+18,1352.0,1513.0,Active
+19,1513.0,1515.0,Coaching
+20,1516.0,1551.0,Active
+21,1551.0,1629.0,Coaching
+22,1630.0,2887.0,Block 2 (S)
+23,1631.0,1799.0,Organization
+24,1799.0,1873.0,Active
+25,1873.0,1934.0,Coaching
+26,1935.0,1937.0,Active
+27,1937.0,1952.0,Coaching
+28,1952.0,1970.0,Active
+29,1971.0,1975.0,Coaching
+30,1975.0,1988.0,Active
+31,1988.0,1995.0,Coaching
+32,1996.0,2055.0,Active
+33,2001.0,2021.0,Forsvarsspil (+)
+34,2043.0,2063.0,Forsvarsspil (+)
+35,2055.0,2102.0,Coaching
+36,2103.0,2158.0,Active
+37,2110.0,2130.0,Forsvarsspil (-)
+38,2159.0,2229.0,Coaching
+39,2230.0,2257.0,Active
+40,2236.0,2256.0,Forsvarsspil (+)
+41,2257.0,2262.0,Coaching
+42,2263.0,2312.0,Active
+43,2266.0,2286.0,Forsvarsspil (+)
+44,2286.0,2306.0,Forsvarsspil (-)
+45,2302.0,2312.0,Shot (Blocked/Off target)
+46,2312.0,2362.0,Coaching
+47,2363.0,2438.0,Active
+48,2387.0,2407.0,Forsvarsspil (-)
+49,2402.0,2422.0,Forsvarsspil (+)
+50,2439.0,2484.0,Coaching
+51,2484.0,2507.0,Active
+52,2493.0,2513.0,Forsvarsspil (+)
+53,2508.0,2513.0,Coaching
+54,2514.0,2565.0,Active
+55,2515.0,2535.0,Forsvarsspil (-)
+56,2535.0,2555.0,Forsvarsspil (-)
+57,2565.0,2600.0,Coaching
+58,2600.0,2637.0,Active
+59,2610.0,2630.0,Forsvarsspil (+)
+60,2638.0,2641.0,Coaching
+61,2640.0,2660.0,Forsvarsspil (-)
+62,2642.0,2663.0,Active
+63,2664.0,2699.0,Coaching
+64,2699.0,2732.0,Active
+65,2710.0,2730.0,Forsvarsspil (-)
+66,2733.0,2744.0,Coaching
+67,2744.0,2758.0,Active
+68,2746.0,2766.0,Forsvarsspil (-)
+69,2759.0,2773.0,Coaching
+70,2773.0,2795.0,Active
+71,2796.0,2819.0,Coaching
+72,2820.0,2846.0,Active
+73,2847.0,2887.0,Coaching
+74,2888.0,4503.0,Block 3 (S)
+75,2889.0,3009.0,Organization
+76,3008.0,3028.0,Forsvarsspil (-)
+77,3010.0,3104.0,Active
+78,3028.0,3048.0,Opbygningsspil (-) - HIK
+79,3104.0,3145.0,Coaching
+80,3141.0,3161.0,Forsvarsspil (+)
+81,3145.0,3247.0,Active
+82,3196.0,3216.0,Erobringsspil (-)
+83,3201.0,3221.0,Opbygningsspil (+) - HIK
+84,3218.0,3228.0,Shot (Blocked/Off target)
+85,3228.0,3248.0,Gennembrudsspil (+) - HIK
+86,3235.0,3246.0,Goal
+87,3247.0,3252.0,Coaching
+88,3252.0,3298.0,Active
+89,3271.0,3291.0,Erobringsspil (+)
+90,3299.0,3364.0,Coaching
+91,3365.0,3439.0,Active
+92,3373.0,3393.0,Gennembrudsspil (+) - HIK
+93,3384.0,3404.0,Opbygningsspil (+) - HIK
+94,3413.0,3433.0,Forsvarsspil (-)
+95,3439.0,3479.0,Coaching
+96,3479.0,3480.0,Active
+97,3481.0,3499.0,Coaching
+98,3500.0,3520.0,Forsvarsspil (-)
+99,3500.0,3566.0,Active
+100,3523.0,3543.0,Erobringsspil (-)
+101,3533.0,3553.0,Gennembrudsspil (-) - HIK
+102,3566.0,3700.0,Coaching
+103,3700.0,3803.0,Active
+104,3710.0,3730.0,Opbygningsspil (+) - HIK
+105,3721.0,3741.0,Opbygningsspil (+) - HIK
+106,3739.0,3759.0,Opbygningsspil (-) - HIK
+107,3778.0,3798.0,Opbygningsspil (-) - HIK
+108,3804.0,3828.0,Coaching
+109,3827.0,3847.0,Forsvarsspil (+)
+110,3829.0,3849.0,Active
+111,3849.0,3870.0,Coaching
+112,3871.0,3974.0,Active
+113,3890.0,3910.0,Forsvarsspil (-)
+114,3898.0,3918.0,Gennembrudsspil (+) - HIK
+115,3941.0,3961.0,Gennembrudsspil (+) - HIK
+116,3945.0,3965.0,Forsvarsspil (+)
+117,3974.0,3984.0,Coaching
+118,3985.0,4035.0,Active
+119,3996.0,4016.0,Gennembrudsspil (-) - HIK
+120,4015.0,4035.0,Forsvarsspil (+)
+121,4018.0,4038.0,Forsvarsspil (-)
+122,4035.0,4045.0,Coaching
+123,4046.0,4106.0,Active
+124,4070.0,4090.0,Forsvarsspil (-)
+125,4078.0,4098.0,Forsvarsspil (-)
+126,4106.0,4125.0,Coaching
+127,4126.0,4265.0,Active
+128,4149.0,4169.0,Gennembrudsspil (-) - HIK
+129,4159.0,4179.0,Forsvarsspil (+)
+130,4165.0,4185.0,Forsvarsspil (+)
+131,4172.0,4192.0,Forsvarsspil (-)
+132,4250.0,4270.0,Forsvarsspil (-)
+133,4265.0,4503.0,Coaching
+134,4282.0,4302.0,Forsvarsspil (-)
+135,4303.0,4323.0,Opbygningsspil (+) - HIK
+136,4316.0,4336.0,Forsvarsspil (+)
+137,4347.0,4367.0,Gennembrudsspil (+) - HIK
+138,4352.0,4372.0,Forsvarsspil (+)
+139,4375.0,4395.0,Forsvarsspil (-)
+140,4407.0,4427.0,Opbygningsspil (-) - HIK
+141,4430.0,4450.0,Opbygningsspil (+) - HIK
+142,4435.0,4455.0,Erobringsspil (+)
+143,4452.0,4472.0,Forsvarsspil (+)
