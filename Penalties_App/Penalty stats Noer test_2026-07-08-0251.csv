@@ -1,0 +1,1042 @@
+MATCH_WYID,COMPETITION_WYID,SEASON_WYID,EVENT_WYID,PLAYER_WYID,PRIMARYTYPE,FIRSTNAME,LASTNAME,TEAMNAME,MATCHLABEL,SHOTISGOAL,SHOTONTARGET,SHOTBODYPART,SHOTGOALZONE,GK_FIRSTNAME,GK_LASTNAME,GK_TEAMNAME,RN
+5743805,1305,191801,2733223079,769649,postmatch_penalty,Matej,Tuka,,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gl,Oscar,Gadeberg-Buur,København U19,1
+5743799,1305,191801,2730482816,769204,postmatch_penalty,Gustav ,Ruby-Johansen,Brøndby U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Kasper,Holm Rod,Vejle U19,1
+5745950,3135,191811,2969295210,1230197,postmatch_penalty,Carl,Lindstrøm Koue,IF Lyseng U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Jeppe,Pagh,Viborg U17,1
+5745247,3134,191807,2949866123,1073535,postmatch_penalty,Bjarni-Kornbe,Alfred-Holger,AB U19,"AB U19 - Næsby U19, 2 - 2 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745964,3135,191811,3060575381,1109924,postmatch_penalty,Victor Elias,Nielsen,HB Køge U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Alexander,Dyrstrom,,1
+5743795,1305,191801,2967681175,742117,postmatch_penalty,Simon ,Fynbo Stüker ,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744775,1570,191804,2740750715,959669,postmatch_penalty,Villads,Serritslev Østergaard,Vejle U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Daniel,Kannerup,AGF U17,1
+5745929,3135,191811,2947829816,1084357,postmatch_penalty,Noah,Sterring,Viborg U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Tobias,Skov,Næsby U17,1
+5743896,1305,191801,2998331426,817235,postmatch_penalty,William,Løkke Møller,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Oliver,Vestergaard Henriksen,Randers U19,1
+5745963,3135,191811,3073010811,1226277,postmatch_penalty,Haraldur Orn,Hlynsson,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,,,,1
+5745142,3134,191807,2700236223,684216,postmatch_penalty,Mikkel Bach,Løndal,Viborg U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Elias Arif,Helms,AB U19,1
+5745971,3135,191811,2998526301,1233234,postmatch_penalty,Nicolaj,Andersen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745963,3135,191811,3073010724,1112686,postmatch_penalty,Oliver Bøgekjær,Schiller ,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Arthur,Møller,HIK U17,1
+5743848,1305,191801,2912468137,1078875,penalty,James,Bogere ,AGF U19,"København U19 - AGF U19, 1 - 1",TRUE,TRUE,right_foot,gtr,Tobias,Breum-Harild,København U19,1
+5744790,1570,191804,2747791932,1056446,postmatch_penalty,Arda,Durmaz,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gt,Matthew,Aidam,Silkeborg U17,1
+5743750,1305,191801,2638561291,966095,postmatch_penalty,Anas Raheel ,Muhammad,Vejle U19,"Vejle U19 - København U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Tobias,Breum-Harild,København U19,1
+5743870,1305,191801,2955269616,760963,postmatch_penalty,Samuel,Piechnik Hust,Vejle U19,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5745202,3134,191807,2781239131,768986,postmatch_penalty,Diaco,Rahdar,Nordsjælland U17,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Viktor,Bror Kristensen,Hobro IK U17,1
+5743843,1305,191801,2967615681,705904,postmatch_penalty,Lasse,Mandal Andersen,Randers U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William,Riisberg Hansen,Horsens U19,1
+5745906,3135,191811,2831638470,1226277,postmatch_penalty,Haraldur Orn,Hlynsson,HIK U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gl,Mikkel,Forsingdal,IF Lyseng U17,1
+5743799,1305,191801,2730482803,768852,postmatch_penalty,Andrè,Escobar Jensen,Brøndby U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Kasper,Holm Rod,,1
+5745262,3134,191807,2974920297,817468,postmatch_penalty,Mohcin,Belouahi,AB U19,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,left_foot,gbr,Berthram,Sommer,AGF U19,1
+5745836,3135,191811,2689980736,1108791,postmatch_penalty,Villads,Kragh Pedersen,Viborg U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744890,1570,191804,3055816506,1027803,postmatch_penalty,Christian,Schjøtt,AGF U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745320,3134,191807,3085395254,855915,postmatch_penalty,Eren,Toy,Næstved U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Villads ,Vesterbøg,Amager Academy U17,1
+5743907,1305,191801,3006156390,678062,postmatch_penalty,Sebastian,Lodberg Oppenhagen,Midtjylland U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gl,Christian,Risom,Silkeborg U19,1
+5745119,3134,191807,2671293293,768999,postmatch_penalty,Albert ," Wittenburg Hansson",B 93 U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Vitus,Wiik Bechmann,Hvidovre U17,1
+5744737,1570,191804,2678606371,932109,penalty,Frederik,Carstensen,Horsens U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gb,William,Damgaard,Vejle U15,1
+5745150,3134,191807,2711681171,845771,penalty,Efe,Kantin,Amager Academy U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Tobias,Skov,,1
+5745147,3134,191807,2700244322,769295,penalty,Vedad ,Halilovic,Hobro IK U17,"Nykøbing U19 - Hobro IK U19, 0 - 3",TRUE,TRUE,right_foot,gt,Valde Damskier,Skov,Nykøbing U19,1
+5745971,3135,191811,2998525210,1312822,penalty,Roman,Krasovskyi,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Nicolaj,Andersen,Næsby U17,1
+5743885,1305,191801,3069437438,701631,postmatch_penalty,Georg,Ejsing,AaB U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Thorbjørn ,Pløger Nielsen,Vejle U17,1
+5744733,1570,191804,2659168782,959939,postmatch_penalty,Carl Gustav,Degn,AGF U15,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Marinus,Bach Pedersen,,1
+5745202,3134,191807,2781239434,814414,postmatch_penalty,Sebastian,Frahm Gade,Randers U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",FALSE,TRUE,left_foot,gb,Eliot Azmy,Saaby Guindy,København U19,1
+5745964,3135,191811,3060575375,1095261,postmatch_penalty,Emil Andersson,Galijatovic,HB Køge U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Alexander,Dyrstrom,,1
+5745125,3134,191807,2806440190,1249964,postmatch_penalty,Daniel,Hernandez,Næstved U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Tobias Bloch,Brandt,Kolding IF U17,1
+5745904,3135,191811,2974844188,1305086,penalty,Flori ,Ademi,Hvidovre U17,"Hvidovre U17 - Roskilde U17, 2 - 3",TRUE,TRUE,right_foot,gbr,Milas,Wallin,Roskilde U17,1
+5743871,1305,191801,3059010611,766527,postmatch_penalty,Mads,Samson Feierskov Andreasen,AaB U19,"AaB U19 - Midtjylland U19, 2 - 2 (P)",FALSE,FALSE,left_foot,ot,,,,1
+5744901,1570,191804,3075147995,1196006,postmatch_penalty,Jeppe,Schøler,SønderjyskE U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745249,3134,191807,2952784931,956186,penalty,Emil,Fevre,Kolding IF U17,"Næstved U19 - Kolding IF U19, 2 - 3",TRUE,TRUE,left_foot,glb,Victor,Larsen,Næstved U17,1
+5745311,3134,191807,3094000719,813151,postmatch_penalty,August Krogh ,Skovgaard,AGF U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Julius Svarre,Christensen,B 93 U19,1
+5745250,3134,191807,2953403456,1060657,penalty,Malthe,Hesselholt,HIK U19,"Roskilde U19 - HIK U19, 2 - 7",TRUE,TRUE,right_foot,glb,Elias,Gottschalck,Roskilde U17,1
+5745320,3134,191807,3085394723,1106066,postmatch_penalty,Aksel,Mutahi Bischoff,Amager Academy U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Hjalthe,Orthmann Jensen,Næstved,1
+5745119,3134,191807,2671293286,961179,postmatch_penalty,Mikkel,Skotte Haakonsson,B 93 U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gc,,,,1
+5744761,1570,191804,2792137352,844652,postmatch_penalty,William,Laugesen,AGF U19,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5744890,1570,191804,3055816512,769078,postmatch_penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Isak,Lee-Dam,AGF U17,1
+5745906,3135,191811,2831638466,1101574,postmatch_penalty,Magnus,Hørup Larsen,HIK U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gbr,Mikkel,Forsingdal,IF Lyseng U17,1
+5745930,3135,191811,2939635558,1091437,postmatch_penalty,Mikkel,Forsingdal,IF Lyseng U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton,Kousgaard,Nordsjælland U17,1
+5745929,3135,191811,2947829769,1233250,postmatch_penalty,Johan ,Gram,Næsby U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Jeppe,Pagh,Viborg U17,1
+5743761,1305,191801,2648415089,701631,postmatch_penalty,Georg,Ejsing,AaB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Marcus,Eskildsen,OB U19,1
+5745161,3134,191807,2769431270,782522,postmatch_penalty,Lasse,Kryger Ahrentsen,Hobro IK U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Emil,Niemann,HB Køge U19,1
+5745877,3135,191811,2741801559,1151741,postmatch_penalty,Felix,Dyna,HB Køge U19,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Tobias Bloch,Brandt,Kolding IF U17,1
+5743795,1305,191801,2967681294,766696,postmatch_penalty,Nicolai,Derlich Biel,SønderjyskE U17,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,left_foot,gr,Christian,Risom,Silkeborg U19,1
+5743795,1305,191801,2967680387,766698,postmatch_penalty,Sebastian,Larsen,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Christian,Risom,Silkeborg U19,1
+5745191,3134,191807,2767254744,845771,penalty,Efe,Kantin,Amager Academy U19,"Amager Academy U19 - Næstved U19, 5 - 0",FALSE,TRUE,right_foot,gc,Victor,Larsen,Næstved U17,1
+5743871,1305,191801,3059010604,841159,postmatch_penalty,Christian Steensgaard,Eriksen,AaB U17,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Liam Johan,Selin,Midtjylland U19,1
+5745917,3135,191811,2923000695,1227737,postmatch_penalty,Oscar,Storskov,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Mads,August Kühnel,AB U17,1
+5744882,1570,191804,3092124922,1012799,penalty,Tristan Theilade,Thomsen,AGF U15,"AGF U17 - AaB U17, 2 - 3",FALSE,TRUE,right_foot,gbr,Axel Prætorius,Nielsen  ,AaB U15,1
+5745964,3135,191811,3060575199,879749,postmatch_penalty,Albert,Knak,B.93 U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Bertram,Løwe Larsen,HB Køge U17,1
+5745205,3134,191807,2679973355,769007,postmatch_penalty,Romeo ," Lotus Meyer",,"B 93 U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Elias Arif,Helms,AB U19,1
+5743895,1305,191801,2986537096,845879,postmatch_penalty,William,Thomsen,AGF U17,"AGF U19 - OB U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Marcus,Eskildsen,OB U19,1
+5745322,3134,191807,3065281079,742492,penalty,Valdemar ,Bach Schmølker,Hobro IK U19,"Hobro IK U19 - Kolding IF U19, 4 - 1",TRUE,TRUE,right_foot,gt,Malthe,Deppe Mørup,Kolding IF U19,1
+5744790,1570,191804,2747791791,1051585,postmatch_penalty,Emil,Gylling Andersen,Silkeborg IF U15,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745328,3134,191807,3088460148,962800,postmatch_penalty,Engelbert,Owusu,AB U19,"AB U19 - B 93 U19, 3 - 3 (P)",FALSE,FALSE,left_foot,pt,,,,1
+5745990,3135,191811,3060832072,1138415,postmatch_penalty,Christian Christensen,Nordentoft,Viborg U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Andreas Bille,Rohrberg,Helsingør U17,1
+5745867,3135,191811,2734287701,1186921,postmatch_penalty,Sebastian,Gottlieb Jensen,AB U17,"AB U17 - Roskilde U17, 1 - 1 (P)",FALSE,FALSE,right_foot,obr,,,,1
+5745917,3135,191811,2923000712,1172200,postmatch_penalty,Ludvig,Colberg Kofoed,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5745964,3135,191811,3060575195,826360,postmatch_penalty,Oliver,Hansen,B.93 U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Bertram,Løwe Larsen,HB Køge U17,1
+5743856,1305,191801,2967664027,766697,postmatch_penalty,Nicolai,Sabroe Lund,SønderjyskE U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gr,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5743799,1305,191801,2730482811,868445,postmatch_penalty,Kerim,Sejdic,,"Vejle U19 - Brøndby U19, 2 - 2 (P)",FALSE,FALSE,left_foot,pbr,,,,1
+5743900,1305,191801,3086376589,766697,postmatch_penalty,Nicolai,Sabroe Lund,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gr,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745221,3134,191807,3097501546,742492,penalty,Valdemar ,Bach Schmølker,Hobro IK U19,"Næsby U19 - Hobro IK U19, 5 - 1",FALSE,TRUE,right_foot,glb,Malang,Faty,Næsby U19,1
+5744737,1570,191804,2678607411,1135566,postmatch_penalty,Eskild Nørholm,Frederiksen,Horsens U15,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,William,Damgaard,Vejle U15,1
+5745273,3134,191807,2994163125,815707,postmatch_penalty,Noah,Williams,Helsingør U19,"Næsby U19 - Helsingør U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Malang,Faty,Næsby U19,1
+5743826,1305,191801,2771170976,760859,postmatch_penalty,Mikkel,Øxenberg,Silkeborg,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745962,3135,191811,3082987427,1129380,penalty,Villads,Dinesen Schack,Kolding IF U17,"Kolding IF U17 - Amager Academy U17, 2 - 4",FALSE,TRUE,right_foot,glb,Max Theodore,Schow,Amager Academy U17,1
+5744890,1570,191804,3055816514,1034586,postmatch_penalty,Alfred Hyldgaard,Sandager,AGF U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5744737,1570,191804,2678607399,959676,postmatch_penalty,Albert,Frederiksen,Vejle U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Alfred ,Kragh,Horsens U15,1
+5744903,1570,191804,3071462573,911338,postmatch_penalty,Noah,Glibstrup Manata,OB U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Victor,Stroyer,Vejle U17,1
+5743826,1305,191801,2771170965,685855,postmatch_penalty,Victor,Malmqvist Gustafsen,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Christian,Risom,Silkeborg U19,1
+5745926,3135,191811,2934560250,1065381,postmatch_penalty,Mohamed,Mohamed,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Tobias,Skov,Næsby U17,1
+5745817,3135,191811,2675601412,1183739,postmatch_penalty,Bjelic,Nazif,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Mads,August Kühnel,AB U17,1
+5745311,3134,191807,3094000731,765199,postmatch_penalty,Marcus Lynge,Bøgh Nielsen,AGF U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Julius Svarre,Christensen,B 93 U19,1
+5745142,3134,191807,2700236281,869209,postmatch_penalty,Christian,Holm Nielsen,AB U17,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Nicolai Dybdal,Thrane,Viborg U19,1
+5744846,1570,191804,2975305179,769149,penalty,Leutrim,Callaku,Nordsjælland U17,"Nordsjælland U17 - AGF U17, 4 - 1",FALSE,TRUE,left_foot,glb,Isak,Lee-Dam,AGF U17,1
+5745917,3135,191811,2923000718,1095269,postmatch_penalty,Ruben Thor,Bunge,København U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5744890,1570,191804,3055816496,769066,postmatch_penalty,Noah Grud,Kjer,Midtjylland U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Isak,Lee-Dam,AGF U17,1
+5744790,1570,191804,2747791934,769266,postmatch_penalty,Karl Magnus,Bech,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Matthew,Aidam,Silkeborg U17,1
+5743795,1305,191801,2967680385,766690,postmatch_penalty,Jeppe,Klemann Pålsson,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5743750,1305,191801,2638561308,748626,postmatch_penalty,Graham Nil,Ankamah Ankamafio,København U19,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Gustav,Nørregaard Knudsen,Vejle U19,1
+5745978,3135,191811,3028040326,1172200,penalty,Ludvig,Colberg Kofoed,AB U17,"AB U17 - Næstved U17, 1 - 0",TRUE,TRUE,right_foot,gb,Victor,Søgaard Meyer,Næstved U17,1
+5745971,3135,191811,2998526362,1187482,postmatch_penalty,Nicholas,Meyer Jahnsen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Nicolaj,Andersen,Næsby U17,1
+5745098,3134,191807,2657391941,962800,postmatch_penalty,Engelbert,Owusu,AB U19,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745836,3135,191811,2689980342,1065059,postmatch_penalty,Lucas,Støvring,Hobro IK U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,William,Dysted,Viborg U19,1
+5743791,1305,191801,2696181141,685856,penalty,Malte,Såby Heyde,Nordsjælland U19,"Nordsjælland U19 - Lyngby U19, 2 - 1",TRUE,TRUE,right_foot,glb,Elliot,Batchelor,Lyngby U19,1
+5745950,3135,191811,2969295206,1028174,postmatch_penalty,Andreas Sejr,Staghøj,IF Lyseng U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5745917,3135,191811,2923000624,941424,postmatch_penalty,Nicolai,Birkdal Pedersen,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gt,Mads,August Kühnel,AB U17,1
+5744740,1570,191804,2678657283,898876,penalty,David,Glibstrup Manata,OB U17,"Silkeborg U17 - OB U17, 0 - 5",TRUE,TRUE,right_foot,glb,Esben,Schou,Silkeborg IF U15,1
+5743900,1305,191801,3086376502,769261,postmatch_penalty,Malik Razak Engholm,Pimpong,Midtjylland U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745161,3134,191807,2769431454,941423,postmatch_penalty,Oliver,Engberg,HB Køge U17,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Nicolai,Schmidt,Hobro IK U19,1
+5745917,3135,191811,2923000679,769172,postmatch_penalty,Oliver,Petersson,København U15,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Mads,August Kühnel,AB U17,1
+5745817,3135,191811,2675601522,1103381,postmatch_penalty,Magnus,Keh Kleist Værslev,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,Næsby U17,1
+5745320,3134,191807,3085395246,962893,postmatch_penalty,Jeppe Esmann,Hansen,Næstved U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Villads ,Vesterbøg,Amager Academy U17,1
+5745897,3135,191811,2800620426,1171488,postmatch_penalty,Laurits,Dahl Wallin,Hvidovre U19,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",FALSE,FALSE,right_foot,obr,,,,1
+5745819,3135,191811,2813483107,1227725,postmatch_penalty,Malik,Fallah ,Helsingør U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5743885,1305,191801,3069437440,1107996,postmatch_penalty,Nicolas,Gammelgaard,Vejle U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Villads Hother,Bertelsen,AaB U17,1
+5743795,1305,191801,2967681171,679251,postmatch_penalty,Sebastian,Laustsen Bruun,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745202,3134,191807,2781239426,963500,postmatch_penalty,Hjalte Mølholt,Dahl,Hobro IK U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Eliot Azmy,Saaby Guindy,København U19,1
+5744761,1570,191804,2792137356,1055573,postmatch_penalty,William ,Sønderby,AGF U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5744728,1570,191804,2701250496,1196006,postmatch_penalty,Jeppe,Schøler,SønderjyskE U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Philip Munk,Thomsen,København U17,1
+5745929,3135,191811,2947829787,1312833,postmatch_penalty,Alexander,Skræp-Hansen,Næsby U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",FALSE,FALSE,right_foot,ptr,,,,1
+5745104,3134,191807,2658830907,817468,penalty,Mohcin,Belouahi,AB U19,"HIK U19 - AB U19, 0 - 6",TRUE,TRUE,left_foot,gr,Hubert,Bloch,HIK U19,1
+5745963,3135,191811,3073010731,1079785,postmatch_penalty,William ,Juul-Jensen,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Arthur,Møller,HIK U17,1
+5746018,3135,191811,3072725435,946116,penalty,Elias,Gylling,Amager Academy U17,"Amager Academy U17 - Roskilde U17, 3 - 2",FALSE,TRUE,right_foot,gbr,Milas,Wallin,Roskilde U17,1
+5744839,1570,191804,2966007389,858985,postmatch_penalty,Daniel,Kannerup,AGF U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,,,,1
+5745817,3135,191811,2675601397,911327,postmatch_penalty,Malthe,Dalager Brasholt,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Mads,August Kühnel,AB U17,1
+5745098,3134,191807,2657391957,866970,postmatch_penalty,Adam,Lazarotti,HB Køge U17,"AB U19 - HB Køge U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gc,Bertram,Elkjær Pihl,AB U19,1
+5745230,3134,191807,2933330237,1103378,postmatch_penalty,Dines,Konrad,AB U17,"AB U19 - HIK U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Magnus Lynge,Haslund,HIK U19,1
+5743896,1305,191801,2998331676,706958,postmatch_penalty,Oliver ,Kahr Jeppesen,Randers U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5744753,1570,191804,2723611108,769078,postmatch_penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Villads Hother,Bertelsen,AaB U17,1
+5744790,1570,191804,2747791944,1056433,postmatch_penalty,Benjamin,Christensen,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Matthew,Aidam,Silkeborg U17,1
+5744853,1570,191804,2985672661,947120,postmatch_penalty,Malthe,Madsen,Silkeborg IF U15,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Frederik,B. Andersen,Randers U19,1
+5745202,3134,191807,2781239127,944194,postmatch_penalty,David Gideon,Boateng Wurst,SønderjyskE U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745125,3134,191807,2806440110,956186,postmatch_penalty,Emil,Fevre,Kolding IF U17,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Benjamin,Høier Olsen,Næstved,1
+5745971,3135,191811,2998526331,1196915,postmatch_penalty,Lukas Bogetoft,Simonsen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745839,3135,191811,2696226256,1226601,penalty,Oliver,Stahlhut,Næstved U17,"SfB-Oure FA U17 - Næstved U17, 4 - 1",TRUE,TRUE,right_foot,gtr,Elias Køier,Thorkildsen,København U17,1
+5745817,3135,191811,2675601534,1103242,postmatch_penalty,Conrad,Baagøe Schou,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,Næsby U17,1
+5744753,1570,191804,2723611211,981583,postmatch_penalty,Daryosh,Popalzai,AaB U19,"Midtjylland U17 - AaB U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5743781,1305,191801,2697154404,760807,postmatch_penalty,Viktor,Fjeldgaard,AaB U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5745885,3135,191811,2754489850,769229,postmatch_penalty,Jibril,Dezhkam,Silkeborg U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Mads Lahn,Berthelsen,Roskilde U19,1
+5745119,3134,191807,2671293277,797327,postmatch_penalty,Viggo,Sahlstrøm,B 93 U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",FALSE,FALSE,right_foot,olb,,,,1
+5743900,1305,191801,3086376479,678062,postmatch_penalty,Sebastian,Lodberg Oppenhagen,Midtjylland U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gc,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745927,3135,191811,2934404291,1229882,postmatch_penalty,Tristan,Trøjborg,Hobro IK U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gbr,Tobias Mikkelsen,Heilbuth,Brøndby U17,1
+5744828,1570,191804,3032417649,1095264,penalty,Oskar,Riise-Jakobsen,Randers U17,"Randers U17 - København U17, 1 - 2",TRUE,TRUE,right_foot,gr,Villads,Bille Morrah,København U17,1
+5744902,1570,191804,3049269640,1103693,postmatch_penalty,Benjamin,Hjort Aagesen,Silkeborg U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",FALSE,TRUE,right_foot,glb,Sigurd,Chahboun,Lyngby U17,1
+5745971,3135,191811,2998526359,768954,postmatch_penalty,Anton,Kjær,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Nicolaj,Andersen,Næsby U17,1
+5745891,3135,191811,2761865541,941424,postmatch_penalty,Nicolai,Birkdal Pedersen,HB Køge U19,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,FALSE,right_foot,ptl,,,,1
+5743900,1305,191801,3086376515,1102132,postmatch_penalty,Citta,Bah,,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Noah Q.P,Nguyen,Sønderjyske U17,1
+5743887,1305,191801,2975042834,928556,penalty,Liam,West,København U19,"Lyngby U19 - København U19, 0 - 2",TRUE,TRUE,left_foot,glb,Anton,Mayland,Hillerød,1
+5745156,3134,191807,2711729384,738641,penalty,Gustav Ærenlund,Johansen,Helsingør U19,"SfB-Oure FA U19 - Helsingør U19, 2 - 1",TRUE,TRUE,right_foot,gr,Andreas,Rasmussen,SfB-Oure FA U19,1
+5744783,1570,191804,2932592131,769149,penalty,Leutrim,Callaku,Nordsjælland U17,"Nordsjælland U17 - Vejle U17, 6 - 2",TRUE,TRUE,left_foot,gl,Victor,Stroyer,Vejle U17,1
+5745964,3135,191811,3060575205,1023334,postmatch_penalty,Alexander,Holmquist Larsen,B.93 U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Bertram,Løwe Larsen,HB Køge U17,1
+5743885,1305,191801,3069437436,760963,postmatch_penalty,Samuel,Piechnik Hust,Vejle U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Villads Hother,Bertelsen,AaB U17,1
+5745900,3135,191811,2774439633,1109916,penalty,Yasin Benjamin,Dikmen,HB Køge U17,"IF Lyseng U17 - HB Køge U17, 3 - 2",TRUE,TRUE,right_foot,gc,Mikkel,Forsingdal,IF Lyseng U19,1
+5745320,3134,191807,3085395250,974308,postmatch_penalty,William,Dam,Næstved,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Villads ,Vesterbøg,Amager Academy U17,1
+5743887,1305,191801,2975042738,928556,penalty,Liam,West,København U19,"Lyngby U19 - København U19, 0 - 2",TRUE,TRUE,left_foot,gbr,Anton,Mayland,Hillerød,1
+5744775,1570,191804,2740750702,959666,postmatch_penalty,Jeppe,Højgaard Jensen,Vejle U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Daniel,Kannerup,AGF U17,1
+5743884,1305,191801,2975152526,742117,postmatch_penalty,Simon ,Fynbo Stüker ,Silkeborg U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743799,1305,191801,2730482819,831766,postmatch_penalty,Oliver,Wettergren,Brøndby U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",FALSE,TRUE,left_foot,gc,Kasper,Holm Rod,Vejle U19,1
+5743843,1305,191801,2967616181,1084728,postmatch_penalty,Tudor,Cocu,Horsens U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",FALSE,FALSE,right_foot,olb,,,,1
+5744903,1570,191804,3071462577,1017807,postmatch_penalty,Karl Kryger,Kotsis,OB U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5744900,1570,191804,2994823861,1056535,postmatch_penalty,Anton,Wepia Christiansen,Brøndby U19,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gc,Bertram,Morgenstjærne,Esbjerg U17,1
+5745964,3135,191811,3060575201,1056442,postmatch_penalty,Nikolaj,Wørts,B.93 U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Bertram,Løwe Larsen,HB Køge U17,1
+5744720,1570,191804,2717803383,868445,postmatch_penalty,Kerim,Sejdic,Vejle U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Villads,Bille Morrah,København U17,1
+5743907,1305,191801,3006156269,983588,postmatch_penalty,Victor,Dahl,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Liam Johan,Selin,Midtjylland U19,1
+5743755,1305,191801,2672777914,761130,penalty,Oscar Karimi,Mandrup,Horsens U19,"AGF U19 - Horsens U19, 1 - 2",TRUE,TRUE,right_foot,glb,Viktor,De Paoli,AGF U19,1
+5743843,1305,191801,2967615684,766690,postmatch_penalty,Jeppe,Klemann Pålsson,SønderjyskE U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,William,Riisberg Hansen,Horsens U19,1
+5745135,3134,191807,2693723193,944194,penalty,David Gideon,Boateng Wurst,Sønderjyske U19,"Kolding IF U19 - Helsingør U19, 1 - 2",TRUE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5743799,1305,191801,2730482830,861957,postmatch_penalty,Benjamin,Stelman,Vejle U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5744728,1570,191804,2701250748,933782,postmatch_penalty,Noah,Gottsche Madsen,København U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Oliver Kræmer,Jessen,SønderjyskE U17,1
+5745888,3135,191811,2763862231,933775,postmatch_penalty,Holger,Taul Jacobsen,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Carl-Emil,Rething Borglykke,AB U17,1
+5745897,3135,191811,2800620106,1132566,postmatch_penalty,Gabriel,Larsen,,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",FALSE,TRUE,right_foot,glb,Anton Bro,Rasmussen,Hvidovre U17,1
+5745819,3135,191811,2813484045,1099953,postmatch_penalty,Jamal,Hasno,HB Køge U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,William,Capaldi,Helsingør U17,1
+5744737,1570,191804,2678607409,915582,postmatch_penalty,Benjamin ,Nicolaisen,Vejle U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Alfred ,Kragh,Horsens U15,1
+5743884,1305,191801,2975152788,705904,postmatch_penalty,Lasse,Mandal Andersen,SønderjyskE U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Christian,Risom,Silkeborg U19,1
+5744890,1570,191804,3055816502,1021645,postmatch_penalty,Johan ,Friis Mortensen,AGF U19,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5743826,1305,191801,2771170988,980688,postmatch_penalty,Kristian  Bloch ,Bøgild,Silkeborg U17,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5743867,1305,191801,2932686946,772512,penalty,Vincent,Gaml,Randers U19,"Horsens U19 - Randers U19, 1 - 1",TRUE,TRUE,right_foot,gtr,William,Riisberg Hansen,Horsens U19,1
+5744737,1570,191804,2678607408,959666,postmatch_penalty,Jeppe,Højgaard Jensen,Vejle U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Alfred ,Kragh,Horsens U15,1
+5745262,3134,191807,2974920393,847883,postmatch_penalty,Arsen,Storm,,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,glb,Elias Arif,Helms,AB U19,1
+5745098,3134,191807,2657391949,817468,postmatch_penalty,Mohcin,Belouahi,AB U19,"AB U19 - HB Køge U19, 1 - 1 (P)",FALSE,TRUE,left_foot,gr,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745971,3135,191811,2998526348,1199650,postmatch_penalty,Viktor Bruun,Jorgensen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Nicolaj,Andersen,Næsby U17,1
+5745118,3134,191807,2669166348,751647,postmatch_penalty,Alan Sediq,Mohammad,IF Lyseng U19,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745798,3135,191811,2686256776,1230217,penalty,Lau,Dam Hansen,IF Lyseng U17,"Kolding IF U17 - IF Lyseng U17, 0 - 3",TRUE,TRUE,right_foot,glb,Mads Emil Dahlerup ,Hansen,Kolding IF U17,1
+5745891,3135,191811,2761865365,1079524,postmatch_penalty,Luca,Lindholdt,,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Bertram,Løwe Larsen,HB Køge U17,1
+5745817,3135,191811,2675601538,1084391,postmatch_penalty,Frey,Memborg,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Mads,August Kühnel,AB U17,1
+5744901,1570,191804,3075148005,1017790,postmatch_penalty,Frederik Edvard,Brink de Fønss,Nordsjælland U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Jesper,Therkelsen,Sønderjyske U17,1
+5745971,3135,191811,2998526288,1326823,postmatch_penalty,Villads,Junkuhn Dehli,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gl,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745835,3135,191811,2691577776,1171488,penalty,Laurits,Dahl Wallin,Hvidovre U17,"HB Køge U17 - Hvidovre U17, 3 - 2",FALSE,TRUE,right_foot,gl,Jeppe,Larsen ,HB Køge U17,1
+5743856,1305,191801,2967664436,933768,postmatch_penalty,Alexander,Odefalk,København U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",FALSE,FALSE,left_foot,ptr,,,,1
+5744896,1570,191804,2908219959,769078,penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"Midtjylland U17 - Vejle U17, 1 - 4",TRUE,TRUE,right_foot,glb,Victor,Stroyer,Vejle U17,1
+5743895,1305,191801,2986537206,743525,postmatch_penalty,Vitus,Friis,OB U19,"AGF U19 - OB U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5743889,1305,191801,2979275258,844693,penalty,Daniel Ingi,Jóhannesson,Nordsjælland U19,"Nordsjælland U19 - AGF U19, 2 - 1",TRUE,TRUE,right_foot,gl,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5743900,1305,191801,3086376593,766684,postmatch_penalty,Elias Hjort,Pedersen,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5743913,1305,191801,3021636118,824660,penalty,Yusuf,Faghir,Vejle U17,"Vejle U19 - Esbjerg U19, 2 - 2",TRUE,TRUE,right_foot,gbr,Bertram,Morgenstjærne,Esbjerg U17,1
+5745262,3134,191807,2974920391,932299,postmatch_penalty,Rasmus,Treebak,IF Lyseng U19,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gr,Elias Arif,Helms,AB U19,1
+5744839,1570,191804,2966007392,769070,postmatch_penalty,Lauge ,Thomsen,AGF U19,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Elias,Medina Hansen,Brøndby U17,1
+5743907,1305,191801,3006156280,751640,postmatch_penalty,Sebastian,Christoffersen,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Liam Johan,Selin,Midtjylland U19,1
+5745116,3134,191807,2670139432,766605,penalty,Andreas,Grand Riiser,Randers U19,"Hvidovre U19 - Hobro IK U19, 3 - 2",TRUE,TRUE,right_foot,gl,Sander,Holst Papuga,,1
+5745223,3134,191807,2923002556,690948,penalty,Nicolai,Bossen,Lyseng,"IF Lyseng U19 - Kolding IF U19, 1 - 2",TRUE,TRUE,left_foot,gbr,Mikkel,Forsingdal,IF Lyseng U17,1
+5745971,3135,191811,2998526337,768954,postmatch_penalty,Anton,Kjær,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Nicolaj,Andersen,Næsby U17,1
+5745178,3134,191807,2741068852,696291,postmatch_penalty,Rasmus,Wengel Lund,HB Køge U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gr,Malthe,Deppe Mørup,,1
+5744796,1570,191804,2809463773,1057668,postmatch_penalty,Teo,Reeh,København U17,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745970,3135,191811,3091556129,1065059,penalty,Lucas,Støvring,Hobro IK U17,"AB U17 - Hobro IK U17, 4 - 1",TRUE,TRUE,right_foot,gr,Carl-Emil,Rething Borglykke,AB U17,1
+5743783,1305,191801,2692548103,1211997,penalty,Jakob,Sigurðsson,Lyngby U19,"Lyngby U19 - Midtjylland U19, 6 - 5",TRUE,TRUE,right_foot,glb,Silas Sebastian Fig,Novrup,Midtjylland U19,1
+5745888,3135,191811,2763862316,1103378,postmatch_penalty,Dines,Konrad,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Anton Bro,Rasmussen,Hvidovre U17,1
+5745927,3135,191811,2934404268,981602,postmatch_penalty,Aldin,Cehic,AaB U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gbr,Tobias Mikkelsen,Heilbuth,Brøndby U17,1
+5743854,1305,191801,2913703517,769261,postmatch_penalty,Malik Razak Engholm,Pimpong,Midtjylland U19,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,,,,1
+5745819,3135,191811,2813483109,933538,postmatch_penalty,Bastian,Lyngenbo,Helsingør U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",FALSE,TRUE,left_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5745971,3135,191811,2998526224,1255220,postmatch_penalty,Jacob,Bramsen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745161,3134,191807,2769431452,765153,postmatch_penalty,Lukas,Achton,HB Køge U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Nicolai,Schmidt,Hobro IK U19,1
+5745877,3135,191811,2741801557,1099951,postmatch_penalty,Enes,Gurel,HB Køge U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",FALSE,FALSE,right_foot,or,,,,1
+5745929,3135,191811,2947829767,1169182,postmatch_penalty,Mads,Hodal,Næsby U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Pagh,Viborg U17,1
+5745817,3135,191811,2675601528,1231808,postmatch_penalty,Storm,Bentsen,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Jonas,Salman,,1
+5743900,1305,191801,3086376603,752773,postmatch_penalty,Mads Bo,Ottesen,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5743851,1305,191801,2912651605,751640,penalty,Sebastian,Christoffersen,Silkeborg U19,"Silkeborg U19 - AaB U19, 2 - 2",TRUE,TRUE,right_foot,gbr,Bertil Magne,Grønkjær Pedersen,AaB,1
+5743927,1305,191801,3041088875,845874,postmatch_penalty,Victor,Grønhøj Nissen,SønderjyskE U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gtr,Carl,Kristoffersen,Nordsjælland U17,1
+5744767,1570,191804,2730135267,939775,penalty,Oscar,Wind,Lyngby U17,"Lyngby U17 - Sønderjyske U17, 4 - 0",TRUE,TRUE,right_foot,gl,Emil,Tiedemann Jensen,SønderjyskE U17,1
+5743866,1305,191801,2931002200,824660,penalty,Yusuf,Faghir,Vejle U17,"Nordsjælland U19 - Vejle U19, 1 - 2",TRUE,TRUE,right_foot,gl,Victor,Øberg,Nordsjælland U19,1
+5745891,3135,191811,2761865359,1055894,postmatch_penalty,Lasse Haarup ,Krogh Andersen,Næsby U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gb,Bertram,Løwe Larsen,HB Køge U17,1
+5745160,3134,191807,2726427237,812545,postmatch_penalty,August,Vendelbo Lærkebjerg,Næstved U19,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Bertram,Elkjær Pihl,AB U19,1
+5745284,3134,191807,3004662749,1101847,postmatch_penalty,Sebastian,Mathiassen,Kolding IF U19,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745106,3134,191807,2686866173,769295,penalty,Vedad ,Halilovic,Hobro IK U17,"Hobro IK U19 - SfB-Oure FA U19, 6 - 0",TRUE,TRUE,right_foot,gl,Andreas,Rasmussen,SfB-Oure FA U19,1
+5745917,3135,191811,2923000672,1099966,postmatch_penalty,Benjamin,Olsen,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Mads,August Kühnel,AB U17,1
+5745971,3135,191811,2998526273,1183739,postmatch_penalty,Bjelic,Nazif,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745125,3134,191807,2806440089,769255,postmatch_penalty,Gustav Poul,Steffensen,Kolding IF U17,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Benjamin,Høier Olsen,Næstved,1
+5745815,3135,191811,2680753519,1172656,postmatch_penalty,Victor,Buhl,IF Lyseng U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gt,Anton,Kousgaard,,1
+5745877,3135,191811,2741801439,956181,postmatch_penalty,Villads Aaen,Thøgersen,Kolding IF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5744839,1570,191804,2966007111,911561,postmatch_penalty,Mohamad,Aliko,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Daniel,Kannerup,AGF U17,1
+5745919,3135,191811,3083695289,1072681,penalty,Bertram,Farnov Raalund,Nykøbing,"Nykøbing U17 - Næstved U17, 4 - 2",TRUE,TRUE,right_foot,gl,Villads,Elkjær Pedersen,Næstved U17,1
+5743927,1305,191801,3041088873,939764,postmatch_penalty,Filip Moon,Petersen,Nordsjælland U17,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,Sønderjyske U17,1
+5744834,1570,191804,3052142546,1095264,penalty,Oskar,Riise-Jakobsen,Randers U17,"Sønderjyske U17 - Randers U17, 1 - 3",TRUE,TRUE,right_foot,gbr,Jesper,Therkelsen,Sønderjyske U17,1
+5743826,1305,191801,2771170974,765133,postmatch_penalty,Jes Jaque,Palsmark,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Christian,Risom,Silkeborg U19,1
+5743900,1305,191801,3086376532,1326846,postmatch_penalty,Mouhamed,Diouf,Midtjylland U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",FALSE,TRUE,left_foot,gl,Noah Q.P,Nguyen,Sønderjyske U17,1
+5744896,1570,191804,2908221370,869192,penalty,Stefan,Petrache Nielsen,Vejle U17,"Midtjylland U17 - Vejle U17, 1 - 4",TRUE,TRUE,right_foot,gbr,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5743750,1305,191801,2638561299,872302,postmatch_penalty,Viktor Bjarki,Daðason,København,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Gustav,Nørregaard Knudsen,Vejle U19,1
+5743805,1305,191801,2733223070,825228,postmatch_penalty,Markus Lennart,Seim-Monsen,Nordsjælland U19,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Oscar,Gadeberg-Buur,København U19,1
+5745263,3134,191807,2977689607,742492,penalty,Valdemar ,Bach Schmølker,Hobro IK U19,"Viborg U19 - Hobro IK U19, 3 - 2",TRUE,TRUE,right_foot,glb,Nicolai Dybdal,Thrane,Viborg U19,1
+5745950,3135,191811,2969295731,1138419,postmatch_penalty,Theodor,Jöhnk,Viborg U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5744903,1570,191804,3071462579,1224427,postmatch_penalty,Jakob,Sørensen,Vejle U17,"Vejle U17 - OB U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gb,Vilads Emil,Peitersen,OB U17,1
+5745202,3134,191807,2781239428,767132,postmatch_penalty,Villads,Busk Petersen,,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",FALSE,FALSE,right_foot,pl,,,,1
+5745794,3135,191811,2642966234,1065059,penalty,Lucas,Støvring,Hobro IK U17,"Amager Academy U17 - Hobro IK U17, 3 - 4",TRUE,TRUE,right_foot,gbr,Max Theodore,Schow,Amager Academy U17,1
+5745930,3135,191811,2939635554,1230217,postmatch_penalty,Lau,Dam Hansen,IF Lyseng U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton,Kousgaard,,1
+5743871,1305,191801,3059010600,679420,postmatch_penalty,Amar,Diagne,AaB,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Liam Johan,Selin,Midtjylland U19,1
+5744853,1570,191804,2985672737,769174,postmatch_penalty,Loui,Okamoto Hauerslev,Randers U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gr,Esben,Schou,Silkeborg IF U15,1
+5745897,3135,191811,2800620422,1230519,postmatch_penalty,William,Elkan Jørgensen ,Hvidovre U19,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Victor,Søgaard Meyer,Næstved U17,1
+5746026,3135,191811,3005502397,1072681,penalty,Bertram,Farnov Raalund,Nykøbing U17,"AB U17 - Nykøbing U17, 2 - 0",FALSE,FALSE,right_foot,pr,,,,1
+5745817,3135,191811,2675601368,1169182,postmatch_penalty,Mads,Hodal,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Mads,August Kühnel,AB U17,1
+5745971,3135,191811,2998526285,1312833,postmatch_penalty,Alexander,Skræp-Hansen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5743854,1305,191801,2913703655,856926,postmatch_penalty,Jonas Heinze,Bennedsgaard,Esbjerg U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Liam Johan,Selin,Midtjylland U19,1
+5744844,1570,191804,2988029034,1028173,penalty,Konrad,Graulund,Midtjylland U17,"Midtjylland U17 - Horsens U17, 7 - 0",TRUE,TRUE,right_foot,glb,Emil,Tiedemann Jensen,SønderjyskE U17,1
+5745192,3134,191807,2775327225,831997,penalty,Victor,Musse,HB Køge U19,"HB Køge U19 - SfB-Oure FA U19, 9 - 0",TRUE,TRUE,right_foot,gl,Julius,Theis Pedersen,SfB-Oure FA U19,1
+5744901,1570,191804,3075147997,939764,postmatch_penalty,Filip Moon,Petersen,Nordsjælland U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Jesper,Therkelsen,SønderjyskE U17,1
+5743799,1305,191801,2730482826,957176,postmatch_penalty,Danial,Mørkøre,Vejle U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5744720,1570,191804,2717803755,962716,postmatch_penalty,Dimitri Ljørring,Sanits,Hvidovre U19,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5744733,1570,191804,2659168808,981585,postmatch_penalty,Noah Bertelsen,Reiche,AaB U17,"AaB U17 - AGF U17, 1 - 1 (P)",FALSE,FALSE,right_foot,ptl,,,,1
+5743761,1305,191801,2648415091,760812,postmatch_penalty,Marcus,Bonde,AaB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtr,Marcus,Eskildsen,OB U19,1
+5745891,3135,191811,2761865339,1101573,postmatch_penalty,Gustav,Wagner,HIK U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Bertram,Løwe Larsen,HB Køge U17,1
+5745228,3134,191807,3060670866,786366,penalty,Marcus,Rasmussen,Nykøbing,"Nykøbing U19 - Næstved U19, 3 - 0",TRUE,TRUE,right_foot,gbr,Maksym,Vykhovanok,Næstved U19,1
+5743871,1305,191801,3059010605,769263,postmatch_penalty,Magne Norn,Kristensen,Midtjylland U19,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gt,Villads Hother,Bertelsen,AaB U17,1
+5745125,3134,191807,2806440194,784488,postmatch_penalty,Amin,Sabihi Marfavi,Næstved U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5744824,1570,191804,2930903017,1016697,penalty,Alexander Máni,Guðjónsson,Midtjylland U17,"Midtjylland U17 - Lyngby U17, 1 - 3",FALSE,TRUE,left_foot,glb,Elliot,Batchelor,Lyngby U19,1
+5745990,3135,191811,3060832210,933524,postmatch_penalty,Rasmus,Piper,Helsingør U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Jeppe,Pagh,Viborg U17,1
+5745888,3135,191811,2763862284,1103381,postmatch_penalty,Magnus,Keh Kleist Værslev,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Anton Bro,Rasmussen,Hvidovre U17,1
+5745178,3134,191807,2741069156,814544,postmatch_penalty,Gustav Higgelke,Laugesen,Kolding IF U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Emil,Niemann,HB Køge U19,1
+5745877,3135,191811,2741801460,1129380,postmatch_penalty,Villads,Dinesen Schack,Kolding IF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jeppe,Larsen ,HB Køge U17,1
+5744753,1570,191804,2723611096,1029987,postmatch_penalty,Oskar,Jørgensen Lauridsen,Midtjylland U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Villads Hother,Bertelsen,AaB U17,1
+5744900,1570,191804,2994823857,769004,postmatch_penalty,Tobias,Ekstrand,Brøndby U17,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Bertram,Morgenstjærne,Esbjerg U17,1
+5745836,3135,191811,2689980334,956031,postmatch_penalty,Malthe,Neergaard,Hobro IK U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,William,Dysted,Viborg U19,1
+5745883,3135,191811,2751165822,1224645,postmatch_penalty,Felix Bleshøy ,Hald,Kolding IF U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Asger,Lønborg,HIK U19,1
+5745897,3135,191811,2800620428,1230527,postmatch_penalty,Wictor,Søby Rind,Hvidovre U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Victor,Søgaard Meyer,Næstved U17,1
+5745836,3135,191811,2689980734,1108795,postmatch_penalty,William,Bech Brink Rosenbrandt,Viborg U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5745119,3134,191807,2671293290,747959,postmatch_penalty,Sven,Bech Leschly,B.93,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745118,3134,191807,2669166673,814414,postmatch_penalty,Sebastian,Frahm Gade,Randers U19,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Berthram,Sommer,AGF U19,1
+5745888,3135,191811,2763862214,1171488,postmatch_penalty,Laurits,Dahl Wallin,Hvidovre U19,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gt,Carl-Emil,Rething Borglykke,AB U17,1
+5745284,3134,191807,3004662740,814544,postmatch_penalty,Gustav Higgelke,Laugesen,Kolding IF U19,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745926,3135,191811,2934559934,1145268,penalty,Noah,Toft,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Tobias,Skov,Næsby U17,1
+5743850,1305,191801,2913419860,768852,penalty,Andrè,Escobar Jensen,Brøndby U19,"Brøndby U19 - Horsens U19, 4 - 1",TRUE,TRUE,right_foot,gtl,William,Riisberg Hansen,Horsens U19,1
+5744900,1570,191804,2994824057,882054,postmatch_penalty,Markus Fugleberg ,Hegner,Esbjerg U17,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Oliver Leon,Koch Wall,Brøndby U17,1
+5743896,1305,191801,2998331678,880507,postmatch_penalty,Felix ,Sommer,Randers U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",FALSE,FALSE,right_foot,otl,,,,1
+5743896,1305,191801,2998331421,679251,postmatch_penalty,Sebastian,Laustsen Bruun,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Oliver,Vestergaard Henriksen,Randers U19,1
+5745842,3135,191811,2700900694,1060846,penalty,Elias ,Rabah Saeid,Amager Academy U17,"Amager Academy U17 - Kolding IF U17, 0 - 2",FALSE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5743856,1305,191801,2967664025,766684,postmatch_penalty,Elias Valdemar,Hjorth Pedersen,SønderjyskE U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5745817,3135,191811,2675601375,911344,postmatch_penalty,Malthe,Bramsen,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Mads,August Kühnel,AB U17,1
+5745205,3134,191807,2679973022,969358,postmatch_penalty,Christian,Rosenkrantz-Theil,AB U19,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Julius Svarre,Christensen,B 93 U19,1
+5745917,3135,191811,2923000647,1109903,postmatch_penalty,Felix,Krarup,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Mads,August Kühnel,AB U17,1
+5745859,3135,191811,2728129147,1056060,penalty,Yousuf,Mohamed Ali,AB U17,"Næstved U17 - AB U17, 0 - 2",TRUE,TRUE,right_foot,gc,Victor,Søgaard Meyer,Næstved U17,1
+5745178,3134,191807,2741068844,941424,postmatch_penalty,Nicolai,Birkdal Pedersen,HB Køge U17,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Malthe,Deppe Mørup,,1
+5744839,1570,191804,2966007396,963493,postmatch_penalty,Emil,Hansen,AGF U15,"Brøndby U17 - AGF U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Elias,Medina Hansen,Brøndby U17,1
+5745963,3135,191811,3073010749,1305085,postmatch_penalty,Phillip,Lopez ,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Arthur,Møller,HIK U17,1
+5744904,1570,191804,3012597708,959939,penalty,Carl Gustav,Degn,AGF U15,"AGF U17 - Randers U17, 1 - 4",FALSE,FALSE,left_foot,ol,,,,1
+5744761,1570,191804,2792137183,911564,postmatch_penalty,Nicolai Solheim,Lintrup,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Daniel,Kannerup,AGF U17,1
+5745835,3135,191811,2691576792,1099951,penalty,Enes,Gurel,HB Køge U17,"HB Køge U17 - Hvidovre U17, 3 - 2",TRUE,TRUE,right_foot,gbr,Anton Bro,Rasmussen,Hvidovre U17,1
+5745266,3134,191807,2976213330,848181,penalty,Noah,Byssing,Roskilde U19,"Roskilde U19 - Næsby U19, 4 - 0",TRUE,TRUE,right_foot,gl,Malang,Faty,Næsby U19,1
+5744898,1570,191804,3026529407,769149,penalty,Leutrim,Callaku,Nordsjælland U17,"Nordsjælland U17 - Brøndby U17, 2 - 6",TRUE,TRUE,left_foot,glb,Elias,Medina Hansen,Brøndby U17,1
+5745887,3135,191811,2765523805,1224585,penalty,Magnus,Bondehøj,Nykøbing U17,"SfB-Oure FA U17 - Nykøbing U17, 3 - 1",TRUE,TRUE,right_foot,gbr,Elias Køier,Thorkildsen,København U17,1
+5743885,1305,191801,3069437444,862361,postmatch_penalty,Marcus,Brolund,Vejle U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Villads Hother,Bertelsen,AaB U17,1
+5743854,1305,191801,2913703665,767223,postmatch_penalty,Jacob,Jensen,Esbjerg U19,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Liam Johan,Selin,Midtjylland U19,1
+5745328,3134,191807,3088460144,1103378,postmatch_penalty,Dines,Konrad,AB U17,"AB U19 - B 93 U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gbr,Julius Svarre,Christensen,B 93 U19,1
+5745205,3134,191807,2679973001,747783,postmatch_penalty,Noah,Maale,AB,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Julius Svarre,Christensen,B 93 U19,1
+5744733,1570,191804,2659168805,844652,postmatch_penalty,William,Laugesen,AGF U15,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Marinus,Bach Pedersen,,1
+5745867,3135,191811,2734287549,1056285,postmatch_penalty,Mikael,Demiral,Roskilde U17,"AB U17 - Roskilde U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gb,Carl-Emil,Rething Borglykke,AB U17,1
+5745320,3134,191807,3085395252,814406,postmatch_penalty,Mads,Lundgren,Næstved U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Villads ,Vesterbøg,Amager Academy U17,1
+5744720,1570,191804,2717803434,959676,postmatch_penalty,Albert,Frederiksen,Vejle U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Villads,Bille Morrah,København U17,1
+5745929,3135,191811,2947829820,1108787,postmatch_penalty,Mads,Christophersen,,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Tobias,Skov,Næsby U17,1
+5744728,1570,191804,2701250752,1057667,postmatch_penalty,Louie Vinther ,Heriba,København U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Oliver Kræmer,Jessen,Sønderjyske U17,1
+5745098,3134,191807,2657391952,769209,postmatch_penalty,Valdemar,Maale,AB U19,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Alexander ,Bejer-Andersen,HB Køge U17,1
+5744796,1570,191804,2809463775,1057667,postmatch_penalty,Louie Vinther ,Heriba,København U17,"Midtjylland U17 - København U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gb,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5744901,1570,191804,3075148009,769002,postmatch_penalty,Roni,Aliji,Nordsjælland U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Jesper,Therkelsen,SønderjyskE U17,1
+5744902,1570,191804,3049269636,1080914,postmatch_penalty,Karl,Hansen,Silkeborg U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Sigurd,Chahboun,Lyngby U17,1
+5745897,3135,191811,2800620082,1226601,postmatch_penalty,Oliver,Stahlhut,Næstved U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Anton Bro,Rasmussen,Hvidovre U17,1
+5745929,3135,191811,2947829822,1108788,postmatch_penalty,Hjalte,Davidsen,Viborg U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Tobias,Skov,,1
+5743896,1305,191801,2998331433,769206,postmatch_penalty,Noah,Munkholm,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Oliver,Vestergaard Henriksen,Randers U19,1
+5743895,1305,191801,2986537098,1182017,postmatch_penalty,Hamza,Sengooba ,AGF U19,"AGF U19 - OB U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Marcus,Eskildsen,OB U19,1
+5745328,3134,191807,3088460146,1268791,postmatch_penalty,Alexander,Lunøe,AB U19,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtl,Julius Svarre,Christensen,B 93 U19,1
+5743819,1305,191801,3058979029,760807,penalty,Viktor,Fjeldgaard,AaB U19,"AaB U19 - København U19, 2 - 3",TRUE,TRUE,right_foot,glb,Tobias,Breum-Harild,København U19,1
+5745150,3134,191807,2711681375,911344,postmatch_penalty,Malthe,Bramsen,Næsby U17,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",FALSE,FALSE,right_foot,ptl,,,,1
+5745262,3134,191807,2974920306,1103378,postmatch_penalty,Dines,Konrad,AB U17,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gb,Berthram,Sommer,AGF U19,1
+5743820,1305,191801,2928457944,1291268,penalty,Vianney,Geovanni ,København,"København U19 - Brøndby U19, 2 - 3",FALSE,TRUE,right_foot,gr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5745930,3135,191811,2939635556,963715,postmatch_penalty,Magnus,Schmellling,IF Lyseng U19,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton,Kousgaard,Nordsjælland U17,1
+5743909,1305,191801,3006619937,824660,penalty,Yusuf,Faghir,Vejle U19,"Randers U19 - Vejle U19, 4 - 3",FALSE,TRUE,right_foot,gb,Oliver,Vestergaard Henriksen,Randers U19,1
+5745917,3135,191811,2923000690,1099953,postmatch_penalty,Jamal,Hasno,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Mads,August Kühnel,AB U17,1
+5744764,1570,191804,2737007332,911338,penalty,Noah Glibstrup ,Manata,OB U17,"Horsens U17 - OB U17, 3 - 3",FALSE,TRUE,right_foot,gc,Alfred ,Kragh,Horsens U15,1
+5745987,3135,191811,3087694913,1226496,penalty,Sari,Aras,Roskilde U17,"Roskilde U17 - AB U17, 3 - 1",TRUE,TRUE,right_foot,gbr,Mads,August Kühnel,AB U17,1
+5743826,1305,191801,2771170971,766107,postmatch_penalty,William Sulejmani,Faber,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Christian,Risom,Silkeborg U19,1
+5745885,3135,191811,2754489851,956031,postmatch_penalty,Malthe,Neergaard,Hobro IK U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",FALSE,TRUE,left_foot,gr,Mads Lahn,Berthelsen,Roskilde U19,1
+5743896,1305,191801,2998331664,883068,postmatch_penalty,Sebastian Carlo,Lillevang Bangshof,Hvidovre U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Christian,Risom,Silkeborg U19,1
+5743799,1305,191801,2730482799,679657,postmatch_penalty,Jonathan,Agyekum,Brøndby U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Kasper,Holm Rod,,1
+5745098,3134,191807,2657391953,939388,postmatch_penalty,Oliver,Larsen,HB Køge U17,"AB U19 - HB Køge U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Bertram,Elkjær Pihl,AB U19,1
+5743862,1305,191801,2948329294,928556,penalty,Liam,West,København U19,"København U19 - Silkeborg U19, 2 - 4",TRUE,TRUE,left_foot,glb,Christian,Risom,Silkeborg U19,1
+5743784,1305,191801,2895450710,844693,penalty,Daniel Ingi,Jóhannesson,Nordsjælland U19,"Brøndby U19 - Nordsjælland U19, 2 - 3",TRUE,TRUE,right_foot,gbr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5745119,3134,191807,2671293327,941351,postmatch_penalty,August ,Kronquist Maimann,Hvidovre U17,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gb,Christoffer,Kalkar,,1
+5746019,3135,191811,3068189617,768984,postmatch_penalty,Anton,Kousgaard,,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,FALSE,right_foot,olb,,,,1
+5745819,3135,191811,2813483103,768986,postmatch_penalty,Diaco,Rahdar,Helsingør U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5744761,1570,191804,2792137354,882053,postmatch_penalty,Noah ,Høeg,AGF U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745205,3134,191807,2679973331,926845,postmatch_penalty,Casper,Risbjerg Andreasen,B 93 U19,"B 93 U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,,,,1
+5744761,1570,191804,2792137202,769002,postmatch_penalty,Roni,Aliji,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",FALSE,FALSE,right_foot,olb,,,,1
+5745966,3135,191811,2989462935,1226601,penalty,Oliver,Stahlhut,Næstved U17,"IF Lyseng U17 - Næstved U17, 2 - 3",TRUE,TRUE,right_foot,gbr,Carl,Lindstrøm Koue,IF Lyseng U17,1
+5743826,1305,191801,2771170980,760857,postmatch_penalty,Malthe Emil,Søgaard Hansen,Silkeborg U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745150,3134,191807,2711681436,1174712,postmatch_penalty,Victor,Uzunovic Guy,Amager Academy U17,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Tobias,Skov,,1
+5745160,3134,191807,2726426835,766719,postmatch_penalty,Alfred,Horup,AB,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Jonas ,Bolinder,Næstved U17,1
+5745313,3134,191807,3057880750,942273,penalty,Zaki,Hamade,Roskilde U19,"Roskilde U19 - Hobro IK U19, 2 - 4",FALSE,TRUE,right_foot,glb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745833,3135,191811,2690191003,768986,penalty,Diaco,Rahdar,Nordsjælland U17,"Kolding IF U17 - Helsingør U17, 1 - 3",TRUE,TRUE,right_foot,gbr,Mads Emil Dahlerup ,Hansen,Kolding IF U17,1
+5743854,1305,191801,2913703562,1029987,postmatch_penalty,Oskar,Jørgensen Lauridsen,Midtjylland U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Alexander ,Drexel,Esbjerg U19,1
+5745909,3135,191811,2793301271,1084357,penalty,Noah,Sterring,Viborg U17,"HB Køge U17 - Viborg U17, 5 - 1",FALSE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5744720,1570,191804,2717803751,962715,postmatch_penalty,Jamil Koch,El Rrami,København U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5745885,3135,191811,2754489810,1135914,postmatch_penalty,Nikolaj,Heisel White,Roskilde U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744877,1570,191804,3048324642,1094019,penalty,Emillian,Gunleifsson,Nordsjælland U17,"Nordsjælland U17 - OB U17, 6 - 5",TRUE,TRUE,right_foot,gbr,Fisker,Emil,OB U15,1
+5743900,1305,191801,3086376605,779791,postmatch_penalty,Noah Q.P,Nguyen,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5743761,1305,191801,2648414885,766310,postmatch_penalty,Mikkel,Juul Jørgensen,OB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Bertil Magne,Grønkjær Pedersen,AaB,1
+5745927,3135,191811,2934404549,1234811,postmatch_penalty,Tobias,Bergkvist,SfB-Oure FA U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",TRUE,TRUE,left_foot,gc,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5745205,3134,191807,2679973008,942372,postmatch_penalty,Anton Hannibal,Boye,AB U19,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Julius Svarre,Christensen,B 93 U19,1
+5745891,3135,191811,2761865543,769159,postmatch_penalty,Willum,Brix Storm,AGF U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Elias Køier,Thorkildsen,,1
+5745142,3134,191807,2700236270,786374,postmatch_penalty,Frederik ,Damkjer,,"AB U19 - Viborg U19, 3 - 3 (P)",FALSE,FALSE,right_foot,pt,,,,1
+5745243,3134,191807,2956394525,766629,penalty,Adam,Choukri,HB Køge U19,"HB Køge U19 - Roskilde U19, 4 - 3",TRUE,TRUE,right_foot,glb,Mads Lahn,Berthelsen,Roskilde U19,1
+5743854,1305,191801,2913703545,768980,postmatch_penalty,Frederik Bæk,Vestergaard,Midtjylland U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Alexander ,Drexel,Esbjerg U19,1
+5745926,3135,191811,2934560608,1233250,postmatch_penalty,Johan ,Gram,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745817,3135,191811,2675601531,1103395,postmatch_penalty,Villum,Gyrup Stokbro,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,Næsby U17,1
+5743826,1305,191801,2771170990,760867,postmatch_penalty,William,Kirk,Silkeborg U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Andreas ,Søndenbroe,Nordsjælland U19,1
+5744806,1570,191804,2914133558,1086704,penalty,Yasir,Ugurlu,Vejle U17,"Vejle U17 - Sønderjyske U17, 3 - 2",TRUE,TRUE,right_foot,gbr,Jesper,Therkelsen,Sønderjyske U17,1
+5743885,1305,191801,3069437450,766527,postmatch_penalty,Mads,Samson Feierskov Andreasen,AaB U19,"AaB U19 - Vejle U19, 2 - 2 (P)",FALSE,FALSE,left_foot,otl,,,,1
+5745926,3135,191811,2934560255,1172658,postmatch_penalty,Frederik Elgaard,Schmidt Nielsen,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Tobias,Skov,Næsby U17,1
+5743795,1305,191801,2967681182,932352,postmatch_penalty,Anton,Brems,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743871,1305,191801,3059010615,701631,postmatch_penalty,Georg,Ejsing,AaB U19,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Liam Johan,Selin,Midtjylland U19,1
+5743795,1305,191801,2967680413,766697,postmatch_penalty,Nicolai,Sabroe Lund,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtr,Christian,Risom,Silkeborg U19,1
+5744733,1570,191804,2659168806,981565,postmatch_penalty,Magnus,Bak,AaB U17,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5745262,3134,191807,2974920311,1103395,postmatch_penalty,Villum,Gyrup Stokbro,AB U17,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gl,Berthram,Sommer,AGF U19,1
+5745169,3134,191807,2733332955,883068,penalty,Sebastian Carlo,Lillevang Bangshof,Hvidovre U17,"SfB-Oure FA U19 - Hvidovre U19, 0 - 6",TRUE,TRUE,right_foot,gtr,Andreas,Rasmussen,SfB-Oure FA U19,1
+5744796,1570,191804,2809464039,769066,postmatch_penalty,Noah Grud,Kjer,Midtjylland U19,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5744902,1570,191804,3049269627,1106868,postmatch_penalty,Sigurd,Chahboun,Lyngby U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Esben,Schou,Silkeborg IF U15,1
+5743854,1305,191801,2913703659,959774,postmatch_penalty,Mikkel,Forum,Esbjerg U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Liam Johan,Selin,Midtjylland U19,1
+5745950,3135,191811,2969295727,1108787,postmatch_penalty,Mads,Christophersen,,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",FALSE,FALSE,right_foot,plb,,,,1
+5743873,1305,191801,2958213661,1211997,penalty,Jakob,Sigurðsson,Lyngby U19,"Lyngby U19 - Horsens U19, 2 - 2 (E)",TRUE,TRUE,right_foot,gbr,William,Riisberg Hansen,Horsens U19,1
+5743795,1305,191801,2967681190,842144,postmatch_penalty,Christian,Risom,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745897,3135,191811,2800620076,1015383,postmatch_penalty,Absalon ,Butt,Næstved U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Anton Bro,Rasmussen,Hvidovre U17,1
+5743843,1305,191801,2967616185,1176702,postmatch_penalty,Isshak Mohammed,Saani,Horsens U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,Sønderjyske U17,1
+5745897,3135,191811,2800620420,1230535,postmatch_penalty,Anton,Gøtrik,Hvidovre U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Victor,Søgaard Meyer,Næstved U17,1
+5745877,3135,191811,2741801445,961462,postmatch_penalty,Mads,Niss Johannsen,Kolding IF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Jeppe,Larsen ,HB Køge U17,1
+5745891,3135,191811,2761865369,1174743,postmatch_penalty,Valdemar,Villemoes Vesterå,,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Bertram,Løwe Larsen,HB Køge U17,1
+5744878,1570,191804,3019800800,933774,penalty,Elvin,Mehicic,København U17,"København U17 - OB U17, 6 - 0",TRUE,TRUE,right_foot,gbr,Fisker,Emil,OB U15,1
+5745988,3135,191811,3024901302,941424,penalty,Nicolai,Birkdal Pedersen,HB Køge U17,"HB Køge U17 - HIK U17, 4 - 1",TRUE,TRUE,right_foot,glb,Arthur,Møller,HIK U17,1
+5745260,3134,191807,2969162954,1055894,penalty,Lasse Haarup ,Krogh Andersen,Næsby U17,"SfB-Oure FA U19 - AB U19, 2 - 3",FALSE,TRUE,left_foot,glb,Bertram,Elkjær Pihl,AB U19,1
+5743752,1305,191801,2638544281,765988,penalty,Martin Kjær,Kruse,Esbjerg U19,"Esbjerg U19 - Midtjylland U19, 1 - 2",TRUE,TRUE,right_foot,gr,Liam Johan,Selin,Midtjylland U19,1
+5743859,1305,191801,2922018962,760807,penalty,Viktor,Fjeldgaard,AaB U19,"AaB U19 - Randers U19, 6 - 1",TRUE,TRUE,right_foot,gbr,Oliver,Vestergaard Henriksen,Randers U19,1
+5745926,3135,191811,2934560604,1108700,postmatch_penalty,Ahmad Abou,Lebde,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745964,3135,191811,3060575379,1109916,postmatch_penalty,Yasin Benjamin,Dikmen,,"HB Køge U17 - B.93 U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Alexander,Dyrstrom,,1
+5745328,3134,191807,3088459861,845780,postmatch_penalty,Marcus,Bering,B 93 U19,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtr,Elias Arif,Helms,AB U19,1
+5744728,1570,191804,2701250506,981479,postmatch_penalty,Elias Frej ,Sahl Møller Jensen,SønderjyskE U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Philip Munk,Thomsen,København U17,1
+5743881,1305,191801,2967887692,765145,penalty,Villads,Rutkjær,Nordsjælland U19,"Horsens U19 - Nordsjælland U19, 2 - 6",TRUE,TRUE,right_foot,gbr,William,Riisberg Hansen,Horsens U19,1
+5743814,1305,191801,2751820654,761130,penalty,Oscar Karimi,Mandrup,Horsens U19,"Horsens U19 - Esbjerg U19, 3 - 0",FALSE,TRUE,right_foot,glb,Alexander ,Drexel,Esbjerg U19,1
+5745927,3135,191811,2934404551,1103665,postmatch_penalty,Johansen,Nicolas,SfB-Oure FA U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",FALSE,TRUE,left_foot,gc,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5743856,1305,191801,2967664434,769175,postmatch_penalty,Marvin,Nasnas,København U17,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744796,1570,191804,2809464038,872492,postmatch_penalty,Jonas Lyhne,Holmgaard,Midtjylland U17,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5743884,1305,191801,2975152520,679251,postmatch_penalty,Sebastian,Laustsen Bruun,Silkeborg U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743913,1305,191801,3021635348,868445,penalty,Kerim,Sejdic,,"Vejle U19 - Esbjerg U19, 2 - 2",TRUE,TRUE,left_foot,gbr,Bertram,Morgenstjærne,Esbjerg U17,1
+5745178,3134,191807,2741069160,956186,postmatch_penalty,Emil,Fevre,Kolding IF U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Emil,Niemann,HB Køge U19,1
+5745971,3135,191811,2998526306,1255220,postmatch_penalty,Jacob,Bramsen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745990,3135,191811,3060830562,933534,penalty,Nikolaj,Hansen,Helsingør U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5745891,3135,191811,2761865351,911323,postmatch_penalty,Aleksander,Søndergaard,OB U15,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Bertram,Løwe Larsen,HB Køge U17,1
+5743843,1305,191801,2967616183,844660,postmatch_penalty,Magne Flemming,Bjerregaard,Horsens U17,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745949,3135,191811,2966976885,1072681,penalty,Bertram,Farnov Raalund,Nykøbing,"Nykøbing U17 - Hvidovre U17, 3 - 2",TRUE,TRUE,right_foot,gr,Anton Bro,Rasmussen,Hvidovre U17,1
+5744901,1570,191804,3075147999,1091406,postmatch_penalty,Hussein,Khalil,SønderjyskE U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gc,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745140,3134,191807,2691822646,751647,penalty,Alan Sediq,Mohammad,IF Lyseng U19,"IF Lyseng U19 - AB U19, 2 - 3",TRUE,TRUE,right_foot,gb,Bertram,Elkjær Pihl,AB U19,1
+5745328,3134,191807,3088459858,768999,postmatch_penalty,Albert ," Wittenburg Hansson",B.93 U17,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Elias Arif,Helms,AB U19,1
+5745971,3135,191811,2998526323,1084397,postmatch_penalty,Jonathan,Aldridge,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5743826,1305,191801,2771170934,844693,postmatch_penalty,Daniel Ingi,Jóhannesson,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5745161,3134,191807,2769431460,798310,postmatch_penalty,Emil,Niemann,HB Køge U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",FALSE,TRUE,right_foot,glb,Nicolai,Schmidt,Hobro IK U19,1
+5745877,3135,191811,2741801466,1016085,postmatch_penalty,Lucas ,Simonsen,,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Jeppe,Larsen ,HB Køge U17,1
+5745963,3135,191811,3073010776,1060845,postmatch_penalty,Hamza,Polat ,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Arthur,Møller,HIK U17,1
+5744852,1570,191804,3033354301,769004,penalty,Tobias,Ekstrand,Brøndby U17,"Brøndby U17 - Midtjylland U17, 4 - 3",TRUE,TRUE,right_foot,gb,Sebastian Hajdu,Lindhardt,Midtjylland U17,1
+5745817,3135,191811,2675601526,1186921,postmatch_penalty,Sebastian,Gottlieb Jensen,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,,1
+5745917,3135,191811,2923000698,1109934,postmatch_penalty,Lasse,Osbæck Thomsen,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",FALSE,FALSE,right_foot,pr,,,,1
+5745963,3135,191811,3073010821,1128961,postmatch_penalty,Victor,Carl Hesselbjerg Monrad,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Anton Bro,Rasmussen,Hvidovre U17,1
+5744737,1570,191804,2678607404,1027802,postmatch_penalty,Karl,Knudsen,Horsens U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,William,Damgaard,Vejle U15,1
+5745990,3135,191811,3060832083,1108788,postmatch_penalty,Hjalte,Davidsen,Viborg U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Andreas Bille,Rohrberg,Helsingør U17,1
+5745888,3135,191811,2763861478,1103378,penalty,Dines,Konrad,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Anton Bro,Rasmussen,Hvidovre U17,1
+5745877,3135,191811,2741801555,769159,postmatch_penalty,Willum,Brix Storm,AGF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5745259,3134,191807,3008246877,1080011,penalty,Maxi,Trajano,Hvidovre U19,"Nykøbing U19 - Hvidovre U19, 2 - 2",TRUE,TRUE,right_foot,glb,Cornelius Noah Ladevig,Refnov,Nykøbing U19,1
+5743854,1305,191801,2913703657,750795,postmatch_penalty,Aksel,Lund Jørgensen,Esbjerg U19,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Liam Johan,Selin,Midtjylland U19,1
+5743864,1305,191801,2967655384,697947,penalty,Mads Riis,Abrahamsen,OB U19,"Sønderjyske U19 - OB U19, 1 - 3",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744753,1570,191804,2723611099,769066,postmatch_penalty,Noah Grud,Kjer,Midtjylland U19,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5745311,3134,191807,3094000725,882053,postmatch_penalty,Noah ,Høeg,IF Lyseng U17,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Julius Svarre,Christensen,B 93 U19,1
+5745915,3135,191811,2922032538,1101574,penalty,Magnus,Hørup Larsen,HIK U17,"HIK U17 - Viborg U17, 1 - 1",FALSE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5745877,3135,191811,2741801471,1077160,postmatch_penalty,Mathias ,Warming Hamann,Kolding IF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",FALSE,TRUE,left_foot,glb,Jeppe,Larsen ,,1
+5745867,3135,191811,2734287695,939771,postmatch_penalty,Jakob Hoffmann,Rasmussen,AB U17,"AB U17 - Roskilde U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Mads Lahn,Berthelsen,Roskilde U19,1
+5744847,1570,191804,2972322432,933774,penalty,Elvin,Mehicic,København U17,"København U17 - Nordsjælland U17, 2 - 2",TRUE,TRUE,right_foot,glb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5743826,1305,191801,2771170951,825228,postmatch_penalty,Markus Lennart,Seim-Monsen,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5744753,1570,191804,2723611101,872492,postmatch_penalty,Jonas Lyhne,Holmgaard,Midtjylland U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5743843,1305,191801,2967615686,752773,postmatch_penalty,Mads Bo,Ottesen,SønderjyskE U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William,Riisberg Hansen,Horsens U19,1
+5743805,1305,191801,2733223192,933768,postmatch_penalty,Alexander,Odefalk,København U19,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745284,3134,191807,3004662865,962716,postmatch_penalty,Dimitri Ljørring,Sanits,København U17,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",FALSE,FALSE,right_foot,plb,,,,1
+5745930,3135,191811,2939635552,1145266,postmatch_penalty,August,Hjortshøj Svane,IF Lyseng U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gc,Anton,Kousgaard,,1
+5745119,3134,191807,2671293280,766626,postmatch_penalty,Vincent,Abildgaard,B.93 U17,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745320,3134,191807,3085394698,769189,postmatch_penalty,Jannik,Bindslev Borge,Amager Academy U17,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Hjalthe,Orthmann Jensen,Næstved,1
+5745328,3134,191807,3088459463,1227739,penalty,Vegard ,Johanssen ,AB U19,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtl,Julius Svarre,Christensen,B 93 U19,1
+5745897,3135,191811,2800620424,1230530,postmatch_penalty,William,Hansen,Hvidovre U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Victor,Søgaard Meyer,Næstved U17,1
+5745917,3135,191811,2923000716,1179691,postmatch_penalty,Elmin,Ejupovic,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5743843,1305,191801,2967615688,709268,postmatch_penalty,Frederik,Nygaard Jürgensen,SønderjyskE U17,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,William,Riisberg Hansen,Horsens U19,1
+5745815,3135,191811,2680753212,1234807,postmatch_penalty,Mads,Lorenzen,SfB-Oure FA U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gc,Mikkel,Forsingdal,IF Lyseng U19,1
+5745202,3134,191807,2781239421,769846,postmatch_penalty,Konrad,Gaardsøe,Hobro IK U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Eliot Azmy,Saaby Guindy,København U19,1
+5744890,1570,191804,3055816500,1029987,postmatch_penalty,Oskar,Jørgensen Lauridsen,Esbjerg U15,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Isak,Lee-Dam,AGF U17,1
+5745247,3134,191807,2949866145,991455,postmatch_penalty,Emil,Cordt,Næsby U19,"AB U19 - Næsby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Elias Arif,Helms,AB U19,1
+5745139,3134,191807,2699080291,786366,penalty,Marcus,Rasmussen,Nykøbing U19,"Nykøbing U19 - B 93 U19, 3 - 2",TRUE,TRUE,right_foot,gbr,Christoffer,Kalkar,,1
+5743870,1305,191801,2955269611,624674,postmatch_penalty,Clemens,Astrup,Vejle U19,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Christian,Risom,Silkeborg U19,1
+5743786,1305,191801,2698950742,831769,penalty,Mads ,Søndergaard Nielsen,Randers U19,"Vejle U19 - Randers U19, 0 - 1",TRUE,TRUE,right_foot,gl,Gustav,Nørregaard Knudsen,Vejle U19,1
+5743900,1305,191801,3086376587,766696,postmatch_penalty,Nicolai,Derlich Biel,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745328,3134,191807,3088459863,747959,postmatch_penalty,Sven,Bech Leschly,B 93 U19,"AB U19 - B 93 U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gl,Elias Arif,Helms,AB U19,1
+5745888,3135,191811,2763862221,1230519,postmatch_penalty,William,Elkan Jørgensen ,Hvidovre U19,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Carl-Emil,Rething Borglykke,AB U17,1
+5745927,3135,191811,2934404547,1234807,postmatch_penalty,Mads,Lorenzen,SfB-Oure FA U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",TRUE,TRUE,left_foot,glb,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5743817,1305,191801,2755564918,938618,penalty,William ,Svendgaard,AGF U17,"Lyngby U19 - AGF U19, 1 - 2",TRUE,TRUE,right_foot,gb,Anton,Mayland,Hillerød,1
+5745284,3134,191807,3004662860,1080011,postmatch_penalty,Maxi,Trajano,Hvidovre U19,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Malthe,Deppe Mørup,Kolding IF U19,1
+5745817,3135,191811,2675601524,962804,postmatch_penalty,Bjørn-Emil,Exsteen Fannikke,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,FALSE,right_foot,olb,,,,1
+5743907,1305,191801,3006156394,831736,postmatch_penalty,August Emil,Skyttehave Rytter,Midtjylland U17,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Christian,Risom,Silkeborg U19,1
+5744796,1570,191804,2809463791,933782,postmatch_penalty,Noah,Gottsche Madsen,København U17,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5743795,1305,191801,2967681184,769210,postmatch_penalty,Carl Gustav,Elmose,Silkeborg U17,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745990,3135,191811,3060832217,933533,postmatch_penalty,Alfred,Johansen,Helsingør U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Jeppe,Pagh,Viborg U17,1
+5744796,1570,191804,2809463785,1098854,postmatch_penalty,Shahin,Pelyad,København U17,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745247,3134,191807,2949866121,962800,postmatch_penalty,Engelbert,Owusu,AB U19,"AB U19 - Næsby U19, 2 - 2 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5743854,1305,191801,2913703661,766612,postmatch_penalty,Mads,Engsted,Esbjerg U19,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gtl,Liam Johan,Selin,Midtjylland U19,1
+5744902,1570,191804,3049269629,871496,postmatch_penalty,Lucas,Borg,Silkeborg IF U15,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Sigurd,Chahboun,Lyngby U17,1
+5745142,3134,191807,2700236242,826058,postmatch_penalty,Nicklas,Pedersen,Viborg U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Elias Arif,Helms,AB U19,1
+5745877,3135,191811,2741801549,1113656,postmatch_penalty,Charles,Mateso,HB Køge U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Tobias Bloch,Brandt,Kolding IF U17,1
+5743761,1305,191801,2648414870,818717,postmatch_penalty,Lasse Embring,Legolas Andersen,OB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Bertil Magne,Grønkjær Pedersen,AaB,1
+5744900,1570,191804,2994823863,769144,postmatch_penalty,Philip Stengade,Dewachter,Brøndby U17,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Bertram,Morgenstjærne,Esbjerg U17,1
+5744775,1570,191804,2740750700,959676,postmatch_penalty,Albert,Frederiksen,Vejle U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gl,Daniel,Kannerup,AGF U17,1
+5744900,1570,191804,2994823855,1131296,postmatch_penalty,Caleb,Sweeney,Brøndby U19,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Bertram,Morgenstjærne,Esbjerg U17,1
+5745247,3134,191807,2949865853,822496,postmatch_penalty,Silas,Degn,Næsby U19,"AB U19 - Næsby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Elias Arif,Helms,AB U19,1
+5745178,3134,191807,2741069154,745649,postmatch_penalty,Ali Sheik,Ali,Kolding IF U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Emil,Niemann,HB Køge U19,1
+5745885,3135,191811,2754489812,1100594,postmatch_penalty,Gustav,Rajczyk,Roskilde U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744810,1570,191804,2915695879,911353,penalty,Oskar,Høyer,Horsens U17,"Brøndby U17 - Horsens U17, 1 - 3",TRUE,TRUE,right_foot,gr,Elias,Medina Hansen,Brøndby U17,1
+5743900,1305,191801,3086376595,766691,postmatch_penalty,Lasse,Riggelsen,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745963,3135,191811,3073010815,1194161,postmatch_penalty,Mehmet ,Emin Aydar,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton Bro,Rasmussen,Hvidovre U17,1
+5743795,1305,191801,2967680416,981479,postmatch_penalty,Elias Frej ,Sahl Møller Jensen,SønderjyskE U17,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Christian,Risom,Silkeborg U19,1
+5743795,1305,191801,2967681188,1226621,postmatch_penalty,Lasse ,Grud Laursen ,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,Sønderjyske U17,1
+5743896,1305,191801,2998331445,798386,postmatch_penalty,Kevin Kofi,Bakke Møller,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Oliver,Vestergaard Henriksen,Randers U19,1
+5745836,3135,191811,2689980330,1170249,postmatch_penalty,August Bruhn,Breum,Hobro IK U19,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gc,William,Dysted,Viborg U19,1
+5743895,1305,191801,2986537204,697947,postmatch_penalty,Mads Riis,Abrahamsen,OB U19,"AGF U19 - OB U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5745242,3134,191807,2943854442,974308,penalty,William,Dam,Næstved,"HIK U19 - Næstved U19, 5 - 1",TRUE,TRUE,right_foot,gbr,Magnus Lynge,Haslund,HIK U19,1
+5745119,3134,191807,2671293326,880496,postmatch_penalty,Mathias,Færch,Hvidovre U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Christoffer,Kalkar,,1
+5745178,3134,191807,2741069158,849682,postmatch_penalty,Anton,Kjærgaard,Kolding IF U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",FALSE,TRUE,left_foot,glb,Emil,Niemann,HB Køge U19,1
+5743856,1305,191801,2967663718,705904,postmatch_penalty,Lasse,Mandal Andersen,Randers U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5743854,1305,191801,2913703525,1164663,postmatch_penalty,Amini Mario,Vladimir,Midtjylland U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Alexander ,Drexel,Esbjerg U19,1
+5743885,1305,191801,3069437446,847905,postmatch_penalty,Tobias,Lundsgaard Jørgensen,AaB U17,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Thorbjørn ,Pløger Nielsen,Vejle U17,1
+5743896,1305,191801,2998331670,955979,postmatch_penalty,Hector,Lux Høyrup,Randers U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5743884,1305,191801,2975152792,766698,postmatch_penalty,Sebastian,Larsen,SønderjyskE U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",FALSE,FALSE,right_foot,pt,,,,1
+5745118,3134,191807,2669166675,766605,postmatch_penalty,Andreas,Grand Riiser,Randers U19,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Berthram,Sommer,AGF U19,1
+5745883,3135,191811,2751165224,1177068,penalty,Jnar,Khalil,Kolding IF U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Arthur,Møller,HIK U17,1
+5745160,3134,191807,2726427008,784488,penalty,Amin,Sabihi Marfavi,Næstved U19,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Bertram,Elkjær Pihl,AB U19,1
+5745247,3134,191807,2949866148,797450,postmatch_penalty,Malth Holze,Dethlefsen,Næsby U19,"AB U19 - Næsby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Elias Arif,Helms,AB U19,1
+5743896,1305,191801,2998331430,983588,postmatch_penalty,Victor,Dahl,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Oliver,Vestergaard Henriksen,Randers U19,1
+5744733,1570,191804,2659168812,981583,postmatch_penalty,Daryosh,Popalzai,AaB U17,"AaB U17 - AGF U17, 1 - 1 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745867,3135,191811,2734287552,1135915,postmatch_penalty,Daniel,Hjortflod,Roskilde U17,"AB U17 - Roskilde U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Carl-Emil,Rething Borglykke,AB U17,1
+5745963,3135,191811,3073010765,1230524,postmatch_penalty,Omran,Dergham ,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Arthur,Møller,HIK U17,1
+5744839,1570,191804,2966007112,1131296,postmatch_penalty,Caleb,Sweeney,Brøndby U19,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,,,,1
+5745846,3135,191811,2702486748,768986,postmatch_penalty,Diaco,Rahdar,Nordsjælland U17,"Helsingør U17 - Næsby U17, 2 - 2 (E)",FALSE,TRUE,right_foot,gtr,,,,1
+5744753,1570,191804,2723611216,868847,postmatch_penalty,Elias,Christiansen,AaB U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gbr,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745990,3135,191811,3060832214,768995,postmatch_penalty,Lukas,Leonardo Wolf,Nordsjælland U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Jeppe,Pagh,Viborg U17,1
+5745891,3135,191811,2761865545,1109908,postmatch_penalty,Villiam,Krone,HB Køge U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Elias Køier,Thorkildsen,København U17,1
+5745888,3135,191811,2763862286,939771,postmatch_penalty,Jakob Hoffmann,Rasmussen,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Anton Bro,Rasmussen,Hvidovre U17,1
+5746019,3135,191811,3068190040,1077523,postmatch_penalty,Noah,Aagaard,HIK U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton,Kousgaard,Nordsjælland U17,1
+5745118,3134,191807,2669166679,769282,postmatch_penalty,Asger ,Frederiksen,AaB U17,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",FALSE,FALSE,right_foot,plb,,,,1
+5745206,3134,191807,2799765882,926845,penalty,Casper,Risbjerg Andreasen,Næsby U19,"B 93 U19 - Næstved U19, 4 - 2",TRUE,TRUE,right_foot,gb,Jonas ,Bolinder,Næstved U17,1
+5744790,1570,191804,2747791782,947131,postmatch_penalty,David,Stojanovic,Silkeborg U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5743813,1305,191801,2967646307,680209,penalty,Anders,Raffnsøe Hoeg,SønderjyskE U19,"Brøndby U19 - Sønderjyske U19, 2 - 4",TRUE,TRUE,right_foot,gl,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5745906,3135,191811,2831638606,963715,postmatch_penalty,Magnus,Schmellling,IF Lyseng U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",FALSE,TRUE,right_foot,gl,Frederik,Noer,HIK U17,1
+5743799,1305,191801,2730482808,769198,postmatch_penalty,Ali ,Al-Najar,Brøndby U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Kasper,Holm Rod,,1
+5744890,1570,191804,3055816510,1094067,postmatch_penalty,Christian,Jacobsen,AGF U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745150,3134,191807,2711681413,1055675,postmatch_penalty,Robin,Celik,Næsby U17,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Villads ,Vesterbøg,Amager Academy U17,1
+5745150,3134,191807,2711681438,908554,postmatch_penalty,Villads ,Vesterbøg,Amager Academy U17,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gbr,Tobias,Skov,,1
+5745205,3134,191807,2679973345,959889,postmatch_penalty,Thomas Ari,Arnarsson,AB U19,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Elias Arif,Helms,AB U19,1
+5745950,3135,191811,2969295193,1172656,postmatch_penalty,Victor,Buhl,IF Lyseng U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Jeppe,Pagh,Viborg U17,1
+5745896,3135,191811,2772621477,1103381,penalty,Magnus,Keh Kleist Værslev,AB U17,"AB U17 - B.93 U17, 0 - 1",FALSE,FALSE,right_foot,ot,,,,1
+5745247,3134,191807,2949866150,846919,postmatch_penalty,Semih,Sevik,Næsby U17,"AB U19 - Næsby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Elias Arif,Helms,AB U19,1
+5745877,3135,191811,2741801553,1109908,postmatch_penalty,Villiam,Krone,HB Køge U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5743865,1305,191801,2932225481,1182017,penalty,Hamza,Sengooba ,AGF U19,"Esbjerg U19 - AGF U19, 0 - 4",TRUE,TRUE,right_foot,gr,Alexander ,Drexel,Esbjerg U19,1
+5744797,1570,191804,3039988450,961769,penalty,Mikkel,Larsen,Horsens U15,"Nordsjælland U17 - Horsens U17, 5 - 1",TRUE,TRUE,right_foot,gbr,Oskar,Nilsson,Nordsjælland U17,1
+5744829,1570,191804,2959710740,939775,penalty,Oscar,Wind,Lyngby U17,"Lyngby U17 - Horsens U17, 0 - 3",FALSE,FALSE,right_foot,ptr,,,,1
+5744775,1570,191804,2740750869,959945,postmatch_penalty,Christian,Søgaard Emmery,AGF U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Victor,Stroyer,Vejle U17,1
+5745161,3134,191807,2769431256,769846,postmatch_penalty,Konrad,Gaardsøe,Hobro IK U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Emil,Niemann,HB Køge U19,1
+5745891,3135,191811,2761865379,1077644,postmatch_penalty,Sander,Vistisen,Næstved U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Bertram,Løwe Larsen,HB Køge U17,1
+5743795,1305,191801,2967681177,817235,postmatch_penalty,William,Løkke Møller,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744720,1570,191804,2717803753,918912,postmatch_penalty,Xander ,Poulsen,København U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Victor,Stroyer,Vejle U17,1
+5745160,3134,191807,2726426838,769209,postmatch_penalty,Valdemar,Maale,AB U17,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas ,Bolinder,Næstved U17,1
+5744816,1570,191804,2931895201,981587,penalty,Amar,Hadzajlija,AaB U17,"AaB U17 - Randers U17, 4 - 2",TRUE,TRUE,right_foot,gb,Frederik,B. Andersen,Randers U19,1
+5745142,3134,191807,2700234894,817468,penalty,Mohcin,Belouahi,AB U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gc,Nicolai Dybdal,Thrane,Viborg U19,1
+5745888,3135,191811,2763862291,1172200,postmatch_penalty,Ludvig,Colberg Kofoed,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Anton Bro,Rasmussen,Hvidovre U17,1
+5745926,3135,191811,2934560245,959943,postmatch_penalty,Oliver,Andreasen,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Tobias,Skov,Næsby U17,1
+5743927,1305,191801,3041088863,1028620,postmatch_penalty,Enis,Zeqiri,SønderjyskE U17,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Carl,Kristoffersen,Nordsjælland U17,1
+5745888,3135,191811,2763862235,1200738,postmatch_penalty,Zakariya,Belmouhand,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Carl-Emil,Rething Borglykke,AB U17,1
+5745821,3135,191811,2668898636,1060846,penalty,Elias ,Rabah Saeid,Amager Academy U17,"Nykøbing U17 - Amager Academy U17, 2 - 3",FALSE,TRUE,right_foot,gc,Lauge,Månsson,Nykøbing U17,1
+5743750,1305,191801,2638561282,849689,postmatch_penalty,Rasmus,Koch Groth Pedersen,Middelfart,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Tobias,Breum-Harild,København U19,1
+5745204,3134,191807,2925479120,1077643,penalty,Oliver,Tedaldi,SfB-Oure FA U17,"SfB-Oure FA U19 - HIK U19, 0 - 3",FALSE,FALSE,right_foot,otr,,,,1
+5744763,1570,191804,2900102034,1086704,penalty,Yasir,Ugurlu,Vejle U17,"Brøndby U17 - Vejle U17, 0 - 2",TRUE,TRUE,right_foot,gt,Elias,Medina Hansen,Brøndby U17,1
+5746015,3135,191811,2912762178,1103389,penalty,Oscar,Arbøl Andreæ,AB U17,"Viborg U17 - B.93 U17, 3 - 1",TRUE,TRUE,right_foot,glb,Noell,Persson,B 93 U19,1
+5743826,1305,191801,2771170973,742117,postmatch_penalty,Simon ,Fynbo Stüker ,Silkeborg,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745964,3135,191811,3060574917,1109916,penalty,Yasin Benjamin,Dikmen,,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Alexander,Dyrstrom,,1
+5745885,3135,191811,2754489806,1135915,postmatch_penalty,Daniel,Hjortflod,Roskilde U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5743795,1305,191801,2967680428,779791,postmatch_penalty,Noah Q.P,Nguyen,Sønderjyske U17,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Christian,Risom,Silkeborg U19,1
+5744730,1570,191804,2661145659,868445,penalty,Kerim,Sejdic,Vejle U17,"Vejle U17 - Silkeborg U17, 1 - 2",TRUE,TRUE,left_foot,gr,Matthew,Aidam,Silkeborg U17,1
+5745142,3134,191807,2700236274,817468,postmatch_penalty,Mohcin,Belouahi,AB U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Nicolai Dybdal,Thrane,Viborg U19,1
+5744853,1570,191804,2985672657,768977,postmatch_penalty,Ditlev,Gade,Silkeborg U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Frederik,B. Andersen,Randers U19,1
+5745883,3135,191811,2751165867,1224663,postmatch_penalty,Johannes Aadal ,Dalby,Kolding IF U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Asger,Lønborg,HIK U19,1
+5744900,1570,191804,2994824059,1101591,postmatch_penalty,Jacob,Kjærsgaard,Esbjerg U15,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gtr,Oliver Leon,Koch Wall,Brøndby U17,1
+5744790,1570,191804,2747791778,947132,postmatch_penalty,Frederik,Ibsen,Silkeborg IF U15,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745906,3135,191811,2831638477,1176827,postmatch_penalty,Marius ,Kristensen,HIK U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,left_foot,gc,Mikkel,Forsingdal,IF Lyseng U17,1
+5743826,1305,191801,2771170987,947132,postmatch_penalty,Frederik,Ibsen,Silkeborg U17,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745971,3135,191811,2998526232,1084397,postmatch_penalty,Jonathan,Aldridge,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745284,3134,191807,3004662863,908247,postmatch_penalty,Louis,Gronemann,Hvidovre U19,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Malthe,Deppe Mørup,,1
+5744902,1570,191804,3049269631,1106872,postmatch_penalty,Siddhanta,Amgai,Lyngby U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Esben,Schou,Silkeborg IF U15,1
+5745819,3135,191811,2813483111,1087077,postmatch_penalty,Sofus,Krogsgaard,Helsingør U19,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5743900,1305,191801,3086376597,1012781,postmatch_penalty,Frederik,Hjort-Pedersen,Sønderjyske U15,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745963,3135,191811,3073010739,1200738,postmatch_penalty,Zakariya,Belmouhand,Hvidovre U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Arthur,Møller,HIK U17,1
+5743750,1305,191801,2638561300,679432,postmatch_penalty,Roberto,Escribano Risnæs,København U19,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Gustav,Nørregaard Knudsen,Vejle U19,1
+5744839,1570,191804,2966007094,976706,postmatch_penalty,Christian,Nielsen,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Daniel,Kannerup,AGF U17,1
+5743750,1305,191801,2638561279,765985,postmatch_penalty,Anton,Klaster,Vejle U19,"Vejle U19 - København U19, 2 - 2 (P)",FALSE,FALSE,right_foot,otr,,,,1
+5745990,3135,191811,3060832219,933546,postmatch_penalty,Arthur,Heideby,Helsingør U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gr,Jeppe,Pagh,Viborg U17,1
+5745990,3135,191811,3060832094,959942,postmatch_penalty,Mikkel,Buhl,,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Andreas Bille,Rohrberg,Helsingør U17,1
+5743826,1305,191801,2771170940,769649,postmatch_penalty,Matej,Tuka,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gtl,Christian,Risom,Silkeborg U19,1
+5743761,1305,191801,2648414880,797277,postmatch_penalty,Adam,Omrani,OB U17,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gl,Bertil Magne,Grønkjær Pedersen,AaB,1
+5744761,1570,191804,2792137360,1012799,postmatch_penalty,Tristan Theilade,Thomsen,AGF U19,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5744853,1570,191804,2985672741,959905,postmatch_penalty,Emil,Bachmann,Randers U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gl,Esben,Schou,Silkeborg IF U15,1
+5744790,1570,191804,2747791772,1080918,postmatch_penalty,Marcello,Lind,Silkeborg U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745973,3135,191811,3091067983,1065381,penalty,Mohamed,Mohamed,IF Lyseng U17,"Roskilde U17 - IF Lyseng U17, 1 - 2",TRUE,TRUE,right_foot,glb,Mads Lahn,Berthelsen,Roskilde U19,1
+5745930,3135,191811,2939635902,1234811,postmatch_penalty,Tobias,Bergkvist,SfB-Oure FA U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",FALSE,FALSE,right_foot,pt,,,,1
+5745929,3135,191811,2947829774,911344,postmatch_penalty,Malthe,Bramsen,Næsby U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Jeppe,Pagh,Viborg U17,1
+5745295,3134,191807,3056160111,1174712,penalty,Victor,Uzunovic Guy,Amager Academy U19,"Amager Academy U19 - IF Lyseng U19, 2 - 3",TRUE,TRUE,right_foot,gc,Berthram,Sommer,AGF U19,1
+5745971,3135,191811,2998526351,1226742,postmatch_penalty,Elias Dyrberg,Dige,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Nicolaj,Andersen,Næsby U17,1
+5745852,3135,191811,2710470691,603764,penalty,Tobias,Hermansen,Nykøbing U17,"HB Køge U17 - Nykøbing U17, 0 - 1",TRUE,TRUE,right_foot,gr,Bertram,Løwe Larsen,HB Køge U17,1
+5744790,1570,191804,2747791930,769149,postmatch_penalty,Leutrim,Callaku,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Matthew,Aidam,Silkeborg U17,1
+5745098,3134,191807,2657391955,848039,postmatch_penalty,Mathias,Fris Hansen,HB Køge U19,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Bertram,Elkjær Pihl,AB U19,1
+5745262,3134,191807,2974920397,1095140,postmatch_penalty,Alfred,Johanson,IF Lyseng U19,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gr,Elias Arif,Helms,AB U19,1
+5744761,1570,191804,2792137188,768990,postmatch_penalty,Justus,Smergel-Krog,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Daniel,Kannerup,AGF U17,1
+5745161,3134,191807,2769431456,1229063,postmatch_penalty,Milas,Eklund,HB Køge U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Nicolai,Schmidt,Hobro IK U19,1
+5745125,3134,191807,2806440192,962895,postmatch_penalty,Jacob,Borup Nielsen,Næstved U17,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Tobias Bloch,Brandt,Kolding IF U17,1
+5745926,3135,191811,2934560236,1145268,postmatch_penalty,Noah,Toft,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Tobias,Skov,Næsby U17,1
+5744754,1570,191804,2699098609,1044763,penalty,Gabriel Duarte,Santos,København U17,"Silkeborg U17 - København U17, 0 - 2",TRUE,TRUE,right_foot,gl,Matthew,Aidam,Silkeborg U17,1
+5743835,1305,191801,2948349293,697947,penalty,Mads Riis,Abrahamsen,OB U19,"OB U19 - København U19, 1 - 3",TRUE,TRUE,right_foot,gb,Tobias,Breum-Harild,København U19,1
+5743781,1305,191801,2697155260,679250,postmatch_penalty,Sebastian,Biller Mikkelsen,Silkeborg U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Villads Hother,Bertelsen,AaB U17,1
+5744890,1570,191804,3055816498,959939,postmatch_penalty,Carl Gustav,Degn,AGF U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745230,3134,191807,2933330387,961179,postmatch_penalty,Mikkel,Skotte Haakonsson,B 93 U19,"AB U19 - HIK U19, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Elias Arif,Helms,AB U19,1
+5744761,1570,191804,2792137175,1056446,postmatch_penalty,Arda,Durmaz,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Daniel,Kannerup,AGF U17,1
+5745906,3135,191811,2831638458,1077523,postmatch_penalty,Noah,Aagaard,HIK U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gc,Mikkel,Forsingdal,IF Lyseng U17,1
+5744825,1570,191804,2932247971,981587,penalty,Amar,Hadzajlija,AaB U17,"Brøndby U17 - AaB U17, 8 - 2",TRUE,TRUE,right_foot,gr,Elias,Medina Hansen,Brøndby U17,1
+5745142,3134,191807,2700236276,969358,postmatch_penalty,Christian,Rosenkrantz-Theil,AB U17,"AB U19 - Viborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Nicolai Dybdal,Thrane,Viborg U19,1
+5743750,1305,191801,2638561302,827347,postmatch_penalty,Gunnar Orri,Olsen,København U19,"Vejle U19 - København U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Gustav,Nørregaard Knudsen,Vejle U19,1
+5745161,3134,191807,2769431292,814414,postmatch_penalty,Sebastian,Frahm Gade,Randers U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gc,Emil,Niemann,HB Køge U19,1
+5744733,1570,191804,2659168792,1021170,postmatch_penalty,Silas,Bager ,AGF U15,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Marinus,Bach Pedersen,AaB U19,1
+5745971,3135,191811,2998526296,1326825,postmatch_penalty,Casper,Rudbæk,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5744839,1570,191804,2966007382,959939,postmatch_penalty,Carl Gustav,Degn,AGF U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Elias,Medina Hansen,Brøndby U17,1
+5745119,3134,191807,2671293328,908247,postmatch_penalty,Louis,Gronemann,Hvidovre U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gc,Christoffer,Kalkar,,1
+5744853,1570,191804,2985672654,947132,postmatch_penalty,Frederik,Ibsen,Silkeborg IF U15,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Frederik,B. Andersen,Randers U19,1
+5743805,1305,191801,2733223197,768989,postmatch_penalty,Sebastian Yabsera,Haaning Christensen,København U17,"Nordsjælland U19 - København U19, 2 - 2 (P)",FALSE,FALSE,left_foot,obr,,,,1
+5743898,1305,191801,3047645933,1107996,penalty,Nicolas,Gammelgaard,Vejle U19,"Vejle U19 - AGF U19, 3 - 1",TRUE,TRUE,right_foot,gr,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5744903,1570,191804,3071462569,911325,postmatch_penalty,Magnus Tornøe ,Dalager,OB U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Victor,Stroyer,Vejle U17,1
+5743895,1305,191801,2986537116,845253,postmatch_penalty,Andreas,Harsløf,AGF U19,"AGF U19 - OB U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gt,Marcus,Eskildsen,OB U19,1
+5744853,1570,191804,2985672665,932352,postmatch_penalty,Anton,Brems,Silkeborg U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Frederik,B. Andersen,Randers U19,1
+5745815,3135,191811,2680753240,879776,postmatch_penalty,Theo,Stavad,SfB-Oure FA U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Mikkel,Forsingdal,IF Lyseng U17,1
+5745867,3135,191811,2734287697,1103395,postmatch_penalty,Villum,Gyrup Stokbro,AB U17,"AB U17 - Roskilde U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gl,Mads Lahn,Berthelsen,Roskilde U19,1
+5744853,1570,191804,2985672743,1095632,postmatch_penalty,Victor,Aalestrup kragh,Randers U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gl,Esben,Schou,Silkeborg IF U15,1
+5745161,3134,191807,2769431266,963500,postmatch_penalty,Hjalte Mølholt,Dahl,Hobro IK U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Emil,Niemann,HB Køge U19,1
+5745891,3135,191811,2761865553,1113656,postmatch_penalty,Charles,Mateso,HB Køge U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745150,3134,191807,2711681415,845771,penalty,Efe,Kantin,Amager Academy U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Tobias,Skov,,1
+5745929,3135,191811,2947829779,1183739,postmatch_penalty,Bjelic,Nazif,Næsby U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5744812,1570,191804,2922164038,769180,penalty,Ishaq,Olalam,København U17,"Sønderjyske U17 - København U17, 1 - 2",TRUE,TRUE,right_foot,gb,Jesper,Therkelsen,SønderjyskE U17,1
+5744728,1570,191804,2701250499,845870,postmatch_penalty,Simon,Thaysen Nissen,Sønderjyske U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Philip Munk,Thomsen,København U17,1
+5745906,3135,191811,2831638461,961221,postmatch_penalty,Asger,Lønborg,HIK U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,left_foot,gc,Mikkel,Forsingdal,IF Lyseng U17,1
+5744790,1570,191804,2747791764,766105,postmatch_penalty,Markus ,Møller Wiehe,Silkeborg U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745891,3135,191811,2761865549,1099951,postmatch_penalty,Enes,Gurel,HB Køge U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Elias Køier,Thorkildsen,København U17,1
+5743856,1305,191801,2967663720,766698,postmatch_penalty,Sebastian,Larsen,SønderjyskE U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5744790,1570,191804,2747791938,769002,postmatch_penalty,Roni,Aliji,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Matthew,Aidam,Silkeborg U17,1
+5745119,3134,191807,2671293321,1102681,postmatch_penalty,Kalle ,Dutz ,Hvidovre U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Christoffer,Kalkar,B 93 U19,1
+5745883,3135,191811,2751165832,1030435,postmatch_penalty,Sylvester Holm,Jensen,Kolding IF U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Asger,Lønborg,HIK U19,1
+5745952,3135,191811,3051363216,1230530,penalty,William,Hansen,Hvidovre U17,"Hvidovre U17 - HB Køge U17, 2 - 3",TRUE,TRUE,right_foot,gb,Jeppe,Larsen ,HB Køge U17,1
+5744900,1570,191804,2994824063,1101594,postmatch_penalty,Mads,Frederiksen,Esbjerg U15,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Oliver Leon,Koch Wall,Brøndby U17,1
+5745949,3135,191811,2966977830,1230535,penalty,Anton,Gøtrik,Hvidovre U17,"Nykøbing U17 - Hvidovre U17, 3 - 2",FALSE,TRUE,right_foot,gbr,Frej,Lisborg,Nykøbing U17,1
+5744839,1570,191804,2966007137,1019305,postmatch_penalty,Villads Nikolaj,Hass,Brøndby IF U15,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Daniel,Kannerup,AGF U17,1
+5745917,3135,191811,2923000640,1132681,postmatch_penalty,Mads Lind ,Hermansen,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Mads,August Kühnel,AB U17,1
+5743873,1305,191801,2958213963,1211997,penalty,Jakob,Sigurðsson,Lyngby U19,"Lyngby U19 - Horsens U19, 2 - 2 (E)",TRUE,TRUE,right_foot,gb,William,Riisberg Hansen,Horsens U19,1
+5745160,3134,191807,2726426829,969360,postmatch_penalty,Oliver Wesley,Knudsen,AB U19,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Jonas ,Bolinder,Næstved U17,1
+5743884,1305,191801,2975152530,817235,postmatch_penalty,William,Løkke Møller,Silkeborg U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743770,1305,191801,2658469509,678062,penalty,Sebastian,Lodberg Oppenhagen,Midtjylland U19,"Randers U19 - Midtjylland U19, 1 - 6",TRUE,TRUE,left_foot,gc,Oliver,Vestergaard Henriksen,Randers U19,1
+5744720,1570,191804,2717803749,933782,postmatch_penalty,Noah,Gottsche Madsen,København U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Victor,Stroyer,Vejle U17,1
+5745817,3135,191811,2675601520,1103380,postmatch_penalty,Lucas,Ringheim,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,,1
+5745284,3134,191807,3004662858,1063048,postmatch_penalty,Tobias,Dahl,Hvidovre U17,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Malthe,Deppe Mørup,Kolding IF U19,1
+5745139,3134,191807,2699081212,766626,penalty,Vincent,Abildgaard,B 93 U19,"Nykøbing U19 - B 93 U19, 3 - 2",TRUE,TRUE,right_foot,gl,Cornelius Noah Ladevig,Refnov,Nykøbing U19,1
+5744790,1570,191804,2747791940,1017790,postmatch_penalty,Frederik Edvard,Brink de Fønss,FC Nordsjælland U15,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Matthew,Aidam,Silkeborg U17,1
+5743799,1305,191801,2730482815,760963,postmatch_penalty,Samuel,Piechnik Hust,Vejle U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5743750,1305,191801,2638561275,760963,postmatch_penalty,Samuel,Piechnik Hust,Vejle U19,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Tobias,Breum-Harild,København U19,1
+5745971,3135,191811,2998526263,1326824,postmatch_penalty,Alfred,Hellgren Blichfeldt,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5743900,1305,191801,3086376486,1183190,postmatch_penalty,Emmanuel,Alase,Midtjylland U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gtl,Noah Q.P,Nguyen,Sønderjyske U17,1
+5745817,3135,191811,2675601417,1103387,postmatch_penalty,Benjamin,Irming,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Mads,August Kühnel,AB U17,1
+5743927,1305,191801,3041087598,705904,penalty,Lasse,Mandal Andersen,Randers U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Carl,Kristoffersen,Nordsjælland U17,1
+5745883,3135,191811,2751165805,956181,postmatch_penalty,Villads Aaen,Thøgersen,Kolding IF U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Asger,Lønborg,HIK U19,1
+5743896,1305,191801,2998331662,772512,postmatch_penalty,Vincent,Gaml,Randers U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5745819,3135,191811,2813484051,1109903,postmatch_penalty,Felix,Krarup,HB Køge U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,William,Capaldi,Helsingør U17,1
+5743818,1305,191801,2772953463,679254,penalty,Villum,Dalsgaard,Nordsjælland U19,"Vejle U19 - Nordsjælland U19, 2 - 3",FALSE,TRUE,left_foot,glb,Gustav,Nørregaard Knudsen,Vejle U19,1
+5745990,3135,191811,3060832088,1108798,postmatch_penalty,Tristan,Hentze,Viborg U17,"Helsingør U17 - Viborg U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Andreas Bille,Rohrberg,Helsingør U17,1
+5745125,3134,191807,2806440086,686535,postmatch_penalty,William,Tofthøj Warrer,Kolding IF U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Benjamin,Høier Olsen,Næstved,1
+5745836,3135,191811,2689980730,1108798,postmatch_penalty,Tristan,Hentze,Viborg U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5745917,3135,191811,2923000710,1231808,postmatch_penalty,Storm,Bentsen,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5743885,1305,191801,3069437442,679220,postmatch_penalty,Marcus,Sørensen,AaB U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Thorbjørn ,Pløger Nielsen,Vejle U17,1
+5745794,3135,191811,2642966222,1060846,penalty,Elias ,Rabah Saeid,Amager Academy U17,"Amager Academy U17 - Hobro IK U17, 3 - 4",TRUE,TRUE,right_foot,gb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745971,3135,191811,2998526343,1326822,postmatch_penalty,Emrah,Berilo,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Nicolaj,Andersen,Næsby U17,1
+5743854,1305,191801,2913703553,924036,postmatch_penalty,Alberto,Velasquez,Midtjylland U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Alexander ,Drexel,Esbjerg U19,1
+5745205,3134,191807,2679973354,798309,postmatch_penalty,Danis,Faljic,B 93 U19,"B 93 U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Elias Arif,Helms,AB U19,1
+5745817,3135,191811,2675601545,1056469,postmatch_penalty,Nicholas,Ahrenkiel,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Jonas,Salman,,1
+5743907,1305,191801,3006156396,768980,postmatch_penalty,Frederik Bæk,Vestergaard,Midtjylland U17,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5745926,3135,191811,2934560598,1084397,postmatch_penalty,Jonathan,Aldridge,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745930,3135,191811,2939635904,1077644,postmatch_penalty,Sander,Vistisen,Næstved U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Mikkel,Forsingdal,IF Lyseng U17,1
+5745161,3134,191807,2769431450,848039,postmatch_penalty,Mathias,Fris Hansen,HB Køge U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gb,Nicolai,Schmidt,Hobro IK U19,1
+5744839,1570,191804,2966007394,1098979,postmatch_penalty,Victor,Bruus Vad,AGF U15,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Elias,Medina Hansen,Brøndby U17,1
+5745202,3134,191807,2781239139,844367,postmatch_penalty,Frederik,Simonsen,Helsingør U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Viktor,Bror Kristensen,Hobro IK U17,1
+5743870,1305,191801,2955269626,868445,postmatch_penalty,Kerim,Sejdic,Vejle U17,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gtr,Christian,Risom,Silkeborg U19,1
+5743795,1305,191801,2967681192,679251,postmatch_penalty,Sebastian,Laustsen Bruun,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743895,1305,191801,2986537208,797277,postmatch_penalty,Adam,Omrani,OB U17,"AGF U19 - OB U19, 1 - 1 (P)",FALSE,TRUE,left_foot,gb,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5745161,3134,191807,2769431284,742492,postmatch_penalty,Valdemar ,Bach Schmølker,Hobro IK U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Emil,Niemann,HB Køge U19,1
+5745971,3135,191811,2998526339,1063070,postmatch_penalty,Nilas,Luplau,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Nicolaj,Andersen,Næsby U17,1
+5745885,3135,191811,2754489849,981602,postmatch_penalty,Aldin,Cehic,AaB U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Mads Lahn,Berthelsen,Roskilde U19,1
+5743854,1305,191801,2913703663,767229,postmatch_penalty,Andreas,Uhre Kristensen,Esbjerg U19,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Liam Johan,Selin,Midtjylland U19,1
+5743870,1305,191801,2955269795,760857,postmatch_penalty,Malthe Emil,Søgaard Hansen,Silkeborg U19,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Thorbjørn ,Pløger Nielsen,Vejle U17,1
+5743895,1305,191801,2986537209,847884,postmatch_penalty,Christian,Brund,OB U19,"AGF U19 - OB U19, 1 - 1 (P)",FALSE,FALSE,left_foot,ptr,,,,1
+5745115,3134,191807,2664278962,738641,penalty,Gustav Ærenlund,Johansen,Helsingør U19,"Helsingør U19 - Nykøbing U19, 4 - 1",TRUE,TRUE,right_foot,gbr,Cornelius Noah Ladevig,Refnov,Nykøbing U19,1
+5744863,1570,191804,2955934273,1086704,penalty,Yasir,Ugurlu,Vejle U17,"Randers U17 - Vejle U17, 2 - 4",TRUE,TRUE,right_foot,gb,Sander,Bang Vester,Randers U17,1
+5745839,3135,191811,2696225744,1234785,penalty,Sebastian,Madsen,SfB-Oure FA U17,"SfB-Oure FA U17 - Næstved U17, 4 - 1",FALSE,FALSE,right_foot,otl,,,,1
+5745906,3135,191811,2831638604,1091437,postmatch_penalty,Mikkel,Forsingdal,IF Lyseng U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gb,Frederik,Noer,HIK U17,1
+5743795,1305,191801,2967680418,752773,postmatch_penalty,Mads Bo,Ottesen,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5744890,1570,191804,3055816508,1100248,postmatch_penalty,Tahir,Kolici,Horsens U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gc,Isak,Lee-Dam,AGF U17,1
+5743750,1305,191801,2638561306,769005,postmatch_penalty,Sean ,Fetterlein,København U17,"Vejle U19 - København U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Gustav,Nørregaard Knudsen,Vejle U19,1
+5745160,3134,191807,2726427235,848041,postmatch_penalty,Christian,Ørum Hansen,Næstved U19,"Næstved U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Bertram,Elkjær Pihl,AB U19,1
+5744775,1570,191804,2740750707,980480,postmatch_penalty,Mathias,Mejdal Johnsen,Vejle U17,"AGF U17 - Vejle U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gbr,Daniel,Kannerup,AGF U17,1
+5744753,1570,191804,2723611215,981565,postmatch_penalty,Magnus,Bak,AaB U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745950,3135,191811,2969295729,963286,postmatch_penalty,Anders,Madsen,Viborg U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745815,3135,191811,2680753518,1230219,postmatch_penalty,Khalil,Fadi Sakka,IF Lyseng U19,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gb,Anton,Kousgaard,,1
+5745929,3135,191811,2947829818,1138415,postmatch_penalty,Christian Christensen,Nordentoft,Viborg U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Tobias,Skov,,1
+5744902,1570,191804,3049269634,955884,postmatch_penalty,Rasmus,Andersen,Lyngby U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Esben,Schou,Silkeborg IF U15,1
+5745927,3135,191811,2934404553,1192382,postmatch_penalty,Laurits Tranberg,Rasmussen,AB U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",FALSE,TRUE,right_foot,gc,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5743799,1305,191801,2730482828,738328,postmatch_penalty,Kristian,Tonnisen,Næsby,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5744853,1570,191804,2985672659,1080918,postmatch_penalty,Marcello,Lind,Silkeborg U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Frederik,B. Andersen,Randers U19,1
+5744728,1570,191804,2701250746,1057668,postmatch_penalty,Teo,Reeh,København U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Oliver Kræmer,Jessen,SønderjyskE U17,1
+5745998,3135,191811,3080871343,1305086,penalty,Flori ,Ademi,Hvidovre U17,"IF Lyseng U17 - Hvidovre U17, 1 - 6",TRUE,TRUE,right_foot,gc,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745840,3135,191811,2712511009,1194161,penalty,Mehmet ,Emin Aydar,HIK U17,"Hvidovre U17 - HIK U17, 0 - 2",FALSE,TRUE,right_foot,glb,Oliver ,Wettendorff,Hvidovre U19,1
+5745284,3134,191807,3004662751,956186,postmatch_penalty,Emil,Fevre,Kolding IF U17,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gc,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745311,3134,191807,3094001114,858908,postmatch_penalty,August,Holm,B 93 U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Berthram,Sommer,AGF U19,1
+5744790,1570,191804,2747791936,769279,postmatch_penalty,Sebastian,Jørgensen,Nordsjælland U19,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Matthew,Aidam,Silkeborg U17,1
+5745303,3134,191807,3092272036,769189,penalty,Jannik,Bindslev Borge,HB Køge U17,"Viborg U19 - Amager Academy U19, 1 - 2",TRUE,TRUE,right_foot,gc,Tobias,Vester,Viborg U19,1
+5743896,1305,191801,2998331666,831769,postmatch_penalty,Mads ,Søndergaard Nielsen,Randers U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Christian,Risom,Silkeborg U19,1
+5743870,1305,191801,2955269791,679251,postmatch_penalty,Sebastian,Laustsen Bruun,Silkeborg U19,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",FALSE,FALSE,right_foot,otr,,,,1
+5746028,3135,191811,3095599968,933538,penalty,Bastian,Lyngenbo,Helsingør U17,"Helsingør U17 - Amager Academy U17, 3 - 5",TRUE,TRUE,left_foot,gb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745150,3134,191807,2711681432,846979,postmatch_penalty,Sebastian,Gubi,Amager Academy U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Tobias,Skov,,1
+5744770,1570,191804,2777082596,933774,penalty,Elvin,Mehicic,København U17,"København U17 - Randers U17, 7 - 0",TRUE,TRUE,right_foot,gc,Frederik,B. Andersen,Randers U19,1
+5743804,1305,191801,2967673683,1211997,penalty,Jakob,Sigurðsson,Lyngby U19,"Lyngby U19 - Sønderjyske U19, 3 - 0",TRUE,TRUE,right_foot,gb,Benjamin,Bruhn Rasmussen,SønderjyskE U19,1
+5744790,1570,191804,2747791942,768990,postmatch_penalty,Justus,Smergel-Krog,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Matthew,Aidam,Silkeborg U17,1
+5744720,1570,191804,2717803757,1071569,postmatch_penalty,Rolex Tonye,Kingdom-Yeri,København U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Victor,Stroyer,Vejle U17,1
+5745930,3135,191811,2939635092,1230217,penalty,Lau,Dam Hansen,IF Lyseng U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Anton,Kousgaard,,1
+5745815,3135,191811,2680753230,1077644,postmatch_penalty,Sander,Vistisen,Næstved U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Mikkel,Forsingdal,IF Lyseng U17,1
+5743896,1305,191801,2998331672,908262,postmatch_penalty,Linus,Nørgaard,Randers U17,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Christian,Risom,Silkeborg U19,1
+5743800,1305,191801,2838541354,761130,penalty,Oscar Karimi,Mandrup,Horsens U19,"Horsens U19 - OB U19, 0 - 3",FALSE,TRUE,right_foot,glb,Tobias Oskar,Elnegaard,OB U19,1
+5745164,3134,191807,2734376353,883068,penalty,Sebastian Carlo,Lillevang Bangshof,Hvidovre U17,"Hvidovre U19 - Næsby U19, 2 - 2",TRUE,TRUE,right_foot,gb,Tobias,Skov,,1
+5745269,3134,191807,2974069065,1019658,penalty,Omran,Khatar,HB Køge U19,"Hvidovre U19 - HB Køge U19, 2 - 3",TRUE,TRUE,right_foot,glb,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745897,3135,191811,2800620095,1226604,postmatch_penalty,Esben,Stenbek,Næstved U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gc,Anton Bro,Rasmussen,Hvidovre U17,1
+5745311,3134,191807,3094001111,845780,postmatch_penalty,Marcus,Bering,B 93 U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Berthram,Sommer,AGF U19,1
+5745815,3135,191811,2680753233,1077643,postmatch_penalty,Oliver,Tedaldi,Næstved U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Mikkel,Forsingdal,IF Lyseng U17,1
+5745906,3135,191811,2831638602,1230197,postmatch_penalty,Carl,Lindstrøm Koue,IF Lyseng U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,left_foot,glb,Frederik,Noer,HIK U17,1
+5745926,3135,191811,2934560004,1145268,penalty,Noah,Toft,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Tobias,Skov,Næsby U17,1
+5745294,3134,191807,3024413049,797450,penalty,Malth Holze,Dethlefsen,Næsby U19,"B 93 U19 - Næsby U19, 3 - 5",TRUE,TRUE,right_foot,glb,Isak,Lund,SfB-Oure FA U17,1
+5745971,3135,191811,2998526243,1271299,postmatch_penalty,Asaad,Ghassan,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5745311,3134,191807,3094000712,1230219,postmatch_penalty,Khalil,Fadi Sakka,IF Lyseng U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",FALSE,TRUE,left_foot,gl,Julius Svarre,Christensen,B 93 U19,1
+5743871,1305,191801,3059010608,769289,postmatch_penalty,Malthe,Egebæk Mortensen,AaB U17,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Liam Johan,Selin,Midtjylland U19,1
+5744789,1570,191804,2764562444,939775,penalty,Oscar,Wind,Lyngby U17,"Horsens U17 - Lyngby U17, 1 - 6",TRUE,TRUE,right_foot,gtl,Alfred ,Kragh,Horsens U15,1
+5744890,1570,191804,3055816504,872492,postmatch_penalty,Jonas Lyhne,Holmgaard,Midtjylland U17,"AGF U17 - Midtjylland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Isak,Lee-Dam,AGF U17,1
+5744900,1570,191804,2994824055,1101599,postmatch_penalty,Emin,Cehobasic,Esbjerg U15,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gt,Oliver Leon,Koch Wall,Brøndby U17,1
+5743805,1305,191801,2733223203,679254,postmatch_penalty,Villum,Dalsgaard,Nordsjælland U19,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Oscar,Gadeberg-Buur,København U19,1
+5744761,1570,191804,2792137362,858985,postmatch_penalty,Daniel,Kannerup,AGF U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745917,3135,191811,2923000612,1095261,postmatch_penalty,Emil Andersson,Galijatovic,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Mads,August Kühnel,AB U17,1
+5745142,3134,191807,2700236232,932132,postmatch_penalty,Adam,Kleis-Kristoffersen,Viborg U19,"AB U19 - Viborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Elias Arif,Helms,AB U19,1
+5745836,3135,191811,2689980728,1103389,postmatch_penalty,Oscar,Arbøl Andreæ,AB U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744903,1570,191804,3071462575,768973,postmatch_penalty,Robin,Hansen,Vejle U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Vilads Emil,Peitersen,OB U17,1
+5745202,3134,191807,2781239121,738641,postmatch_penalty,Gustav Ærenlund,Johansen,Helsingør U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Viktor,Bror Kristensen,Hobro IK U17,1
+5745836,3135,191811,2689980732,959942,postmatch_penalty,Mikkel,Buhl,Viborg U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744848,1570,191804,2999785973,1106880,penalty,Adam Victor,Heine,Lyngby U17,"Sønderjyske U17 - Lyngby U17, 0 - 2",TRUE,TRUE,right_foot,glb,Jesper,Therkelsen,SønderjyskE U17,1
+5744790,1570,191804,2747791795,947118,postmatch_penalty,Sander,Bodilsen,Silkeborg U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",FALSE,FALSE,right_foot,pr,,,,1
+5745273,3134,191807,2994163188,846919,postmatch_penalty,Semih,Sevik,Næsby U17,"Næsby U19 - Helsingør U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,,,,1
+5745917,3135,191811,2923000720,1103242,postmatch_penalty,Conrad,Baagøe Schou,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5745118,3134,191807,2669166334,963708,postmatch_penalty,Carl-Emil,Dinsen,IF Lyseng U17,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Viktor,Bror Kristensen,Hobro IK U17,1
+5745125,3134,191807,2806440196,962893,postmatch_penalty,Jeppe Esmann,Hansen,Næstved U17,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5744733,1570,191804,2659168799,882052,postmatch_penalty,Wissam,Maarouf,AGF U17,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Marinus,Bach Pedersen,,1
+5744737,1570,191804,2678607401,869192,postmatch_penalty,Stefan,Petrache Nielsen,Vejle U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Alfred ,Kragh,Horsens U15,1
+5744727,1570,191804,2765911781,942678,penalty,Lukas,Legaard Jorgensen,OB U17,"AaB U17 - OB U17, 0 - 2",FALSE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5745906,3135,191811,2831638600,1145266,postmatch_penalty,August,Hjortshøj Svane,IF Lyseng U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,left_foot,glb,Frederik,Noer,HIK U17,1
+5743826,1305,191801,2771170986,842144,postmatch_penalty,Christian,Risom,Silkeborg U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745178,3134,191807,2741068847,765144,postmatch_penalty,Noah,Stolshøj,,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Malthe,Deppe Mørup,,1
+5744802,1570,191804,2826156630,955979,penalty,Hector,Lux Høyrup,Randers U17,"Randers U17 - AGF U17, 4 - 5",TRUE,TRUE,right_foot,gr,Daniel,Kannerup,AGF U17,1
+5745156,3134,191807,2711730181,738641,penalty,Gustav Ærenlund,Johansen,Helsingør U19,"SfB-Oure FA U19 - Helsingør U19, 2 - 1",FALSE,FALSE,right_foot,otl,,,,1
+5745284,3134,191807,3004662728,956181,postmatch_penalty,Villads Aaen,Thøgersen,Kolding IF U17,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745993,3135,191811,3067125420,768957,penalty,August,Schødt-Pedersen,Amager Academy U17,"Viborg U17 - Amager Academy U17, 1 - 4",FALSE,TRUE,right_foot,gbr,Jeppe,Pagh,Viborg U17,1
+5745971,3135,191811,2998526345,1108718,postmatch_penalty,Alvin,Svane Lavrsen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Nicolaj,Andersen,Næsby U17,1
+5743900,1305,191801,3086376601,961453,postmatch_penalty,Elias Warming,Petersen,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745160,3134,191807,2726427242,1113849,postmatch_penalty,Rasmus,Hartøft,Næstved U17,"Næstved U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Bertram,Elkjær Pihl,AB U19,1
+5745971,3135,191811,2998526361,1063070,postmatch_penalty,Nilas,Luplau,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Nicolaj,Andersen,Næsby U17,1
+5743871,1305,191801,3059010612,769078,postmatch_penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"AaB U19 - Midtjylland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5743750,1305,191801,2638561285,813418,postmatch_penalty,Hjalte,Gitz Christensen,Vejle U19,"Vejle U19 - København U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Tobias,Breum-Harild,København U19,1
+5745906,3135,191811,2831638598,1091415,postmatch_penalty,Marius,Stage,Vejle U17,"HIK U17 - IF Lyseng U17, 0 - 0 (P)",TRUE,TRUE,right_foot,gbr,Frederik,Noer,HIK U17,1
+5745950,3135,191811,2969295736,1034154,postmatch_penalty,Lauge,Hangaard Christensen,,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5743900,1305,191801,3086376506,831736,postmatch_penalty,August Emil,Skyttehave Rytter,Midtjylland U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744831,1570,191804,2943391826,959674,penalty,Ali,Riad,Vejle U17,"Silkeborg U17 - Vejle U17, 4 - 3",TRUE,TRUE,right_foot,glb,Matthew,Aidam,Silkeborg U17,1
+5745927,3135,191811,2934404276,956031,postmatch_penalty,Malthe,Neergaard,Hobro IK U17,"SfB-Oure FA U17 - Hobro IK U17, 0 - 0 (P)",TRUE,TRUE,left_foot,gbr,Tobias Mikkelsen,Heilbuth,Brøndby U17,1
+5745888,3135,191811,2763862244,1230527,postmatch_penalty,Wictor,Søby Rind,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Carl-Emil,Rething Borglykke,AB U17,1
+5743900,1305,191801,3086376522,769256,postmatch_penalty,James ,Alphinas,Midtjylland U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745958,3135,191811,2982029777,1100597,penalty,Noah,Escobar,Roskilde U17,"Roskilde U17 - Næsby U17, 2 - 4",TRUE,TRUE,right_foot,gbr,Nicolaj,Andersen,Næsby U17,1
+5745118,3134,191807,2669166354,765199,postmatch_penalty,Marcus Lynge,Bøgh Nielsen,IF Lyseng U19,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Viktor,Bror Kristensen,Hobro IK U17,1
+5745976,3135,191811,3006207184,1079785,penalty,William ,Juul-Jensen,Hvidovre U17,"Næsby U17 - Hvidovre U17, 2 - 7",TRUE,TRUE,right_foot,gl,Nicolaj,Andersen,Næsby U17,1
+5746019,3135,191811,3068190043,1064886,postmatch_penalty,Asger,Grunnet Groth,HIK U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Anton,Kousgaard,Nordsjælland U17,1
+5743813,1305,191801,2967646333,766698,penalty,Sebastian,Larsen,SønderjyskE U19,"Brøndby U19 - Sønderjyske U19, 2 - 4",TRUE,TRUE,right_foot,gc,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5743896,1305,191801,2998331456,703476,postmatch_penalty,William Korup,Pedersen,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Oliver,Vestergaard Henriksen,Randers U19,1
+5743799,1305,191801,2730482798,742110,postmatch_penalty,Philip,Berendt Søndergaard,Brøndby U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Kasper,Holm Rod,Vejle U19,1
+5743898,1305,191801,3047646666,1182017,penalty,Hamza,Sengooba ,AGF U19,"Vejle U19 - AGF U19, 3 - 1",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5743854,1305,191801,2913703532,831736,postmatch_penalty,August Emil,Skyttehave Rytter,Midtjylland U17,"Midtjylland U19 - Esbjerg U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Alexander ,Drexel,Esbjerg U19,1
+5745950,3135,191811,2969295733,1108791,postmatch_penalty,Villads,Kragh Pedersen,Viborg U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5745821,3135,191811,2668898148,1122656,penalty,Tristan,Kolath-Møbjerg,Nykøbing U17,"Nykøbing U17 - Amager Academy U17, 2 - 3",TRUE,TRUE,right_foot,gbr,Max Theodore,Schow,Amager Academy U17,1
+5745320,3134,191807,3085394714,1060846,postmatch_penalty,Elias ,Rabah Saeid,Amager Academy U17,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Hjalthe,Orthmann Jensen,Næstved,1
+5745268,3134,191807,3059056023,815707,penalty,Noah,Williams,HIK U19,"Helsingør U19 - Kolding IF U19, 1 - 1",TRUE,TRUE,right_foot,glb,Malthe,Deppe Mørup,,1
+5745963,3135,191811,3073010817,1064886,postmatch_penalty,Asger,Grunnet Groth,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton Bro,Rasmussen,Hvidovre U17,1
+5743884,1305,191801,2975152528,751640,postmatch_penalty,Sebastian,Christoffersen,Silkeborg U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745888,3135,191811,2763862297,1073534,postmatch_penalty,Sebastian,Iversen,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Anton Bro,Rasmussen,Hvidovre U17,1
+5745815,3135,191811,2680753225,1174743,postmatch_penalty,Valdemar,Villemoes Vesterå,,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",FALSE,FALSE,right_foot,otr,,,,1
+5743927,1305,191801,3041088867,705904,postmatch_penalty,Lasse,Mandal Andersen,Randers U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Carl,Kristoffersen,Nordsjælland U17,1
+5745971,3135,191811,2998526238,1196915,postmatch_penalty,Lukas Bogetoft,Simonsen,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5746019,3135,191811,3068189622,1077644,postmatch_penalty,Sander,Vistisen,SfB-Oure FA U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gr,Frederik,Noer,HIK U17,1
+5743900,1305,191801,3086376599,769270,postmatch_penalty,Oscar ,Dall,AGF U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745817,3135,191811,2675601518,939771,postmatch_penalty,Jakob Hoffmann,Rasmussen,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,Næsby U17,1
+5744737,1570,191804,2678607396,868445,postmatch_penalty,Kerim,Sejdic,Vejle U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,left_foot,gc,Alfred ,Kragh,Horsens U15,1
+5743856,1305,191801,2967664430,748640,postmatch_penalty,Jonathan,Christensen Moalem,København,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743826,1305,191801,2771170962,679254,postmatch_penalty,Villum,Dalsgaard,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",FALSE,FALSE,left_foot,plb,,,,1
+5745294,3134,191807,3024414198,766626,penalty,Vincent,Abildgaard,B 93 U19,"B 93 U19 - Næsby U19, 3 - 5",TRUE,TRUE,right_foot,gc,Malang,Faty,Næsby U19,1
+5743927,1305,191801,3041088871,1091406,postmatch_penalty,Hussein,Khalil,SønderjyskE U17,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Carl,Kristoffersen,Nordsjælland U17,1
+5745971,3135,191811,2998526341,1187482,postmatch_penalty,Nicholas,Meyer Jahnsen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Nicolaj,Andersen,Næsby U17,1
+5745328,3134,191807,3088460150,833384,postmatch_penalty,Magne ,Søe Rylov,AB U19,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtr,Julius Svarre,Christensen,B 93 U19,1
+5746001,3135,191811,3051800096,946116,penalty,Elias,Gylling,Nordsjælland U17,"Amager Academy U17 - AB U17, 2 - 3",TRUE,TRUE,right_foot,gbr,Carl-Emil,Rething Borglykke,AB U17,1
+5743826,1305,191801,2771170968,769177,postmatch_penalty,Rayan,Bardghji,København U17,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Christian,Risom,Silkeborg U19,1
+5743885,1305,191801,3069437451,869192,postmatch_penalty,Stefan,Petrache Nielsen,Vejle U17,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Villads Hother,Bertelsen,AaB U17,1
+5743795,1305,191801,2967681194,751640,postmatch_penalty,Sebastian,Christoffersen,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743927,1305,191801,3041088879,845848,postmatch_penalty,Andreas,Holm,SønderjyskE U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Carl,Kristoffersen,Nordsjælland U17,1
+5745964,3135,191811,3060575377,1132681,postmatch_penalty,Mads Lind ,Hermansen,HB Køge U17,"HB Køge U17 - B.93 U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Alexander,Dyrstrom,,1
+5744761,1570,191804,2792137171,769149,postmatch_penalty,Leutrim,Callaku,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Daniel,Kannerup,AGF U17,1
+5743750,1305,191801,2638561310,929580,postmatch_penalty,Henrik,Haraldsen,København U19,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Gustav,Nørregaard Knudsen,Vejle U19,1
+5745885,3135,191811,2754489853,1065059,postmatch_penalty,Lucas,Støvring,Hobro IK U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Mads Lahn,Berthelsen,Roskilde U19,1
+5745888,3135,191811,2763862228,1230530,postmatch_penalty,William,Hansen,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Carl-Emil,Rething Borglykke,AB U17,1
+5745917,3135,191811,2923000708,1103395,postmatch_penalty,Villum,Gyrup Stokbro,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Jeppe,Larsen ,HB Køge U17,1
+5745262,3134,191807,2974920389,874957,postmatch_penalty,Oliver,Krøjgaard,IF Lyseng U17,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gl,Elias Arif,Helms,AB U19,1
+5745815,3135,191811,2680753521,1091415,postmatch_penalty,Marius,Stage,Vejle U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Anton,Kousgaard,Nordsjælland U17,1
+5744903,1570,191804,3071462567,959676,postmatch_penalty,Albert,Frederiksen,Vejle U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Vilads Emil,Peitersen,OB U17,1
+5743826,1305,191801,2771170966,983588,postmatch_penalty,Victor,Dahl,Silkeborg U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745817,3135,191811,2675601389,1147828,postmatch_penalty,Andreas,Wamberg,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Mads,August Kühnel,AB U17,1
+5745150,3134,191807,2711681387,1071572,postmatch_penalty,Dean ,Yan,Næsby U17,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Villads ,Vesterbøg,Amager Academy U17,1
+5743903,1305,191801,3073362032,751640,penalty,Sebastian,Christoffersen,Silkeborg U19,"Nordsjælland U19 - Silkeborg U19, 6 - 1",TRUE,TRUE,right_foot,gl,Victor,Øberg,Nordsjælland U19,1
+5743750,1305,191801,2638561290,765213,postmatch_penalty,Mathias,Bang,SønderjyskE U17,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Tobias,Breum-Harild,København U19,1
+5743896,1305,191801,2998331453,932352,postmatch_penalty,Anton,Brems,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Oliver,Vestergaard Henriksen,Randers U19,1
+5745915,3135,191811,2922031960,1101574,penalty,Magnus,Hørup Larsen,HIK U17,"HIK U17 - Viborg U17, 1 - 1",TRUE,TRUE,right_foot,gbr,Jeppe,Pagh,Viborg U17,1
+5743819,1305,191801,3058978014,760807,penalty,Viktor,Fjeldgaard,AaB U19,"AaB U19 - København U19, 2 - 3",TRUE,TRUE,right_foot,gb,Tobias,Breum-Harild,København U19,1
+5743877,1305,191801,2966136068,766630,penalty,Viggo,Poulsen,Brøndby U17,"Brøndby U19 - AGF U19, 0 - 2",FALSE,TRUE,right_foot,gl,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5745160,3134,191807,2726427236,1249964,postmatch_penalty,Daniel,Hernandez,Næstved U19,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Bertram,Elkjær Pihl,AB U19,1
+5745313,3134,191807,3057881885,742492,penalty,Valdemar ,Bach Schmølker,Hobro IK U19,"Roskilde U19 - Hobro IK U19, 2 - 4",TRUE,TRUE,right_foot,gb,Elias,Gottschalck,Roskilde U17,1
+5745205,3134,191807,2679972466,817468,penalty,Mohcin,Belouahi,AB U19,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Julius Svarre,Christensen,B 93 U19,1
+5745328,3134,191807,3088459856,797327,postmatch_penalty,Viggo,Sahlstrøm,B 93 U19,"AB U19 - B 93 U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Elias Arif,Helms,AB U19,1
+5744902,1570,191804,3049269638,1176827,postmatch_penalty,Marius ,Kristensen,HIK U17,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Esben,Schou,Silkeborg IF U15,1
+5743799,1305,191801,2730482820,849689,postmatch_penalty,Rasmus,Koch Groth Pedersen,Middelfart,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5744775,1570,191804,2740750865,959939,postmatch_penalty,Carl Gustav,Degn,AGF U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Victor,Stroyer,Vejle U17,1
+5745888,3135,191811,2763862293,1268793,postmatch_penalty,Tristan,Hartmann Albertus,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Anton Bro,Rasmussen,Hvidovre U17,1
+5745891,3135,191811,2761865547,1095261,postmatch_penalty,Emil Andersson,Galijatovic,HB Køge U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Elias Køier,Thorkildsen,,1
+5745817,3135,191811,2675601390,972705,postmatch_penalty,Asger Rask ,Clausen ,Næsby U19,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,,,,1
+5745311,3134,191807,3094001108,748642,postmatch_penalty,Johan,Fagersted Henriksen,B 93 U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Berthram,Sommer,AGF U19,1
+5743761,1305,191801,2648415087,847905,postmatch_penalty,Tobias,Lundsgaard Jørgensen,AaB U17,"AaB U19 - OB U19, 3 - 3 (P)",FALSE,TRUE,left_foot,gl,Marcus,Eskildsen,OB U19,1
+5744720,1570,191804,2717803426,959669,postmatch_penalty,Villads,Serritslev Østergaard,Vejle U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Villads,Bille Morrah,København U17,1
+5743781,1305,191801,2697154405,760820,postmatch_penalty,Johan Juvstad,Hvistendahl,AaB U17,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Christian,Risom,Silkeborg U19,1
+5746019,3135,191811,3068189620,1055894,postmatch_penalty,Lasse Haarup ,Krogh Andersen,Næsby U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Frederik,Noer,HIK U17,1
+5745262,3134,191807,2974920313,1268791,postmatch_penalty,Alexander,Lunøe,AB U19,"AB U19 - IF Lyseng U19, 0 - 0 (P)",FALSE,TRUE,right_foot,gr,Berthram,Sommer,AGF U19,1
+5744746,1570,191804,2689479261,908263,penalty,Henry ,Leal Soares,Randers U17,"Randers U17 - Horsens U17, 6 - 0",TRUE,TRUE,right_foot,gr,Alfred ,Kragh,Horsens U15,1
+5745142,3134,191807,2700236228,1084336,postmatch_penalty,Magnus,Olsen,Viborg U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Elias Arif,Helms,AB U19,1
+5745205,3134,191807,2679973347,961179,postmatch_penalty,Mikkel,Skotte Haakonsson,B 93 U19,"B 93 U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Elias Arif,Helms,AB U19,1
+5744775,1570,191804,2740750873,971633,postmatch_penalty,Georg,Holgersen Kaspersen,AB U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gr,Victor,Stroyer,Vejle U17,1
+5743900,1305,191801,3086376591,766690,postmatch_penalty,Jeppe,Klemann Pålsson,SønderjyskE U19,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Sigurour Jokull,Ingvason,Midtjylland U19,1
+5745885,3135,191811,2754489848,1094074,postmatch_penalty,Mikkel,Bech,Hobro IK U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Mads Lahn,Berthelsen,Roskilde U19,1
+5744903,1570,191804,3071462571,959674,postmatch_penalty,Ali,Riad,Vejle U17,"Vejle U17 - OB U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Vilads Emil,Peitersen,OB U17,1
+5743927,1305,191801,3041088877,701651,postmatch_penalty,Oliver,Aare Vest,Nordsjælland U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745883,3135,191811,2751165984,1244039,postmatch_penalty,Markus,Christensen,HIK U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Tobias Bloch,Brandt,Kolding IF U17,1
+5745883,3135,191811,2751165980,1077523,postmatch_penalty,Noah,Aagaard,HIK U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Tobias Bloch,Brandt,Kolding IF U17,1
+5743781,1305,191801,2697155262,742117,postmatch_penalty,Simon ,Fynbo Stüker ,Silkeborg U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5744720,1570,191804,2717803418,915582,postmatch_penalty,Benjamin ,Nicolaisen,Vejle U17,"Vejle U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Villads,Bille Morrah,København U17,1
+5745888,3135,191811,2763862246,1230495,postmatch_penalty,Jeppe,Wind,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Carl-Emil,Rething Borglykke,AB U17,1
+5745262,3134,191807,2974920395,765199,postmatch_penalty,Marcus Lynge,Bøgh Nielsen,AGF U19,"AB U19 - IF Lyseng U19, 0 - 0 (P)",TRUE,TRUE,right_foot,gl,Elias Arif,Helms,AB U19,1
+5745920,3135,191811,2934160490,1129380,penalty,Villads,Dinesen Schack,Kolding IF U17,"Viborg U17 - Kolding IF U17, 2 - 4",TRUE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5743805,1305,191801,2733223195,679432,postmatch_penalty,Roberto,Escribano Risnæs,København U19,"Nordsjælland U19 - København U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745945,3135,191811,2965981894,1129380,penalty,Villads,Dinesen Schack,Kolding IF U17,"Kolding IF U17 - Roskilde U17, 4 - 0",FALSE,TRUE,right_foot,gbr,Milas,Wallin,Roskilde U17,1
+5745815,3135,191811,2680753523,1145268,postmatch_penalty,Noah,Toft,IF Lyseng U17,"IF Lyseng U17 - SfB-Oure FA U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gbr,Anton,Kousgaard,,1
+5745247,3134,191807,2949866125,962799,postmatch_penalty,Strahinja,Babovic,OB U17,"AB U19 - Næsby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Malang,Faty,Næsby U19,1
+5745125,3134,191807,2806440095,814545,postmatch_penalty,Mikkel,Eskelund Levinsen,Kolding IF U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Benjamin,Høier Olsen,Næstved,1
+5744839,1570,191804,2966007387,1014900,postmatch_penalty,Aron Noel,Schmel,AGF U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",FALSE,TRUE,left_foot,gb,Elias,Medina Hansen,Brøndby U17,1
+5745971,3135,191811,2998526349,946116,postmatch_penalty,Elias,Gylling,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Nicolaj,Andersen,Næsby U17,1
+5745917,3135,191811,2923000689,946115,postmatch_penalty,Yassen,Pedersen,HB Køge U17,"HB Køge U17 - AB U17, 1 - 1 (P)",FALSE,TRUE,right_foot,gl,Mads,August Kühnel,AB U17,1
+5744839,1570,191804,2966007391,1012799,postmatch_penalty,Tristan Theilade,Thomsen,AGF U15,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Elias,Medina Hansen,Brøndby U17,1
+5744839,1570,191804,2966007147,911541,postmatch_penalty,Michael Souleymane,Granberg,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Daniel,Kannerup,AGF U17,1
+5745102,3134,191807,2682819977,962893,penalty,Jeppe Esmann,Hansen,Næstved U17,"HB Køge U19 - Næstved U19, 2 - 1",TRUE,TRUE,right_foot,glb,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745150,3134,191807,2711681416,1233211,postmatch_penalty,Emil,Risgård,Næsby U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Villads ,Vesterbøg,Amager Academy U17,1
+5745990,3135,191811,3060832067,1084357,postmatch_penalty,Noah,Sterring,,"Helsingør U17 - Viborg U17, 2 - 2 (P)",FALSE,FALSE,right_foot,plb,,,,1
+5745125,3134,191807,2806440188,814406,postmatch_penalty,Mads,Lundgren,Næstved U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Tobias Bloch,Brandt,Kolding IF U17,1
+5745917,3135,191811,2923000723,1095254,postmatch_penalty,Albert Risager,Krzton,København U15,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5743896,1305,191801,2998331423,760857,postmatch_penalty,Malthe Emil,Søgaard Hansen,Silkeborg U19,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Oliver,Vestergaard Henriksen,Randers U19,1
+5745829,3135,191811,2684856883,1056282,penalty,Mathias,Jensby,Roskilde U17,"Roskilde U17 - Kolding IF U17, 6 - 3",TRUE,TRUE,right_foot,gr,Luca Merrild,Skovgaard,Kolding IF U17,1
+5743799,1305,191801,2730482824,959666,postmatch_penalty,Jeppe,Højgaard Jensen,Vejle U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5745991,3135,191811,3055460709,1072681,penalty,Bertram,Farnov Raalund,Nykøbing U17,"Nykøbing U17 - Kolding IF U17, 3 - 1",TRUE,TRUE,right_foot,gbr,Mads Emil Dahlerup ,Hansen,Kolding IF U17,1
+5743856,1305,191801,2967663802,962525,penalty,Albert,Rrahmani,Sønderjyske,"Sønderjyske U19 - København U19, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5745118,3134,191807,2669166677,767132,postmatch_penalty,Villads,Busk Petersen,,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gt,Berthram,Sommer,AGF U19,1
+5745820,3135,191811,2675613059,1065059,penalty,Lucas,Støvring,Hobro IK U17,"Hobro IK U17 - IF Lyseng U17, 1 - 0",TRUE,TRUE,right_foot,gbr,Malte,Graulund,,1
+5743910,1305,191801,3016586223,697947,penalty,Mads Riis,Abrahamsen,OB U19,"Nordsjælland U19 - OB U19, 3 - 1",FALSE,FALSE,right_foot,ptr,,,,1
+5743795,1305,191801,2967681180,826077,postmatch_penalty,Marius,Møller Kristensen,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,glb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744737,1570,191804,2678607398,932109,postmatch_penalty,Frederik,Carstensen,Horsens U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",FALSE,TRUE,left_foot,gl,William,Damgaard,Vejle U15,1
+5745205,3134,191807,2679973018,817468,postmatch_penalty,Mohcin,Belouahi,AB U19,"B 93 U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,left_foot,glb,Julius Svarre,Christensen,B 93 U19,1
+5745888,3135,191811,2763862295,1231808,postmatch_penalty,Storm,Bentsen,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,glb,Anton Bro,Rasmussen,Hvidovre U17,1
+5743843,1305,191801,2967615683,766698,postmatch_penalty,Sebastian,Larsen,SønderjyskE U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William,Riisberg Hansen,Horsens U19,1
+5743907,1305,191801,3006156276,817235,postmatch_penalty,William,Løkke Møller,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Liam Johan,Selin,Midtjylland U19,1
+5745098,3134,191807,2657391934,969360,postmatch_penalty,Oliver Wesley,Knudsen,AB U19,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gtl,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745884,3135,191811,2752492368,768986,penalty,Diaco,Rahdar,Helsingør U17,"Næstved U17 - Helsingør U17, 2 - 1",FALSE,TRUE,right_foot,gbr,Victor,Søgaard Meyer,Næstved U17,1
+5743927,1305,191801,3041088861,769149,postmatch_penalty,Leutrim,Callaku,Nordsjælland U17,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5743870,1305,191801,2955269793,983588,postmatch_penalty,Victor,Dahl,,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",FALSE,TRUE,right_foot,gl,Thorbjørn ,Pløger Nielsen,Vejle U17,1
+5745182,3134,191807,2750860337,813420,penalty,Magnus,Carstensen,Næsby U19,"Næsby U19 - HB Køge U19, 3 - 6",TRUE,TRUE,left_foot,glb,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745320,3134,191807,3085394718,971626,postmatch_penalty,Leo,Myers,Amager Academy U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Hjalthe,Orthmann Jensen,Næstved,1
+5743781,1305,191801,2697154406,701631,postmatch_penalty,Georg,Ejsing,AaB U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5745893,3135,191811,2761960555,1224595,penalty,Noah,Mortensen,Nykøbing U17,"Nykøbing U17 - IF Lyseng U17, 0 - 2",FALSE,TRUE,right_foot,gbr,Mikkel,Forsingdal,IF Lyseng U19,1
+5745328,3134,191807,3088460152,1231808,postmatch_penalty,Storm,Bentsen,AB U17,"AB U19 - B 93 U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gl,Julius Svarre,Christensen,B 93 U19,1
+5746019,3135,191811,3068190041,1199021,postmatch_penalty,Spencer,Juul-Larsen,HIK U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gl,Anton,Kousgaard,Nordsjælland U17,1
+5745877,3135,191811,2741801454,1224645,postmatch_penalty,Felix Bleshøy ,Hald,Kolding IF U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Jeppe,Larsen ,,1
+5743896,1305,191801,2998331438,947131,postmatch_penalty,David,Stojanovic,Silkeborg U17,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Oliver,Vestergaard Henriksen,Randers U19,1
+5744790,1570,191804,2747791780,980688,postmatch_penalty,Kristian  Bloch ,Bøgild,Silkeborg U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5745930,3135,191811,2939635907,1237201,postmatch_penalty,Alfred,Clausen,,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Mikkel,Forsingdal,IF Lyseng U17,1
+5745226,3134,191807,2922046020,766629,penalty,Adam,Choukri,HB Køge U19,"HB Køge U19 - AB U19, 2 - 1",TRUE,TRUE,right_foot,glb,Elias Arif,Helms,AB U19,1
+5745210,3134,191807,2804532765,766866,penalty,Mikkel,Boye,Hobro,"Hobro IK U19 - Næsby U19, 2 - 1",TRUE,TRUE,right_foot,glb,Sixten,Rasmussen,,1
+5743907,1305,191801,3006156248,842144,postmatch_penalty,Christian,Risom,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Liam Johan,Selin,Midtjylland U19,1
+5745885,3135,191811,2754489795,1056285,postmatch_penalty,Mikael,Demiral,Roskilde U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",FALSE,TRUE,left_foot,gr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5745832,3135,191811,2690232118,1056282,penalty,Mathias,Jensby,Roskilde U17,"Næsby U17 - Roskilde U17, 1 - 3",TRUE,TRUE,right_foot,gtr,Nicolaj,Andersen,Næsby U17,1
+5745150,3134,191807,2711681408,1075459,postmatch_penalty,Hugo,Waast,Næsby U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745854,3135,191811,2713148195,1091415,penalty,Marius,Stage,Vejle U17,"IF Lyseng U17 - Roskilde U17, 3 - 2",TRUE,TRUE,right_foot,gbr,Mads Lahn,Berthelsen,Roskilde U19,1
+5745150,3134,191807,2711681435,913664,postmatch_penalty,Joseph Ddamba,Ssendyowa,Amager Academy U19,"Næsby U19 - Amager Academy U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Tobias,Skov,,1
+5744714,1570,191804,2638886728,947132,penalty,Frederik,Ibsen,Silkeborg IF U15,"Randers U17 - Silkeborg U17, 3 - 1",FALSE,TRUE,right_foot,glb,Frederik,B. Andersen,Randers U19,1
+5744853,1570,191804,2985672735,1095264,postmatch_penalty,Oskar,Riise-Jakobsen,Randers U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Esben,Schou,Silkeborg IF U15,1
+5743795,1305,191801,2967681186,798386,postmatch_penalty,Kevin Kofi,Bakke Møller,Silkeborg U17,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744796,1570,191804,2809464037,1029987,postmatch_penalty,Oskar,Jørgensen Lauridsen,Midtjylland U15,"Midtjylland U17 - København U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5744737,1570,191804,2678607407,961769,postmatch_penalty,Mikkel,Larsen,Horsens U17,"Horsens U17 - Vejle U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,William,Damgaard,Vejle U15,1
+5745926,3135,191811,2934560602,1169182,postmatch_penalty,Mads,Hodal,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gr,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5744734,1570,191804,3051561498,769139,penalty,Jonas Skov,Gretlund,Brøndby U17,"Horsens U17 - Brøndby U17, 0 - 6",TRUE,TRUE,right_foot,glb,Emil,Tiedemann Jensen,SønderjyskE U17,1
+5743799,1305,191801,2730482801,769193,postmatch_penalty,Tahir ,Cevher,Brøndby U19,"Vejle U19 - Brøndby U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Kasper,Holm Rod,,1
+5745311,3134,191807,3094001110,769007,postmatch_penalty,Romeo ," Lotus Meyer",B 93 U19,"B 93 U19 - IF Lyseng U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Berthram,Sommer,AGF U19,1
+5745897,3135,191811,2800620418,933775,postmatch_penalty,Holger,Taul Jacobsen,Hvidovre U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gr,Victor,Søgaard Meyer,Næstved U17,1
+5745836,3135,191811,2689980328,981602,postmatch_penalty,Aldin,Cehic,Hobro IK U17,"Hobro IK U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,William,Dysted,Viborg U19,1
+5744901,1570,191804,3075148007,1103136,postmatch_penalty,Kalle,Hansen,,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5743927,1305,191801,3041088869,769277,postmatch_penalty,Oliver,Klang,Nordsjælland U19,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gc,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745202,3134,191807,2781239424,760804,postmatch_penalty,Philip,Flak Petersen,Hobro IK U19,"Helsingør U19 - Hobro IK U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Eliot Azmy,Saaby Guindy,København U19,1
+5745320,3134,191807,3085394707,874722,postmatch_penalty,Emil,Strømlund,Amager Academy U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Hjalthe,Orthmann Jensen,Næstved,1
+5745950,3135,191811,2969295186,1145266,postmatch_penalty,August,Hjortshøj Svane,IF Lyseng U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Jeppe,Pagh,Viborg U17,1
+5743843,1305,191801,2967616179,1302661,postmatch_penalty,Arnold,Adu Boahen,Horsens U19,"Sønderjyske U19 - Horsens U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Noah Q.P,Nguyen,Sønderjyske U17,1
+5743885,1305,191801,3069437448,765985,postmatch_penalty,Anton,Klaster,Vejle U19,"AaB U19 - Vejle U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Villads Hother,Bertelsen,AaB U17,1
+5743822,1305,191801,2761655246,769261,penalty,Malik Razak Engholm,Pimpong,Midtjylland U19,"Vejle U19 - Midtjylland U19, 3 - 2",TRUE,TRUE,right_foot,gr,Gustav,Nørregaard Knudsen,Vejle U19,1
+5743795,1305,191801,2967681390,961453,postmatch_penalty,Elias Warming,Petersen,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5745971,3135,191811,2998526357,1194230,postmatch_penalty,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Nicolaj,Andersen,Næsby U17,1
+5744775,1570,191804,2740750871,882052,postmatch_penalty,Wissam,Maarouf,AGF U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5743870,1305,191801,2955269631,824660,postmatch_penalty,Yusuf,Faghir,Vejle U17,"Silkeborg U19 - Vejle U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5745850,3135,191811,2928354639,961462,penalty,Mads,Niss Johannsen,Kolding IF U17,"Kolding IF U17 - Hvidovre U17, 3 - 1",TRUE,TRUE,right_foot,gt,Luca Engelhardt,Ilsø,Hvidovre U19,1
+5745916,3135,191811,2935915789,1064884,penalty,Johannes,Sandahl,Roskilde U17,"B.93 U17 - Roskilde U17, 4 - 3",FALSE,TRUE,right_foot,gbr,Noell,Persson,B 93 U19,1
+5746029,3135,191811,3084047187,1226496,penalty,Sari,Aras,Roskilde U17,"Roskilde U17 - Hvidovre U17, 4 - 1",TRUE,TRUE,right_foot,gt,Luca Engelhardt,Ilsø,Hvidovre U19,1
+5743896,1305,191801,2998331668,818695,postmatch_penalty,Emil,Pisani Laugesen,Randers U17,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Christian,Risom,Silkeborg U19,1
+5743799,1305,191801,2730482822,846720,postmatch_penalty,Eman,Subasic,Vejle U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,William Emil Krarup,Sonne Schmidt,Brøndby U19,1
+5745883,3135,191811,2751165982,1194161,postmatch_penalty,Mehmet ,Emin Aydar,HIK U17,"Kolding IF U17 - HIK U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Tobias Bloch,Brandt,Kolding IF U17,1
+5745888,3135,191811,2763862250,1230500,postmatch_penalty,Anil,Arici,Hvidovre U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",FALSE,TRUE,left_foot,gl,Carl-Emil,Rething Borglykke,AB U17,1
+5744903,1570,191804,3071462581,911351,postmatch_penalty,Sigurd,Rohan Willadsen,OB U17,"Vejle U17 - OB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Victor,Stroyer,Vejle U17,1
+5743871,1305,191801,3059010609,831736,postmatch_penalty,August Emil,Skyttehave Rytter,Midtjylland U17,"AaB U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Villads Hother,Bertelsen,AaB U17,1
+5745178,3134,191807,2741068837,814369,postmatch_penalty,Arif,Loki,HB Køge U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Malthe,Deppe Mørup,Kolding IF U19,1
+5743856,1305,191801,2967664432,933782,postmatch_penalty,Noah,Gottsche Madsen,København U17,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5745926,3135,191811,2934560606,1068477,postmatch_penalty,Noah,Lakman,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5743884,1305,191801,2975152524,760857,postmatch_penalty,Malthe Emil,Søgaard Hansen,Silkeborg U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744753,1570,191804,2723611229,769078,penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5744839,1570,191804,2966007105,1056562,postmatch_penalty,Tristan Kweku,Danquah Freiesleben,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Daniel,Kannerup,AGF U17,1
+5743895,1305,191801,2986537224,938618,postmatch_penalty,William ,Svendgaard,AGF U17,"AGF U19 - OB U19, 1 - 1 (P)",FALSE,FALSE,right_foot,plb,,,,1
+5743871,1305,191801,3059010601,738382,postmatch_penalty,Daris,Catak,Midtjylland U19,"AaB U19 - Midtjylland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,glb,Villads Hother,Bertelsen,AaB U17,1
+5743856,1305,191801,2967664428,1302835,postmatch_penalty,Mustapha,Nyassi,København U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Noah Q.P,Nguyen,Sønderjyske U17,1
+5745230,3134,191807,2933330231,1227739,postmatch_penalty,Vegard ,Johanssen ,AB U19,"AB U19 - HIK U19, 3 - 3 (P)",FALSE,FALSE,right_foot,otr,,,,1
+5746019,3135,191811,3068189611,1234807,postmatch_penalty,Mads,Lorenzen,SfB-Oure FA U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Frederik,Noer,HIK U17,1
+5743750,1305,191801,2638561304,768989,postmatch_penalty,Sebastian Yabsera,Haaning Christensen,København U17,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Gustav,Nørregaard Knudsen,Vejle U19,1
+5743799,1305,191801,2730482806,1107996,postmatch_penalty,Nicolas,Gammelgaard,,"Vejle U19 - Brøndby U19, 2 - 2 (P)",FALSE,FALSE,right_foot,pbr,,,,1
+5745961,3135,191811,2985609742,1103395,penalty,Villum,Gyrup Stokbro,AB U17,"Viborg U17 - AB U17, 1 - 1",FALSE,TRUE,right_foot,glb,Jeppe,Pagh,Viborg U17,1
+5745926,3135,191811,2934560259,1029592,postmatch_penalty,Malthe,Frederiksen,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745891,3135,191811,2761865551,1132681,postmatch_penalty,Mads Lind ,Hermansen,HB Køge U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Elias Køier,Thorkildsen,København U17,1
+5743805,1305,191801,2733223190,928556,postmatch_penalty,Liam,West,København,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,left_foot,glb,Andreas ,Søndenbroe,Nordsjælland U19,1
+5743750,1305,191801,2638561287,679299,postmatch_penalty,Tobias,Lykkebak,Vejle U19,"Vejle U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Tobias,Breum-Harild,København U19,1
+5745963,3135,191811,3073010819,1101574,postmatch_penalty,Magnus,Hørup Larsen,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Anton Bro,Rasmussen,Hvidovre U17,1
+5743900,1305,191801,3086376526,992546,postmatch_penalty,Sigurour Jokull,Ingvason,Midtjylland U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Noah Q.P,Nguyen,Sønderjyske U17,1
+5745160,3134,191807,2726426808,912302,postmatch_penalty,Gustav Rask,Carlstedt,HIK U17,"Næstved U19 - AB U19, 2 - 2 (P)",FALSE,TRUE,left_foot,gbr,Jonas ,Bolinder,Næstved U17,1
+5743781,1305,191801,2697155255,760867,postmatch_penalty,William,Kirk,Silkeborg U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",FALSE,FALSE,right_foot,ot,,,,1
+5745284,3134,191807,3004662737,769255,postmatch_penalty,Gustav Poul,Steffensen,Kolding IF U19,"Hvidovre U19 - Kolding IF U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Vitus,Wiik Bechmann,Hvidovre U17,1
+5745118,3134,191807,2669166342,766695,postmatch_penalty,Mohamed Yahya,Marraty,IF Lyseng U19,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745273,3134,191807,2994163112,738641,postmatch_penalty,Gustav Ærenlund,Johansen,Helsingør U19,"Næsby U19 - Helsingør U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Frederik Enggaard,Jensen,Helsingør U19,1
+5743795,1305,191801,2967681173,983588,postmatch_penalty,Victor,Dahl,Silkeborg U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gtl,Noah Q.P,Nguyen,Sønderjyske U17,1
+5745971,3135,191811,2998526355,1310142,postmatch_penalty,Victor,Olsen,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gc,Nicolaj,Andersen,Næsby U17,1
+5745119,3134,191807,2671293324,1080011,postmatch_penalty,Maxi,Trajano,Hvidovre U19,"B 93 U19 - Hvidovre U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Christoffer,Kalkar,B 93 U19,1
+5745950,3135,191811,2969295203,1145268,postmatch_penalty,Noah,Toft,IF Lyseng U17,"IF Lyseng U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Jeppe,Pagh,Viborg U17,1
+5744775,1570,191804,2740750867,882053,postmatch_penalty,Noah ,Høeg,AGF U17,"AGF U17 - Vejle U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Victor,Stroyer,Vejle U17,1
+5745299,3134,191807,3047673290,815707,penalty,Noah,Williams,HIK U19,"Helsingør U19 - Viborg U19, 2 - 0",TRUE,TRUE,right_foot,glb,William,Dysted,Viborg U19,1
+5744900,1570,191804,2994823859,976706,postmatch_penalty,Christian,Nielsen,Brøndby U17,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Bertram,Morgenstjærne,Esbjerg U17,1
+5745142,3134,191807,2700236277,942372,postmatch_penalty,Anton Hannibal,Boye,AB U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gtr,Nicolai Dybdal,Thrane,Viborg U19,1
+5745930,3135,191811,2939635916,768984,postmatch_penalty,Anton,Kousgaard,Nordsjælland U17,"SfB-Oure FA U17 - IF Lyseng U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Mikkel,Forsingdal,IF Lyseng U19,1
+5745929,3135,191811,2947829823,1108798,postmatch_penalty,Tristan,Hentze,Viborg U17,"Næsby U17 - Viborg U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gl,Tobias,Skov,,1
+5744844,1570,191804,2988028820,769078,penalty,Viktor,Elias Frisch Bastrup,Midtjylland U17,"Midtjylland U17 - Horsens U17, 7 - 0",TRUE,TRUE,right_foot,gb,Emil,Tiedemann Jensen,SønderjyskE U17,1
+5743761,1305,191801,2648414883,942678,postmatch_penalty,Lukas,Legaard Jorgensen,OB U17,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Bertil Magne,Grønkjær Pedersen,AaB,1
+5745302,3134,191807,3045358469,797450,penalty,Malth Holze,Dethlefsen,Næsby U19,"Næsby U19 - Nykøbing U19, 2 - 0",TRUE,TRUE,right_foot,gl,Valde Damskier,Skov,Nykøbing U19,1
+5745819,3135,191811,2813484047,769159,postmatch_penalty,Willum,Brix Storm,Brøndby U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,William,Capaldi,Helsingør U17,1
+5744728,1570,191804,2701250750,769180,postmatch_penalty,Ishaq,Olalam,København U17,"København U17 - Sønderjyske U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Oliver Kræmer,Jessen,SønderjyskE U17,1
+5745971,3135,191811,2998526353,1227694,postmatch_penalty,Ben Dror,Elbæk,Amager Academy U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Nicolaj,Andersen,Næsby U17,1
+5745926,3135,191811,2934560257,1230197,postmatch_penalty,Carl,Lindstrøm Koue,IF Lyseng U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,left_foot,glb,Tobias,Skov,Næsby U17,1
+5743907,1305,191801,3006156360,769261,penalty,Malik Razak Engholm,Pimpong,Midtjylland U17,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Christian,Risom,Silkeborg U19,1
+5745897,3135,191811,2800620104,1226588,postmatch_penalty,Luka,Kruhøffer,Næstved U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",TRUE,TRUE,left_foot,gtl,Anton Bro,Rasmussen,Hvidovre U17,1
+5746005,3135,191811,3072757592,1226496,penalty,Sari,Aras,Roskilde U17,"Roskilde U17 - Hobro IK U17, 1 - 2",TRUE,TRUE,right_foot,gc,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744753,1570,191804,2723611218,1098842,postmatch_penalty,Malte,Hyldgaard Knudsen,AaB U17,"Midtjylland U17 - AaB U17, 2 - 2 (P)",FALSE,FALSE,right_foot,otl,,,,1
+5745860,3135,191811,2718890185,1103389,penalty,Oscar,Arbøl Andreæ,AB U17,"Roskilde U17 - Viborg U17, 6 - 3",TRUE,TRUE,right_foot,gbr,Mads Lahn,Berthelsen,Roskilde U19,1
+5745178,3134,191807,2741068849,941423,postmatch_penalty,Oliver,Engberg,HB Køge U17,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Malthe,Deppe Mørup,,1
+5745125,3134,191807,2806440101,849682,postmatch_penalty,Anton,Kjærgaard,Kolding IF U19,"Kolding IF U19 - Næstved U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Benjamin,Høier Olsen,Næstved,1
+5745877,3135,191811,2741801551,1109894,postmatch_penalty,Oliver,Fris,HB Køge U17,"HB Køge U17 - Kolding IF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Tobias Bloch,Brandt,Kolding IF U17,1
+5745098,3134,191807,2657391959,927097,postmatch_penalty,Emil,Stig Jensen,HB Køge U17,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Bertram,Elkjær Pihl,AB U19,1
+5744902,1570,191804,3049269633,1051585,postmatch_penalty,Emil,Gylling Andersen,Silkeborg IF U15,"Lyngby U17 - Silkeborg U17, 1 - 1 (P)",FALSE,FALSE,right_foot,obr,,,,1
+5745917,3135,191811,2923000722,1307502,postmatch_penalty,Nevo,Leander Gaziel,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",FALSE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5744839,1570,191804,2966007385,1021645,postmatch_penalty,Johan ,Friis Mortensen,AGF U19,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gc,Elias,Medina Hansen,Brøndby U17,1
+5745157,3134,191807,2713068047,796686,penalty,Jonathan Helsted,Mørkedal,Roskilde U19,"IF Lyseng U19 - Roskilde U19, 1 - 2",FALSE,FALSE,right_foot,ptl,,,,1
+5745120,3134,191807,2667640490,817468,penalty,Mohcin,Belouahi,AB U19,"Næsby U19 - AB U19, 1 - 1",TRUE,TRUE,left_foot,gl,Tobias,Skov,,1
+5743761,1305,191801,2648414866,743525,postmatch_penalty,Vitus,Friis,OB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Bertil Magne,Grønkjær Pedersen,AaB,1
+5745160,3134,191807,2726426815,962800,postmatch_penalty,Engelbert,Owusu,AB U19,"Næstved U19 - AB U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gl,Jonas ,Bolinder,Næstved U17,1
+5745817,3135,191811,2675601395,911320,postmatch_penalty,Oliver,Vingaard Nielsen,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Mads,August Kühnel,AB U17,1
+5745867,3135,191811,2734287699,1103381,postmatch_penalty,Magnus,Keh Kleist Værslev,AB U17,"AB U17 - Roskilde U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Mads Lahn,Berthelsen,Roskilde U19,1
+5743858,1305,191801,2922093669,765988,penalty,Martin Kjær,Kruse,Esbjerg U19,"Esbjerg U19 - Horsens U19, 3 - 1",TRUE,TRUE,right_foot,gbr,Emil,Tiedemann Jensen,SønderjyskE U17,1
+5745134,3134,191807,2693558759,813420,penalty,Magnus,Carstensen,Næsby U19,"Næsby U19 - Roskilde U19, 2 - 3",TRUE,TRUE,left_foot,glb,Calle,Mogensen,Roskilde U19,1
+5743907,1305,191801,3006156392,769261,postmatch_penalty,Malik Razak Engholm,Pimpong,Midtjylland U17,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Christian,Risom,Silkeborg U19,1
+5745161,3134,191807,2769431458,696291,postmatch_penalty,Rasmus,Wengel Lund,HB Køge U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gbr,Nicolai,Schmidt,Hobro IK U19,1
+5745931,3135,191811,2942811290,1103395,penalty,Villum,Gyrup Stokbro,AB U17,"Kolding IF U17 - AB U17, 0 - 3",TRUE,TRUE,right_foot,glb,Luca Merrild,Skovgaard,Kolding IF U17,1
+5746019,3135,191811,3068190045,1128961,postmatch_penalty,Victor,Carl Hesselbjerg Monrad,HIK U17,"HIK U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gr,Anton,Kousgaard,Nordsjælland U17,1
+5745817,3135,191811,2675601546,1056564,postmatch_penalty,Jonas,Vilberg,AB U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Jonas,Salman,,1
+5743826,1305,191801,2771170989,826077,postmatch_penalty,Marius,Møller Kristensen,Silkeborg U17,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Andreas ,Søndenbroe,Nordsjælland U19,1
+5745328,3134,191807,3088459860,748642,postmatch_penalty,Johan,Fagersted Henriksen,,"AB U19 - B 93 U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Elias Arif,Helms,AB U19,1
+5745320,3134,191807,3085395248,1250197,postmatch_penalty,Conrad,Durup,Næstved U19,"Næstved U19 - Amager Academy U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Villads ,Vesterbøg,Amager Academy U17,1
+5745819,3135,191811,2813484049,1109908,postmatch_penalty,Villiam,Krone,HB Køge U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,William,Capaldi,Helsingør U17,1
+5744761,1570,191804,2792137196,1017790,postmatch_penalty,Frederik Edvard,Brink de Fønss,Nordsjælland U17,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Daniel,Kannerup,AGF U17,1
+5743805,1305,191801,2733223089,769280,postmatch_penalty,Tjalfe Holm,Svendsen,Nordsjælland U17,"Nordsjælland U19 - København U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Oscar,Gadeberg-Buur,København U19,1
+5744790,1570,191804,2747791928,769149,penalty,Leutrim,Callaku,Nordsjælland U17,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,left_foot,gr,Matthew,Aidam,Silkeborg U17,1
+5745913,3135,191811,3025622137,1234807,penalty,Mads,Lorenzen,SfB-Oure FA U17,"Næsby U17 - SfB-Oure FA U17, 1 - 1",TRUE,TRUE,left_foot,gc,Tobias,Skov,Næsby U17,1
+5745837,3135,191811,2690280549,1054401,penalty,Alvey Boaz Romasova,Thygesen,B.93 U17,"Nykøbing U17 - B.93 U17, 2 - 6",FALSE,TRUE,right_foot,gbr,Lauge,Månsson,Nykøbing U17,1
+5745917,3135,191811,2923000706,939771,postmatch_penalty,Jakob Hoffmann,Rasmussen,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5743916,1305,191801,3021379134,831769,penalty,Mads ,Søndergaard Nielsen,Randers U19,"Midtjylland U19 - Randers U19, 4 - 2",TRUE,TRUE,right_foot,gl,Liam Johan,Selin,Midtjylland U19,1
+5745819,3135,191811,2813483105,933534,postmatch_penalty,Nikolaj,Hansen,Helsingør U17,"HB Køge U17 - Helsingør U17, 2 - 2 (P)",TRUE,TRUE,right_foot,glb,Jeppe,Larsen ,HB Køge U17,1
+5743884,1305,191801,2975152794,766690,postmatch_penalty,Jeppe,Klemann Pålsson,SønderjyskE U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5744853,1570,191804,2985672739,955970,postmatch_penalty,Andreas,Hvid Johannesen,Randers U17,"Silkeborg U17 - Randers U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gtr,Esben,Schou,Silkeborg IF U15,1
+5743896,1305,191801,2998331674,847885,postmatch_penalty,Gustav,Bøgild Nørøxe,Randers U17,"Silkeborg U19 - Randers U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Christian,Risom,Silkeborg U19,1
+5744733,1570,191804,2659168810,981601,postmatch_penalty,Andreas Terp,Hansen,AaB U17,"AaB U17 - AGF U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Otto Andreas,Neergaard Lyhne,AGF U17,1
+5745817,3135,191811,2675601414,1233250,postmatch_penalty,Johan ,Gram,Næsby U17,"Næsby U17 - AB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Mads,August Kühnel,AB U17,1
+5743900,1305,191801,3086376492,769263,postmatch_penalty,Magne Norn,Kristensen,Midtjylland U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,left_foot,gtl,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744901,1570,191804,3075147993,769149,postmatch_penalty,Leutrim,Callaku,Nordsjælland U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gc,Jesper,Therkelsen,Sønderjyske U17,1
+5745196,3134,191807,2802279832,1060657,penalty,Malthe,Hesselholt,HIK U19,"HIK U19 - Næsby U19, 3 - 4",FALSE,TRUE,right_foot,glb,Sixten,Rasmussen,Næsby U19,1
+5743781,1305,191801,2697154408,847905,postmatch_penalty,Tobias,Lundsgaard Jørgensen,AaB U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,left_foot,glb,Christian,Risom,Silkeborg U19,1
+5744753,1570,191804,2723611234,769285,postmatch_penalty,William,Thomsen,AaB U19,"Midtjylland U17 - AaB U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtl,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5745971,3135,191811,2998526279,1103385,postmatch_penalty,Oliver,Mohr Semrau,Næsby U17,"Amager Academy U17 - Næsby U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5743826,1305,191801,2771170977,701651,postmatch_penalty,Oliver,Aare Vest,Nordsjælland U19,"Silkeborg U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
+5743791,1305,191801,2696181575,1211997,penalty,Jakob,Sigurðsson,Lyngby U19,"Nordsjælland U19 - Lyngby U19, 2 - 1",TRUE,TRUE,right_foot,gbr,Andreas ,Søndenbroe,Nordsjælland U19,1
+5743907,1305,191801,3006156259,760857,postmatch_penalty,Malthe Emil,Søgaard Hansen,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gl,Liam Johan,Selin,Midtjylland U19,1
+5744796,1570,191804,2809463780,962715,postmatch_penalty,Jamil Koch,El Rrami,København U17,"Midtjylland U17 - København U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Jonas Lyhne,Holmgaard,Midtjylland U17,1
+5744880,1570,191804,3021140128,945986,penalty,Emil,Kajevic,Esbjerg U17,"Vejle U17 - Esbjerg U17, 4 - 1",TRUE,TRUE,right_foot,gbr,William,Damgaard,Vejle U15,1
+5745098,3134,191807,2657391945,1227739,postmatch_penalty,Vegard ,Johanssen ,AB U19,"AB U19 - HB Køge U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Alexander ,Bejer-Andersen,HB Køge U17,1
+5745161,3134,191807,2769431259,766605,postmatch_penalty,Andreas,Grand Riiser,Randers U19,"HB Køge U19 - Hobro IK U19, 1 - 1 (P)",FALSE,TRUE,right_foot,glb,Emil,Niemann,HB Køge U19,1
+5743884,1305,191801,2975152790,962525,postmatch_penalty,Albert,Rrahmani,SønderjyskE U19,"Silkeborg U19 - Sønderjyske U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gt,Christian,Risom,Silkeborg U19,1
+5743761,1305,191801,2648415093,766527,postmatch_penalty,Mads,Samson Feierskov Andreasen,AaB U19,"AaB U19 - OB U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Marcus,Eskildsen,OB U19,1
+5745118,3134,191807,2669166338,972047,postmatch_penalty,Victor,Elgaard,IF Lyseng U17,"Hobro IK U19 - IF Lyseng U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Viktor,Bror Kristensen,Hobro IK U17,1
+5745811,3135,191811,2661018853,1064885,penalty,Pavle,Gusak,B.93 U17,"Amager Academy U17 - B.93 U17, 3 - 7",TRUE,TRUE,right_foot,gc,Ludvig Frydendal,Fever Eriksen,Amager Academy U17,1
+5744720,1570,191804,2717803444,1271301,postmatch_penalty,Pelle,Luxhøi,Vejle U17,"Vejle U17 - København U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Villads,Bille Morrah,København U17,1
+5743795,1305,191801,2967680403,962525,postmatch_penalty,Albert,Rrahmani,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5745142,3134,191807,2700236272,969360,postmatch_penalty,Oliver Wesley,Knudsen,AB U19,"AB U19 - Viborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gl,Nicolai Dybdal,Thrane,Viborg U19,1
+5745888,3135,191811,2763862288,1103380,postmatch_penalty,Lucas,Ringheim,AB U17,"Hvidovre U17 - AB U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Anton Bro,Rasmussen,Hvidovre U17,1
+5744807,1570,191804,2913737430,1099491,penalty,Oskar,Borko,Midtjylland U19,"Midtjylland U17 - Esbjerg U17, 3 - 1",TRUE,TRUE,left_foot,gbr,Bertram,Morgenstjærne,Esbjerg U17,1
+5745917,3135,191811,2923000714,1103378,postmatch_penalty,Dines,Konrad,AB U17,"HB Køge U17 - AB U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Jeppe,Larsen ,HB Køge U17,1
+5745867,3135,191811,2734287538,1056282,postmatch_penalty,Mathias,Jensby,Brønshøj,"AB U17 - Roskilde U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gbr,Carl-Emil,Rething Borglykke,AB U17,1
+5745897,3135,191811,2800620056,1103658,postmatch_penalty,Jonas,Yadgar,Næstved U17,"Næstved U17 - Hvidovre U17, 1 - 1 (P)",FALSE,FALSE,right_foot,pt,,,,1
+5743799,1305,191801,2730482812,769132,postmatch_penalty,Willads Emil,Tuxen,Brøndby U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gbr,Kasper,Holm Rod,Vejle U19,1
+5745179,3134,191807,2742510805,962800,penalty,Engelbert,Owusu,AB U19,"Helsingør U19 - AB U19, 2 - 1",TRUE,TRUE,left_foot,glb,Eliot Azmy,Saaby Guindy,København U19,1
+5744839,1570,191804,2966007082,769139,postmatch_penalty,Jonas Skov,Gretlund,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",FALSE,TRUE,right_foot,gl,Daniel,Kannerup,AGF U17,1
+5743907,1305,191801,3006155411,751640,penalty,Sebastian,Christoffersen,Silkeborg U19,"Silkeborg U19 - Midtjylland U19, 2 - 2 (P)",FALSE,TRUE,right_foot,gb,Liam Johan,Selin,Midtjylland U19,1
+5745963,3135,191811,3073010813,1077523,postmatch_penalty,Noah,Aagaard,HIK U17,"HIK U17 - Hvidovre U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Anton Bro,Rasmussen,Hvidovre U17,1
+5743795,1305,191801,2967680430,766690,postmatch_penalty,Jeppe,Klemann Pålsson,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gc,Christian,Risom,Silkeborg U19,1
+5745891,3135,191811,2761865328,1234811,postmatch_penalty,Tobias,Bergkvist,SfB-Oure FA U17,"HB Køge U17 - SfB-Oure FA U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gc,Bertram,Løwe Larsen,HB Køge U17,1
+5745885,3135,191811,2754489790,1056282,postmatch_penalty,Mathias,Jensby,Roskilde U17,"Hobro IK U17 - Roskilde U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Lasse Zimmermann,Petersen,Hobro IK U17,1
+5744789,1570,191804,2764562190,939775,penalty,Oscar,Wind,Lyngby U17,"Horsens U17 - Lyngby U17, 1 - 6",TRUE,TRUE,right_foot,gb,Alfred ,Kragh,Horsens U15,1
+5745926,3135,191811,2934560600,911344,postmatch_penalty,Malthe,Bramsen,Næsby U17,"IF Lyseng U17 - Næsby U17, 3 - 3 (P)",TRUE,TRUE,right_foot,gc,Andreas Sejr,Staghøj,IF Lyseng U17,1
+5744892,1570,191804,3079093680,945989,penalty,Yaser,Abbas,Midtjylland U17,"OB U17 - Horsens U17, 6 - 3",TRUE,TRUE,left_foot,gr,Fisker,Emil,OB U15,1
+5743856,1305,191801,2967664267,766696,postmatch_penalty,Nicolai,Derlich Biel,SønderjyskE U19,"Sønderjyske U19 - København U19, 3 - 3 (P)",TRUE,TRUE,left_foot,gb,Gustav ,Fritz Wybrandt Rasmussen,København U19,1
+5743809,1305,191801,2967656865,766698,penalty,Sebastian,Larsen,SønderjyskE U19,"Sønderjyske U19 - Midtjylland U19, 1 - 5",TRUE,TRUE,right_foot,glb,Silas Sebastian Fig,Novrup,Midtjylland U19,1
+5743809,1305,191801,2967656840,678062,penalty,Sebastian,Lodberg Oppenhagen,Midtjylland U19,"Sønderjyske U19 - Midtjylland U19, 1 - 5",FALSE,FALSE,left_foot,obr,,,,1
+5743795,1305,191801,2967680389,705904,postmatch_penalty,Lasse,Mandal Andersen,SønderjyskE U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",TRUE,TRUE,right_foot,gbr,Christian,Risom,Silkeborg U19,1
+5743781,1305,191801,2697155257,760859,postmatch_penalty,Mikkel,Øxenberg,Silkeborg U19,"AaB U19 - Silkeborg U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Villads Hother,Bertelsen,AaB U17,1
+5745178,3134,191807,2741069152,745650,postmatch_penalty,Omar Sheik,Ali,Kolding IF U19,"HB Køge U19 - Kolding IF U19, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Emil,Niemann,HB Køge U19,1
+5743900,1305,191801,3086376650,768980,postmatch_penalty,Frederik Bæk,Vestergaard,AaB U17,"Midtjylland U19 - Sønderjyske U19, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744790,1570,191804,2747791786,947120,postmatch_penalty,Malthe,Madsen,Silkeborg IF U15,"Silkeborg U17 - Nordsjælland U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5743795,1305,191801,2967680410,944194,postmatch_penalty,David Gideon,Boateng Wurst,Helsingør U19,"Sønderjyske U19 - Silkeborg U19, 3 - 3 (P)",FALSE,TRUE,right_foot,gb,Christian,Risom,Silkeborg U19,1
+5744839,1570,191804,2966007139,1056570,postmatch_penalty,Alfred Sækmose,Lykkegaard,Brøndby U17,"Brøndby U17 - AGF U17, 2 - 2 (P)",TRUE,TRUE,right_foot,gb,Daniel,Kannerup,AGF U17,1
+5744901,1570,191804,3075148001,1056466,postmatch_penalty,Patrick,Alves Puggard,Nordsjælland U17,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,glb,Jesper,Therkelsen,Sønderjyske U17,1
+5743927,1305,191801,3041088865,769274,postmatch_penalty,Magnus,Rasmussen,Nordsjælland U17,"Sønderjyske U19 - Nordsjælland U19, 2 - 2 (P)",TRUE,TRUE,left_foot,gb,Noah Q.P,Nguyen,SønderjyskE U17,1
+5744761,1570,191804,2792137358,1021645,postmatch_penalty,Johan ,Friis Mortensen,AGF U19,"AGF U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gr,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5744900,1570,191804,2994824061,1224798,postmatch_penalty,Jákup,Poulsen,Esbjerg U17,"Brøndby U17 - Esbjerg U17, 3 - 3 (P)",FALSE,TRUE,left_foot,gr,Oliver Leon,Koch Wall,Brøndby IF U15,1
+5744901,1570,191804,3075148003,1186196,postmatch_penalty,Dennis Anghel ,Olaru,SønderjyskE U19,"Sønderjyske U17 - Nordsjælland U17, 1 - 1 (P)",TRUE,TRUE,right_foot,gb,Frederik Edvard,Brink de Fønss,Nordsjælland U17,1
+5743799,1305,191801,2730482805,766630,postmatch_penalty,Viggo,Poulsen,Brøndby U17,"Vejle U19 - Brøndby U19, 2 - 2 (P)",TRUE,TRUE,right_foot,gtr,Kasper,Holm Rod,,1
+5743914,1305,191801,3020557735,761130,penalty,Oscar Karimi,Mandrup,Horsens U19,"Horsens U19 - Silkeborg U19, 4 - 3",TRUE,TRUE,right_foot,gl,Christian,Risom,Silkeborg U19,1
